@@ -3,7 +3,7 @@
 @author:XuMing(xuming624@qq.com)
 @description: 
 """
-from docarray import Document, DocumentArray
+from jina import Document, DocumentArray
 from jina import Client
 import sys
 import time

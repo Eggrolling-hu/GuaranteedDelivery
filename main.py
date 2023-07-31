@@ -12,7 +12,7 @@ if __name__ == "__main__":
 
     # print(respond)
 
-    llm = JinaLLM(host="0.0.0.0", port=50002)
+    llm = JinaLLM(host="127.0.0.1", port=50002)
 
     # openai_api_key = "yourkey"
 

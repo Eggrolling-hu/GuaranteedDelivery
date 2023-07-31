@@ -11,8 +11,7 @@ client = weaviate.Client(
     url="http://localhost:8080",  # Replace with your endpoint
     auth_client_secret=weaviate.AuthApiKey(api_key="shadowmotion-secret-key"))
 
-
-embedding = JinaEmbeddings()
+embedding = JinaEmbeddings("127.0.0.1")
 db = Weaviate(client=client, embedding=embedding,
               index_name="LangChain", text_key="text", by_text=False)
 

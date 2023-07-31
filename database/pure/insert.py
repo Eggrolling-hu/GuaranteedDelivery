@@ -1,9 +1,8 @@
-import sys  # noqa: E501
-sys.path.append('/home/shadowmotion/Documents/code/demo/HRSSC')  # noqa: E501
-
+# import sys  # noqa: E501
+# sys.path.append('/home/shadowmotion/Documents/code/demo/HRSSC')  # noqa: E501
 
 from langchain.vectorstores import Weaviate
-from core.data import JinaEmbeddings
+from ...core.data import JinaEmbeddings
 import weaviate
 
 from raw.QA import read_qa_file
@@ -19,7 +18,7 @@ db = Weaviate(client=client, embedding=embedding,
 
 # print(read_qa_file("raw/QA.txt"))
 
-db.add_texts(texts=read_qa_file("raw/QA.txt"))
+db.add_texts(texts=read_qa_file("./raw/QA.txt"))
 
 # db.add_documents(
 #     [Document(page_content="1", metadata={"Q": "1+1=", "A": "2"})]

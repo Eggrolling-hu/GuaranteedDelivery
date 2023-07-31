@@ -17,7 +17,7 @@ class Text2vecEncoder(Executor):
             base_tokenizer_model: Optional[str] = None,
             pooling_strategy: str = 'mean',
             layer_index: int = -1,
-            max_length: Optional[int] = 128,
+            max_length: Optional[int] = 256,
             embedding_fn_name: str = '__call__',
             device: str = None,
             traversal_paths: str = '@r',
@@ -139,6 +139,7 @@ class Text2vecEncoder(Executor):
 
 if __name__ == "__main__":
     model_name = '/media/shadowmotion/0CD113590CD11359/code/llm/embeding/text2vec-base-chinese-paraphrase'
+    model_name = 'D:\\code\\llm\\embeding\\text2vec-base-chinese-paraphrase'
     port = 50001
 
     f = Flow(port=port).add(
