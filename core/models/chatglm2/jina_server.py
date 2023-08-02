@@ -113,8 +113,8 @@ class ChatGLM2(Executor):
             prompt = doc.text
             history = doc.tags.get('history', [])
             max_length = doc.tags.get('max_length', 8192)
-            top_p = doc.tags.get('top_p', 0.8)
-            temperature = doc.tags.get('temperature', 0.1)
+            top_p = doc.tags.get('top_p', 0.95)
+            temperature = doc.tags.get('temperature', 0.01)
             if history:
                 history = json.loads(doc.tags['history'])
             else:
