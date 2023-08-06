@@ -75,18 +75,29 @@ if __name__ == "__main__":
     with open("../../data/chatglm_llm_fintech_raw_dataset/uuid.json", "r", encoding='utf-8') as f:
         uuid_dict = json.load(f)
 
-    n = 3
+    n = 30000
+    skip = 0
 
     TXT_DIRECTORY = "../../data/chatglm_llm_fintech_raw_dataset/alldata"
     file_names = glob.glob(TXT_DIRECTORY + '/*')
     for i, file_name in enumerate(file_names):
-        insert_txt(file_name, uuid_dict)
+        print(f"No.{i} insert_txt")
+        try:
+            insert_txt(file_name, uuid_dict)
+        except:
+            print(f"error: {file_name}")
         if i >= n - 1:
             break
 
-    TAB_DIRECTORY = "../../data/chatglm_llm_fintech_raw_dataset/alltable"
-    file_names = glob.glob(TAB_DIRECTORY + '/*.cal')
-    for i, file_name in enumerate(file_names):
-        insert_table(file_name, uuid_dict)
-        if i >= n - 1:
-            break
+    # TAB_DIRECTORY = "../../data/chatglm_llm_fintech_raw_dataset/alltable"
+    # file_names = glob.glob(TAB_DIRECTORY + '/*.cal')
+    # for i, file_name in enumerate(file_names):
+    #     if i < skip:
+    #         continue
+    #     print(f"No.{i} insert_tab")
+    #     try:
+    #         insert_table(file_name, uuid_dict)
+    #     except:
+    #         print(f"error: {file_name}")
+    #     if i >= n - 1:
+    #         break

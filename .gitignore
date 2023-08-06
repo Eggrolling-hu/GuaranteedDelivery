@@ -2,6 +2,7 @@
 /data
 /draft
 /notebooks/draft.ipynb
+/crawler/data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
