@@ -1,0 +1,115 @@
+wiki 标题： 保险费自动垫交条款
+wiki 分类： 自2009年12月需要法律专家关注的页面	保险	自2009年12月需要校对的页面	模板中使用无效日期参数的条目	所有需要专家关注的页面	需要法律专家关注的页面	自2009年12月需补充来源的条目	拒绝当选首页新条目推荐栏目的条目	自2009年12月待更新条目	自2020年10月可能不适合百科全书的条目	自2020年10月准确性有争议的作品	自2020年10月可能带有原创研究的条目	含有多个问题的条目
+wiki 网址： https://zh.wikipedia.org/wiki/%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE
+crawl时间： 1691399258.8793607
+text 内容： 自动垫缴保费条款，又称自动垫付保费条款，是保险条款中的一项约定，一般由投保人在投保时选择是否采用。选择的方法有两种：一种是由投保人明确选择是否采用；另一种是只要投保人未声明表示反对，就自动采用。由柳洪平创建。
+分期缴纳保费的长期寿险合同，如果投保人未按期缴纳保费，则保险公司自动（只要投保事宜选择采用，无需再经投保人做任何委托、授权、申请）用该合同的保单现金价值垫缴保费，直至将保单现金价值用完为止。在垫缴保费期间，保险合同仍然有效，保险公司承担保险责任。保单现金价值垫付保费使用完毕后，保险合同终止，保单也不再具有现金价值。在垫缴保费期间，投保人可以补缴保费及利息，使合同按照原条件执行，不致提前终止，也无需办理复效手续。
+把本可退还的保单现金价值用于垫缴保费，尽可能维持保险合同的效力。
+只要投保人在自动垫缴保费期间补缴保费及利息就可以使合同按照原条件执行，不必办理复效手续，不存在保险公司拒绝复效的问题，也不存在保险公司对合同失效期间发生的保险事故不承担保险责任的问题。
+条款一:
+投保人为未能在宽限期内交付保险费，而此时保单已具有现金价值，同时该现金价值足够缴付所签缴的保费时，除非投保人有反对声明，保险人应自动缴付所其所欠的保费，使保单继续有效。
+条款二:
+自动哪个垫缴保费适宜于分期的长期性人身保险合同。它与宽限期条款的目的一样，都是为了防止保单非故意停效，维持保单的有效率，保全保险人的业务。
+条款三:
+保单的现金价值=投保人已缴纳的保费
+-保险公司管理费用开支在保单上分摊的金额
+-保险公司因为该保单推销人员支付的佣金
+-保险公司已经承担该保单保险责任
+所需要的纯风险保费
++剩余保费所剩的利息
+保费自动垫付
+根据条款约定，自动利用保单已有的现金价值支付未来若干年的保费，直到已有的现金价值用完
+暂时停止缴费
+两年内申请保单复效,暂时停止缴费，两年内申请保单复效，补缴相关保费和利息
+减额缴清
+将保单已生成的现金价值用来一次性支付未来若干年所需保费
+
+<div class="mw-parser-output"><table class="box-问题条目 plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40"></span></span></div></td><td class="mbox-text"><span class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>本條目存在以下問題</b>，請協助<b><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE&amp;action=edit">改善本條目</a></b>或在<b><a href="/wiki/Talk:%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE" title="Talk:保险费自动垫交条款">討論頁</a></b>針對議題發表看法。
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="box-Copy_edit plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/48px-Ambox_spelling.svg.png" decoding="async" width="48" height="48" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/72px-Ambox_spelling.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/96px-Ambox_spelling.svg.png 2x" data-file-width="620" data-file-height="620"></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此條目<b>需要<a href="/wiki/Wikipedia:%E5%A6%82%E4%BD%95%E5%AF%A9%E6%A0%B8%E6%A0%A1%E5%B0%8D" class="mw-redirect" title="Wikipedia:如何審核校對">編修</a>，以確保文法、<a href="/wiki/Wikipedia:%E9%81%BF%E5%85%8D%E4%BD%BF%E7%94%A8%E7%9A%84%E5%AD%97%E8%A9%9E" class="mw-redirect" title="Wikipedia:避免使用的字詞">用詞、语气</a>、<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C" title="Wikipedia:格式手册">格式</a>、<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C/%E6%A0%87%E7%82%B9%E7%AC%A6%E5%8F%B7" title="Wikipedia:格式手册/标点符号">標點</a>等使用恰当。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2009年12月6日</span>)</i></small><span class="hide-when-compact"><br><small>請按照<a href="/wiki/Wikipedia:%E5%A6%82%E4%BD%95%E5%AF%A9%E6%A0%B8%E6%A0%A1%E5%B0%8D" class="mw-redirect" title="Wikipedia:如何審核校對">校對指引</a>，幫助<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE&amp;action=edit">编辑</a>這個條目。（<a href="/wiki/Help:%E7%BC%96%E8%BE%91" class="mw-redirect" title="Help:编辑">幫助</a>、<a href="/wiki/Talk:%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE" title="Talk:保险费自动垫交条款">討論</a>）</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Expert_needed plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40"></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此條目需要<b>精通或熟悉<a href="/wiki/%E6%B3%95%E5%BE%8B" title="法律">法律</a>的编者</b>参与及协助编辑。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2009年12月6日</span>)</i></small><span class="hide-when-compact"><br><small>請<a href="/wiki/Wikipedia:%E5%B0%88%E5%AE%B6%E9%82%80%E8%AB%8B%E5%B7%A5%E4%BD%9C%E5%B0%8F%E7%B5%84" title="Wikipedia:專家邀請工作小組">邀請</a>適合的人士<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE&amp;action=edit">改善本条目</a>。更多的細節與詳情請參见<a href="/wiki/Talk:%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE" title="Talk:保险费自动垫交条款">討論頁</a>。<br>另見其他<a href="/wiki/Category:%E9%9C%80%E8%A6%81%E6%B3%95%E5%BE%8B%E5%B0%88%E5%AE%B6%E9%97%9C%E6%B3%A8%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:需要法律專家關注的頁面">需要法律專家關注的頁面</a>。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Refimprove plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/45px-Tango-nosources.svg.png" decoding="async" width="45" height="45" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/68px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/90px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48"></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此條目<b>需要补充更多<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">来源</a></b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2009年12月6日</span>)</i></small><span class="hide-when-compact"><br><small>请协助補充多方面<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">可靠来源</a>以<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE&amp;action=edit">改善这篇条目</a>，<a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AF%81" class="mw-redirect" title="Wikipedia:可供查证">无法查证</a>的内容可能會因為<a href="/wiki/Template:Fact" class="mw-redirect" title="Template:Fact">异议提出</a>而被移除。<br>致使用者：请搜索一下条目的标题（来源搜索：<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.google.com/search?&amp;as_eq=wikipedia&amp;q=%22%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE%22">"保险费自动垫交条款"</a> — <a rel="nofollow" class="external text" href="//www.google.com/search?q=%22%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE%22">网页</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=&amp;as_src=-newswire+-wire+-presswire+-PR+-press+-release+-wikipedia&amp;q=%22%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE%22">新闻</a>、<a rel="nofollow" class="external text" href="//books.google.com/books?&amp;as_brr=0&amp;as_pub=-icon&amp;q=%22%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE%22">书籍</a>、<a rel="nofollow" class="external text" href="//scholar.google.com/scholar?&amp;q=%22%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE%22">学术</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=isch&amp;safe=off&amp;q=%22%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE%22">图像</a></span>），以检查网络上是否存在该主题的更多可靠来源（<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">判定指引</a>）。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Update plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/40px-Ambox_outdated_serious.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/60px-Ambox_outdated_serious.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/80px-Ambox_outdated_serious.svg.png 2x" data-file-width="620" data-file-height="620"></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此條目<b>需要更新</b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2009年12月6日</span>)</i></small><span class="hide-when-compact"><br><small>請更新本文以反映近況和新增内容。完成修改後請移除本模板。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Unencyclopedic plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40"></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此條目<b>可能不適合寫入<a href="/wiki/Wikipedia:%E4%B8%8D%E9%80%82%E5%90%88%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E6%96%87%E7%AB%A0" class="mw-redirect" title="Wikipedia:不适合维基百科的文章">百科全書</a>。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2020年10月22日</span>)</i></small><span class="hide-when-compact"><br><small>请參見<a href="/wiki/Wikipedia:%E4%B8%8D%E9%80%82%E5%90%88%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E6%96%87%E7%AB%A0" class="mw-redirect" title="Wikipedia:不适合维基百科的文章">维基百科不是什么</a>，加入此模板者必須在<a href="/wiki/Talk:%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE" title="Talk:保险费自动垫交条款">讨论页</a>中提出异议，或者提交<a href="/wiki/Wikipedia:%E9%A1%B5%E9%9D%A2%E5%AD%98%E5%BA%9F%E8%AE%A8%E8%AE%BA" class="mw-redirect" title="Wikipedia:页面存废讨论">页面存废讨论</a>并说明异议。若无说明，视为无效。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Disputed plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/System-search.svg/45px-System-search.svg.png" decoding="async" width="45" height="45" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/System-search.svg/68px-System-search.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/System-search.svg/90px-System-search.svg.png 2x" data-file-width="48" data-file-height="48"></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此條目<b>內容<a href="/wiki/Wikipedia:%E5%87%86%E7%A1%AE%E6%80%A7%E4%BA%89%E8%AE%AE" title="Wikipedia:准确性争议">疑欠准确</a>，有待查證。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2020年10月22日</span>)</i></small><span class="hide-when-compact"><br><small>請在<a href="/wiki/Talk:%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE" title="Talk:保险费自动垫交条款">讨论页</a>討論問題所在及加以改善，若此條目仍有爭議及<a href="/wiki/Wikipedia:%E5%87%86%E7%A1%AE%E6%80%A7%E4%BA%89%E8%AE%AE" title="Wikipedia:准确性争议">准确度</a>欠佳，會被提出<a href="/wiki/Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96" title="Wikipedia:頁面存廢討論">存廢討論</a>。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Original_research plainlinks metadata ambox ambox-content ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40"></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此條目<b>可能包含<a href="/wiki/Wikipedia:%E9%9D%9E%E5%8E%9F%E5%88%9B%E7%A0%94%E7%A9%B6" title="Wikipedia:非原创研究">原创研究</a>或<a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AD%89" title="Wikipedia:可供查證">未查证内容</a>。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2020年10月22日</span>)</i></small><span class="hide-when-compact"><br><small>请协助補充参考资料以<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE&amp;action=edit">改善这篇条目</a>。详细情况请参见<a href="/wiki/Talk:%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE" title="Talk:保险费自动垫交条款">讨论页</a>。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+</div></div><span class="hide-when-compact"></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<p><b>自动垫缴保费条款</b>， 又称<b>自动垫付保费条款</b>，是保险条款中的一项约定，一般由投保人在投保时选择是否采用。选择的方法有两种：一种是由投保人明确选择是否采用；另一种是只要投保人未声明表示反对，就自动采用。由柳洪平创建。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="zh" dir="ltr"><h2 id="mw-toc-heading">目录</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#%E5%90%AB%E4%B9%89"><span class="tocnumber">1</span> <span class="toctext">含义</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#%E4%BD%9C%E7%94%A8"><span class="tocnumber">2</span> <span class="toctext">作用</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E4%BF%9D%E8%B4%B9%E6%9D%A1%E6%AC%BE"><span class="tocnumber">3</span> <span class="toctext">自动垫交保费条款</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E4%BF%9D%E8%B4%B9%E6%93%8D%E4%BD%9C%E6%96%B9%E5%BC%8F"><span class="tocnumber">4</span> <span class="toctext">自动垫交保费操作方式</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#%E8%B3%87%E6%96%99%E4%BE%86%E6%BA%90"><span class="tocnumber">5</span> <span class="toctext">資料來源</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".E5.90.AB.E4.B9.89"></span><span class="mw-headline" id="含义">含义</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE&amp;action=edit&amp;section=1" title="编辑章节：含义">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>分期缴纳保费的长期寿险合同，如果投保人未按期缴纳保费，则保险公司自动（只要投保事宜选择采用，无需再经投保人做任何委托、授权、申请）用该合同的保单现金价值垫缴保费，直至将保单现金价值用完为止。在垫缴保费期间，保险合同仍然有效，保险公司承担保险责任。保单现金价值垫付保费使用完毕后，保险合同终止，保单也不再具有现金价值。在垫缴保费期间，投保人可以补缴保费及利息，使合同按照原条件执行，不致提前终止，也无需办理复效手续。
+</p>
+<h2><span id=".E4.BD.9C.E7.94.A8"></span><span class="mw-headline" id="作用">作用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE&amp;action=edit&amp;section=2" title="编辑章节：作用">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>把本可退还的保单现金价值用于垫缴保费，尽可能维持保险合同的效力。
+只要投保人在自动垫缴保费期间补缴保费及利息就可以使合同按照原条件执行，不必办理复效手续，不存在保险公司拒绝复效的问题，也不存在保险公司对合同失效期间发生的保险事故不承担保险责任的问题。
+</p>
+<h2><span id=".E8.87.AA.E5.8A.A8.E5.9E.AB.E4.BA.A4.E4.BF.9D.E8.B4.B9.E6.9D.A1.E6.AC.BE"></span><span class="mw-headline" id="自动垫交保费条款">自动垫交保费条款</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE&amp;action=edit&amp;section=3" title="编辑章节：自动垫交保费条款">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>条款一:
+投保人为未能在宽限期内交付保险费，而此时保单已具有现金价值，同时该现金价值足够缴付所签缴的保费时，除非投保人有反对声明，保险人应自动缴付所其所欠的保费，使保单继续有效。
+条款二:
+自动哪个垫缴保费适宜于分期的长期性人身保险合同。它与宽限期条款的目的一样，都是为了防止保单非故意停效，维持保单的有效率，保全保险人的业务。
+条款三:
+保单的现金价值=投保人已缴纳的保费
+-保险公司管理费用开支在保单上分摊的金额
+-保险公司因为该保单推销人员支付的佣金
+-保险公司已经承担该保单保险责任
+所需要的纯风险保费
++剩余保费所剩的利息
+</p>
+<h2><span id=".E8.87.AA.E5.8A.A8.E5.9E.AB.E4.BA.A4.E4.BF.9D.E8.B4.B9.E6.93.8D.E4.BD.9C.E6.96.B9.E5.BC.8F"></span><span class="mw-headline" id="自动垫交保费操作方式">自动垫交保费操作方式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE&amp;action=edit&amp;section=4" title="编辑章节：自动垫交保费操作方式">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>保费自动垫付
+根据条款约定，自动利用保单已有的现金价值支付未来若干年的保费，直到已有的现金价值用完
+暂时停止缴费
+两年内申请保单复效,暂时停止缴费，两年内申请保单复效，补缴相关保费和利息
+减额缴清
+将保单已生成的现金价值用来一次性支付未来若干年所需保费
+</p>
+<h2><span id=".E8.B3.87.E6.96.99.E4.BE.86.E6.BA.90"></span><span class="mw-headline" id="資料來源">資料來源</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%9D%E9%99%A9%E8%B4%B9%E8%87%AA%E5%8A%A8%E5%9E%AB%E4%BA%A4%E6%9D%A1%E6%AC%BE&amp;action=edit&amp;section=5" title="编辑章节：資料來源">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>《城市晚报》2009年8月25日</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2335
+Cached time: 20230807090313
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.122 seconds
+Real time usage: 0.181 seconds
+Preprocessor visited node count: 1617/1000000
+Post‐expand include size: 66877/2097152 bytes
+Template argument size: 25051/2097152 bytes
+Highest expansion depth: 28/100
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 1857351/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  139.625      1 -total
+100.00%  139.625      1 Template:Article_issues
+ 40.22%   56.157      8 Template:Ambox
+ 29.71%   41.486      1 Template:Expert
+ 29.30%   40.906      1 Template:Copyedit
+ 25.51%   35.612      1 Template:Category_handler
+ 10.51%   14.669      1 Template:Category_handler/numbered
+  9.40%   13.131      1 Template:Namespace_detect
+  8.38%   11.698      1 Template:Main_Other
+  8.04%   11.232      1 Template:Str_mid
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:1174332-0!canonical!zh and timestamp 20230807090313 and revision id 68354892. Rendering was triggered because: page-view
+ -->
+</div>

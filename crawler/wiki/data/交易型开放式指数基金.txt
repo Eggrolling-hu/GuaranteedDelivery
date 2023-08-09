@@ -1,0 +1,364 @@
+wiki 标题： 交易型开放式指数基金
+wiki 分类： 香港交易所上市公司	金融工程学	交易所交易产品	股市	基金	期货	金融创新	自2019年10月带有失效链接的条目	条目有永久失效的外部链接	含有网址格式错误的引用的页面	自2022年12月需补充来源的条目	拒绝当选首页新条目推荐栏目的条目	含有英语的条目	使用ISBN魔术链接的页面
+wiki 网址： https://zh.wikipedia.org/wiki/%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91
+crawl时间： 1691399264.5890157
+text 内容： 交易型开放式指数基金[1]（英语：exchange-tradedfunds，缩写：ETF），或称交易所交易基金，是一种在证券交易所交易，提供投资人参与指数表现的指数基金。ETF将指数证券化，投资人不以传统方式直接进行一篮子证券之投资，而是透过持有表彰指数标的证券权益的受益凭证来间接投资。ETF的发行机构会将一篮子可追踪的指数中的股票投资组合，委托一受托机构托管，并以此为实物担保，分割成许多单价较低之投资单位（即ETF），让投资人购买，并在集中市场挂牌交易。ETF发行后，投资人可再向发行机构申请创造或赎回ETF，创造ETF时投资人须将与标的指数相同之一篮子股票与等值之股利存入受托机构，再由机构发行相对应数量之ETF予投资人。赎回ETF之过程，投资人可将持有之ETF转换为标的指数之成分股票[2]。只有台湾另外翻译成指数股票型基金[3]。
+ETF基金以持有与指数相同之证券为主，分割成众多单价较低之投资单位，进而发行受益凭证[4]。ETF商品将指数的价值由传统的证券市场涨跌指标，转变成具有流动性的资本证券，指数成分股票的管理由专业机构来进行，指数变动的损益直接反映在凭证价值的涨跌中。因此，只会因为连动指数成分股内容及权重改变而调整投资组合之内容或比重以符合「被动式管理」之目的[5]。
+「被动式管理」是指没有基金经理主动选择成分股和控制持股比例的管理方式，成分股的选择和比重由追踪的指数决定。因为没有基金经理的主动管理，基金成本亦会比较低。
+投资者可以通过两种方式购买ETF：投资者可以用ETF基金相同品种及比例构成的股票或其他金融证券（具体由ETF发行公司规定）向基金公司申购ETF基金单位（少量ETF基金也可用现金申购ETF，同开放式共同基金）；也可以在证券市场上直接从其他投资者那里购买（同封闭式共同基金），购买的价格由买卖双方共同决定。通过申购赎回价与证券市场内市价的可套利机制，ETF市价可以贴近净值。
+在台湾，投资人若想直接与基金公司申购ETF，则初级市场最小交易单位为500张以上、并以净值申购（投资人可在各ETF的申购／赎回资讯中找到门槛），因此若ETF次级市场存在折溢价，通常大户可透过初级市场来套利，直到股价回到净值。
+大多数ETF的指数成分是股票，但基于固定收益证券、债券、商品和货币的ETF也在发展中。对于投资者来说，ETF的交易费用和管理费用平均较低廉，持股组合比较稳定，风险往往比较分散，而且流动性很高，单笔投资便可获得多元化投资效果，节省大量之时间及金钱。
+世界上最早的指数型ETF是由道富公司于1993年发行的标准普尔500指数ETF，此后，针对道琼、纳斯达克、罗素、威尔夏等指数的ETF纷纷问世。
+世界上最早的债券型ETF在2001年被编制出来，是由加拿大证券交易所推出的5年期政府公债基金。
+ETF同时具备开放式基金的能够申购和赎回的特性和封闭式基金的交易特性，被认为是过去十几年中最伟大的金融创新之一。
+ETF的收益来源可能有以下情况：
+例如：在股票型ETF中，该被动式基金的成份股之现金与股票股利配息。如果基金有被证券监管当局开放借券，则也可以在市场进行博弈。当指数成分股及权重调整时，在被动式基金交易中的买卖价差金额，或能成为该基金的损益来源。
+例如：在债券型ETF中，该类型的基金通常通过持有债券的固定利息回报作为基金收益，少部份的情况是透过信评机构对市场上的债券进行升评或降评，使的债券型ETF经理人或经理团队可以透过公开市场操作来调整其债券持股，从中进而获取交易利益或损失。
+2010年为了活络日本股市，日本央行（BOJ）计划首度自市场「直接购买」追踪东证股价指数（TOPIX）的ETF[10]。
+2003年首档ETF宝来台湾卓越50基金（现元大台湾卓越50证券投资信托基金）（参卓台湾50指数，台证所：0050）挂牌上市。
+元大台湾50
+富邦摩台
+宝摩台
+丰台湾
+富邦台50
+2011年4月台湾证券交易所与上海证券交易所合作争取ETF互相挂牌，台湾证券交易所、上海证券交易所、深圳证券交易所与香港交易所更共同授权编制「中证两岸三地500指数」，纳编台湾海峡两岸500档个股[12][13]。
+基金公司为了扩大ETF的销售管道，开发了ETF联接基金，ETF联接基金本质上是开放式基金的一种，其申购赎回方式、管道与普通的开放式基金完全一样。其特点在于，普通开放式基金和ETF的投资标的均为股票、固定收益类等资产，而ETF联接基金的大多数投资标的是ETF，即“投资ETF基金的基金”。
+
+<div class="mw-parser-output"><table class="box-Refimprove plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/45px-Tango-nosources.svg.png" decoding="async" width="45" height="45" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/68px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/90px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48"></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此條目<b>需要补充更多<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">来源</a></b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2022年12月7日</span>)</i></small><span class="hide-when-compact"><br><small>请协助補充多方面<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">可靠来源</a>以<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit">改善这篇条目</a>，<a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AF%81" class="mw-redirect" title="Wikipedia:可供查证">无法查证</a>的内容可能會因為<a href="/wiki/Template:Fact" class="mw-redirect" title="Template:Fact">异议提出</a>而被移除。<br>致使用者：请搜索一下条目的标题（来源搜索：<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.google.com/search?&amp;as_eq=wikipedia&amp;q=%22%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%22">"交易型开放式指数基金"</a> — <a rel="nofollow" class="external text" href="//www.google.com/search?q=%22%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%22">网页</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=&amp;as_src=-newswire+-wire+-presswire+-PR+-press+-release+-wikipedia&amp;q=%22%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%22">新闻</a>、<a rel="nofollow" class="external text" href="//books.google.com/books?&amp;as_brr=0&amp;as_pub=-icon&amp;q=%22%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%22">书籍</a>、<a rel="nofollow" class="external text" href="//scholar.google.com/scholar?&amp;q=%22%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%22">学术</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=isch&amp;safe=off&amp;q=%22%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%22">图像</a></span>），以检查网络上是否存在该主题的更多可靠来源（<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">判定指引</a>）。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<div id="noteTA-f4c1eb03" class="noteTA"><div class="noteTA-title" data-noteta-code="zh-cn:交易型开放式指数基金;zh-tw:指數股票型基金;zh-hk:交易所買賣基金;"></div><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="Economics"></div></div><div class="noteTA-local"><div data-noteta-code="zh-cn:交易型开放式指数基金;zh-tw:指數股票型基金;zh-hk:交易所買賣基金;"></div><div data-noteta-code="zh-cn:ETF联接;zh-tw:連結式ETF;zh-hk:ETF聯接;"></div><div data-noteta-code="zh-tw:商品 ;zh-hk:商品 ;zh-hans:商品 ;"></div></div></div>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA" title="金融市场">金融市场</a>與<a href="/wiki/%E9%87%91%E8%9E%8D%E5%95%86%E5%93%81" title="金融商品">金融商品</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:Aktien_1709.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aktien_1709.jpg/110px-Aktien_1709.jpg" decoding="async" width="110" height="110" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aktien_1709.jpg/165px-Aktien_1709.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aktien_1709.jpg/220px-Aktien_1709.jpg 2x" data-file-width="1200" data-file-height="1200"></a><figcaption></figcaption></figure></td></tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;padding-bottom:0.7em;">
+<ul><li><a href="/wiki/%E9%87%91%E8%9E%8D" title="金融">金融</a> <b>·</b> <a href="/wiki/%E5%B8%82%E5%A0%B4" class="mw-redirect" title="市場">市場</a> <b>·</b> <a href="/wiki/%E4%BA%A4%E6%98%93%E6%89%80" title="交易所">交易所</a> <b>·</b> <a href="/wiki/%E8%AD%89%E5%88%B8" title="證券">證券</a></li></ul></td></tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+股票</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.15em 0.5em 0.7em;">
+<ul><li><a href="/wiki/%E8%82%A1%E7%A5%A8" title="股票">股票</a></li>
+<li><a href="/wiki/%E5%80%89%E4%BD%8D" title="倉位">倉位</a></li>
+<li><a href="/wiki/%E9%95%B7%E5%80%89" title="長倉">長倉</a></li>
+<li><a href="/wiki/%E7%9F%AD%E5%80%89" title="短倉">短倉</a></li>
+<li><a href="/w/index.php?title=%E9%95%B7%E7%9F%AD%E5%80%89&amp;action=edit&amp;redlink=1" class="new" title="長短倉（页面不存在）">長短倉</a></li>
+<li><a href="/wiki/%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA" title="股票市场">股票市场</a></li>
+<li><a class="mw-selflink selflink">交易所交易基金</a>（<abbr title="exchange-traded fund">ETF</abbr>）</li>
+<li><a href="/wiki/%E7%95%B6%E6%97%A5%E6%B2%96%E9%8A%B7" title="當日沖銷">當日沖銷</a></li>
+<li><a href="/wiki/%E5%84%AA%E5%85%88%E8%82%A1" title="優先股">優先股</a></li>
+<li><a href="/wiki/%E6%99%AE%E9%80%9A%E8%82%A1" title="普通股">普通股</a></li>
+<li><a href="/wiki/%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80" title="证券交易所">证券交易所</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+債券</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.15em 0.5em 0.7em;">
+<ul><li><a href="/wiki/%E5%80%BA%E5%88%B8" title="债券">债券</a></li>
+<li><a href="/wiki/%E5%9B%BA%E5%AE%9A%E6%94%B6%E7%9B%8A%E8%AF%81%E5%88%B8" title="固定收益证券">固定收益</a></li>
+<li><a href="/wiki/%E5%80%BA%E5%88%B8" title="债券">公司債</a></li>
+<li><a href="/wiki/%E5%85%AC%E5%80%BA" title="公债">政府公債</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+其他市場</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.15em 0.5em 0.7em;">
+<ul><li><a href="/wiki/%E5%A4%96%E6%B1%87%E5%B8%82%E5%9C%BA" title="外汇市场">外汇市场</a></li>
+<li><a href="/wiki/%E6%9C%9F%E8%B2%A8%E5%B8%82%E5%A0%B4" class="mw-redirect" title="期貨市場">期貨市場</a></li>
+<li><a href="/wiki/%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA#%E5%BA%97%E9%A0%AD%E5%B8%82%E5%A0%B4" title="股票市场">店頭市場</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%94%A2%E5%B8%82%E5%A0%B4" title="地產市場">不動產市場</a></li>
+<li><a href="/wiki/%E7%8E%B0%E8%B4%A7%E5%B8%82%E5%9C%BA" title="现货市场">現貨市場</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+衍生性金融商品</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.15em 0.5em 0.7em;">
+<ul><li><a href="/wiki/%E8%A1%8D%E7%94%9F%E6%80%A7%E9%87%91%E8%9E%8D%E5%95%86%E5%93%81" class="mw-redirect" title="衍生性金融商品">衍生性金融商品</a></li>
+<li><a href="/wiki/%E7%89%9B%E7%86%8A%E8%AD%89" title="牛熊證">牛熊證</a></li>
+<li><a href="/wiki/%E4%BF%A1%E7%94%A8%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7" title="信用衍生工具">信用衍生工具</a></li>
+<li><a href="/wiki/%E6%9C%9F%E6%AC%8A" title="期權">期权</a></li>
+<li><a href="/wiki/%E6%9C%9F%E8%B4%A7" title="期货">期货</a></li>
+<li><a href="/wiki/%E9%81%A0%E6%9C%9F%E5%A5%91%E7%B4%84" title="遠期契約">遠期契約</a></li>
+<li><a href="/wiki/%E6%8E%89%E6%9C%9F%E4%BA%A4%E6%98%93" title="掉期交易">掉期交易</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+估價和理論</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.15em 0.5em 0.7em;">
+<ul><li><a href="/wiki/%E9%87%91%E8%9E%8D%E5%88%86%E6%9E%90" title="金融分析">金融分析</a></li>
+<li><a href="/wiki/%E5%9F%BA%E6%9C%AC%E5%88%86%E6%9E%90" title="基本分析">基本分析</a></li>
+<li><a href="/wiki/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90" title="技术分析">技术分析</a></li>
+<li><a href="/w/index.php?title=%E9%87%91%E8%9E%8D%E5%B8%82%E5%A0%B4%E4%BC%B0%E5%83%B9&amp;action=edit&amp;redlink=1" class="new" title="金融市場估價（页面不存在）">金融市場估價</a></li>
+<li><a href="/w/index.php?title=%E9%87%91%E8%9E%8D%E5%B8%82%E5%A0%B4%E6%95%88%E7%8E%87&amp;action=edit&amp;redlink=1" class="new" title="金融市場效率（页面不存在）">金融市場效率</a></li>
+<li><a href="/wiki/%E9%9A%A8%E6%A9%9F%E6%BC%AB%E6%AD%A5%E5%81%87%E8%AA%AA" title="隨機漫步假說">隨機漫步假說</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+交易</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.15em 0.5em 0.7em;">
+<ul><li><a href="/wiki/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA" title="金融市场">金融市场</a></li>
+<li><a href="/wiki/%E6%8A%95%E8%B3%87%E8%80%85" title="投資者">投資者</a></li>
+<li><a href="/wiki/%E6%8A%95%E6%A9%9F" class="mw-redirect" title="投機">投機</a><br><a href="/wiki/%E9%A3%8E%E9%99%A9%E6%8A%95%E8%B5%84" title="风险投资">創業投資</a>（<abbr title="venture capital">VC</abbr>）</li>
+<li><a href="/wiki/%E7%A7%81%E4%BA%BA%E8%82%A1%E6%9D%83%E6%8A%95%E8%B5%84" title="私人股权投资">私募基金</a>（<abbr title="private equity">PE</abbr>）</li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+相關領域</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.15em 0.5em 0.7em;">
+<ul><li><a href="/wiki/%E5%85%AC%E5%8F%B8%E9%87%91%E8%9E%8D%E5%AD%B8" class="mw-redirect" title="公司金融學">公司金融學</a></li>
+<li><a href="/wiki/%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2" title="个人理财">个人理财</a></li>
+<li><a href="/wiki/%E5%85%AC%E5%85%B1%E8%B2%A1%E6%94%BF" title="公共財政">公共財政</a></li>
+<li><a href="/wiki/%E9%8A%80%E8%A1%8C" title="銀行">銀行</a></li></ul></td>
+</tr><tr><td style="text-align:right;line-height:1.6"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:%E9%87%91%E8%9E%8D%E5%B8%82%E5%A0%B4%E8%88%87%E9%87%91%E8%9E%8D%E5%95%86%E5%93%81%E5%81%B4%E9%9D%A2%E6%A8%A1%E6%9D%BF" title="Template:金融市場與金融商品側面模板"><abbr title="查看该模板">查</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:%E9%87%91%E8%9E%8D%E5%B8%82%E5%A0%B4%E8%88%87%E9%87%91%E8%9E%8D%E5%95%86%E5%93%81%E5%81%B4%E9%9D%A2%E6%A8%A1%E6%9D%BF" title="Template talk:金融市場與金融商品側面模板"><abbr title="讨论该模板">论</abbr></a></li><li class="nv-edit"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E9%87%91%E8%9E%8D%E5%B8%82%E5%A0%B4%E8%88%87%E9%87%91%E8%9E%8D%E5%95%86%E5%93%81%E5%81%B4%E9%9D%A2%E6%A8%A1%E6%9D%BF&amp;action=edit"><abbr title="编辑该模板">编</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>交易型开放式指数基金<sup id="cite_ref-报道0816A_1-0" class="reference"><a href="#cite_note-%E6%8A%A5%E9%81%930816A-1">[1]</a></sup></b>（英語：<span lang="en">exchange-traded funds</span>，縮寫：<b>ETF</b>），或稱<b>交易所交易基金</b>，是一種在<a href="/wiki/%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80" class="mw-redirect" title="證券交易所">證券交易所</a>交易，提供投資人參與指數表現的<a href="/wiki/%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91" title="指数基金">指數基金</a>。ETF將<a href="/wiki/%E8%82%A1%E5%83%B9%E6%8C%87%E6%95%B8" title="股價指數">指數</a><a href="/wiki/%E8%B5%84%E4%BA%A7%E8%AF%81%E5%88%B8%E5%8C%96" title="资产证券化">證券化</a>，投資人不以傳統方式直接進行一籃子證券之投資，而是透過持有表彰指數標的證券權益的受益憑證來間接投資。ETF的發行機構會將一籃子可追蹤的指數中的股票投資組合，委託一受託機構託管，並以此為實物擔保，分割成許多單價較低之投資單位（即ETF），讓投資人購買，並在集中市場掛牌交易。ETF發行後，投資人可再向發行機構申請創造或贖回ETF，創造ETF時投資人須將與標的指數相同之一籃子股票與等值之股利存入受託機構，再由機構發行相對應數量之ETF予投資人。贖回ETF之過程，投資人可將持有之ETF轉換為標的指數之成分股票<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>。只有台灣另外翻譯成<b>指數股票型基金</b><sup id="cite_ref-ETF簡介_3-0" class="reference"><a href="#cite_note-ETF%E7%B0%A1%E4%BB%8B-3">[3]</a></sup>。
+</p><p>ETF基金以持有與指數相同之<a href="/wiki/%E8%AD%89%E5%88%B8" title="證券">證券</a>為主，分割成眾多單價較低之投資單位，進而發行<a href="/w/index.php?title=%E5%8F%97%E7%9B%8A%E6%86%91%E8%AD%89&amp;action=edit&amp;redlink=1" class="new" title="受益憑證（页面不存在）">受益憑證</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>。ETF商品將指數的價值由傳統的證券市場漲跌指標，轉變成具有流動性的資本證券，指數成分股票的管理由專業機構來進行，指數變動的損益直接反映在憑證價值的漲跌中。因此，只會因為連動指數成分股內容及權重改變而調整投資組合之內容或比重以符合「被動式管理」之目的<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>。
+</p><p>「被動式管理」是指沒有基金經理主動選擇成分股和控制持股比例的管理方式，成分股的選擇和比重由追蹤的指數決定。因為沒有基金經理的主動管理，基金成本亦會比較低。
+</p><p>投資者可以通過兩種方式購買ETF：投资者可以用ETF基金相同品种及比例构成的股票或其他金融证券（具体由ETF发行公司规定）向基金公司申购ETF基金单位（少量ETF基金也可用现金申购ETF，同開放式<a href="/wiki/%E5%85%B1%E5%90%8C%E5%9F%BA%E9%87%91" title="共同基金">共同基金</a>）；也可以在證券市場上直接從其他投資者那裡購買（同封閉式共同基金），購買的價格由買賣雙方共同决定。通过申购赎回价与证券市场内市价的可套利机制，ETF市價可以貼近淨值。
+</p><p>在台灣，投資人若想直接與基金公司申購ETF，則初級市場最小交易單位為500張以上、並以淨值申購（投資人可在各ETF的申購／贖回資訊中找到門檻），因此若ETF次級市場存在折溢價，通常大戶可透過初級市場來套利，直到股價回到淨值。
+</p><p>大多數ETF的指數成分是<a href="/wiki/%E8%82%A1%E7%A5%A8" title="股票">股票</a>，但基於固定收益證券、<a href="/wiki/%E5%82%B5%E5%88%B8" class="mw-redirect" title="債券">債券</a>、商品和<a href="/wiki/%E8%B2%A8%E5%B9%A3" title="貨幣">貨幣</a>的ETF也在發展中。對於投資者來說，ETF的<a href="/wiki/%E4%BA%A4%E6%98%93%E8%B2%BB%E7%94%A8" class="mw-redirect" title="交易費用">交易費用</a>和管理費用平均較低廉，持股組合比較穩定，<a href="/wiki/%E9%A2%A8%E9%9A%AA" class="mw-redirect" title="風險">風險</a>往往比較分散，而且<a href="/wiki/%E6%B5%81%E5%8B%95%E6%80%A7" class="mw-redirect" title="流動性">流動性</a>很高，單筆投資便可獲得多元化投資效果，節省大量之時間及金錢。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="zh" dir="ltr"><h2 id="mw-toc-heading">目录</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#%E6%AD%B7%E5%8F%B2"><span class="tocnumber">1</span> <span class="toctext">歷史</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#%E7%94%A2%E5%93%81%E5%88%86%E9%A1%9E"><span class="tocnumber">2</span> <span class="toctext">產品分類</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#%E4%BA%A4%E6%98%93%E7%89%B9%E6%80%A7"><span class="tocnumber">3</span> <span class="toctext">交易特性</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#%E6%94%B6%E7%9B%8A%E4%BE%86%E6%BA%90"><span class="tocnumber">4</span> <span class="toctext">收益來源</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#%E5%90%84%E5%9C%B0%E7%9A%84%E5%9F%BA%E9%87%91%E7%94%A2%E5%93%81"><span class="tocnumber">5</span> <span class="toctext">各地的基金產品</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#_%E7%BE%8E%E5%9C%8BETF"><span class="tocnumber">5.1</span> <span class="toctext"><span><span></span> </span>美國ETF</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#_%E6%97%A5%E6%9C%ACETF"><span class="tocnumber">5.2</span> <span class="toctext"><span><span></span> </span>日本ETF</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#%E8%87%BA%E7%81%A3%E6%8C%87%E6%95%B8%E8%82%A1%E7%A5%A8%E5%9E%8B%E5%9F%BA%E9%87%91"><span class="tocnumber">5.3</span> <span class="toctext"><span><span></span></span> 臺灣指數股票型基金</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91"><span class="tocnumber">5.4</span> <span class="toctext"><span><span></span></span> 中国大陆交易型开放式指数基金</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#_%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80%E8%B2%B7%E8%B3%A3%E5%9F%BA%E9%87%91"><span class="tocnumber">5.5</span> <span class="toctext"><span><span></span> </span>香港交易所買賣基金</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#%E8%B7%A8%E5%9C%B0%E5%8C%BAETF"><span class="tocnumber">6</span> <span class="toctext">跨地区ETF</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#ETF%E8%81%94%E6%8E%A5%E5%9F%BA%E9%87%91"><span class="tocnumber">7</span> <span class="toctext">ETF联接基金</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#%E5%A6%82%E4%BD%95%E9%81%B8%E6%93%87ETF"><span class="tocnumber">8</span> <span class="toctext">如何選擇ETF</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#%E7%9B%B8%E9%97%9C%E6%A2%9D%E7%9B%AE"><span class="tocnumber">9</span> <span class="toctext">相關條目</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#%E8%A8%BB%E9%87%8B"><span class="tocnumber">10</span> <span class="toctext">註釋</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"><span class="tocnumber">11</span> <span class="toctext">參考文獻</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#%E5%BB%B6%E4%BC%B8%E9%96%B1%E8%AE%80"><span class="tocnumber">12</span> <span class="toctext">延伸閱讀</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#%E5%A4%96%E9%83%A8%E9%80%A3%E7%B5%90"><span class="tocnumber">13</span> <span class="toctext">外部連結</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".E6.AD.B7.E5.8F.B2"></span><span class="mw-headline" id="歷史">歷史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=1" title="编辑章节：歷史">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>世界上最早的指數型ETF是由<a href="/wiki/%E9%81%93%E5%AF%8C%E5%85%AC%E5%8F%B8" title="道富公司">道富公司</a>於1993年發行的<a href="/wiki/%E6%A0%87%E5%87%86%E6%99%AE%E5%B0%94500%E6%8C%87%E6%95%B0" class="mw-redirect" title="标准普尔500指数">標準普爾500指数</a>ETF，此後，針對<a href="/wiki/%E9%81%93%E7%93%8A%E5%B7%A5%E6%A5%AD%E5%B9%B3%E5%9D%87%E6%8C%87%E6%95%B8" class="mw-redirect" title="道瓊工業平均指數">道瓊</a>、<a href="/wiki/%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B100%E6%8C%87%E6%95%B8" title="納斯達克100指數">纳斯達克</a>、<a href="/wiki/%E7%BE%85%E7%B4%A0%E6%8C%87%E6%95%B8" class="mw-redirect" title="羅素指數">羅素</a>、<a href="/w/index.php?title=%E9%81%93%E7%93%8A%E5%A8%81%E7%88%BE%E5%A4%8F5000%E7%B6%9C%E5%90%88%E6%8C%87%E6%95%B8&amp;action=edit&amp;redlink=1" class="new" title="道瓊威爾夏5000綜合指數（页面不存在）">威爾夏</a>等指數的ETF紛紛問世。
+</p><p>世界上最早的債券型ETF在2001年被編製出來，是由加拿大證券交易所推出的5年期政府公債基金。
+</p>
+<h2><span id=".E7.94.A2.E5.93.81.E5.88.86.E9.A1.9E"></span><span class="mw-headline" id="產品分類">產品分類</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=2" title="编辑章节：產品分類">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>股票型ETF</li>
+<li>債券型ETF</li>
+<li>原物料ETF（期貨型ETF）</li>
+<li>放空ETF（槓桿型ETF)</li>
+<li>反向ETF</li></ul>
+<h2><span id=".E4.BA.A4.E6.98.93.E7.89.B9.E6.80.A7"></span><span class="mw-headline" id="交易特性">交易特性</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=3" title="编辑章节：交易特性">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ETF同时具備開放式基金的能够申購和贖回的特性和封閉式基金的交易特性，被認為是过去十幾年中最偉大的金融創新之一。
+</p>
+<ul><li>IOPV：参考单位基金净值(Indicative Optimized．Portfolio Value)，是交易所以股票实时交易价格计算得出的ETF实时单位参考净值，一般每15秒显示一次报价。</li></ul>
+<h2><span id=".E6.94.B6.E7.9B.8A.E4.BE.86.E6.BA.90"></span><span class="mw-headline" id="收益來源">收益來源</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=4" title="编辑章节：收益來源">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ETF的收益來源可能有以下情況：
+</p><p>例如：在股票型ETF中，該被動式基金的成份股之現金與股票股利配息。如果基金有被證券監管當局開放借券，則也可以在市場進行博弈。當指數成分股及權重調整時，在被動式基金交易中的買賣價差金額，或能成為該基金的損益來源。
+</p><p>例如：在債券型ETF中，該類型的基金通常通過持有債券的固定利息回報作為基金收益，少部份的情況是透過信評機構對市場上的債券進行升評或降評，使的債券型ETF經理人或經理團隊可以透過公開市場操作來調整其債券持股，從中進而獲取交易利益或損失。
+</p>
+<h2><span id=".E5.90.84.E5.9C.B0.E7.9A.84.E5.9F.BA.E9.87.91.E7.94.A2.E5.93.81"></span><span class="mw-headline" id="各地的基金產品">各地的基金產品</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=5" title="编辑章节：各地的基金產品">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="_.E7.BE.8E.E5.9C.8BETF"></span><span class="mw-headline" id="_美國ETF"><span class="flagicon"><span class="mw-image-border notpageimage" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" decoding="async" width="22" height="12" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"></span></span> </span><a href="/wiki/%E7%BE%8E%E5%9C%8B" class="mw-redirect" title="美國">美國</a>ETF</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=6" title="编辑章节： 美國ETF">编辑</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>DIAMONDS Trust（<a href="/wiki/%E9%81%93%E7%93%8A%E5%B7%A5%E6%A5%AD%E5%B9%B3%E5%9D%87%E6%8C%87%E6%95%B8" class="mw-redirect" title="道瓊工業平均指數">道瓊工業指數</a>基金）<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li>PowerShares QQQ（<a href="/wiki/%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B100%E6%8C%87%E6%95%B8" title="納斯達克100指數">那斯達克100科技指數</a>基金）</li>
+<li>SPDR S&amp;P 500 ETF（<a href="/wiki/%E6%A8%99%E6%BA%96%E6%99%AE%E7%88%BE500%E6%8C%87%E6%95%B8" class="mw-redirect" title="標準普爾500指數">標準普爾500指數</a>基金）</li>
+<li><a href="/wiki/%E7%A8%80%E5%9C%9F" class="mw-redirect" title="稀土">稀土</a>ETF<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li>美國指數/ETF比較和簡介<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li></ul>
+<h3><span id="_.E6.97.A5.E6.9C.ACETF"></span><span class="mw-headline" id="_日本ETF"><span class="flagicon"><span class="mw-image-border notpageimage" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/33px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/44px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600"></span></span> </span><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>ETF</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=7" title="编辑章节： 日本ETF">编辑</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>2010年為了活絡日本股市，日本央行（BOJ）計畫首度自市場「直接購買」追蹤<a href="/wiki/%E4%B8%9C%E8%AF%81%E8%82%A1%E4%BB%B7%E6%8C%87%E6%95%B0" title="东证股价指数">東證股價指數</a>（TOPIX）的ETF<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>。
+</p>
+<h3><span id=".E8.87.BA.E7.81.A3.E6.8C.87.E6.95.B8.E8.82.A1.E7.A5.A8.E5.9E.8B.E5.9F.BA.E9.87.91"></span><span class="mw-headline" id="臺灣指數股票型基金"><span class="flagicon"><span class="mw-image-border notpageimage" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/22px-Flag_of_the_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/33px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/44px-Flag_of_the_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></span></span></span> <a href="/wiki/%E8%87%BA%E7%81%A3%E5%9C%B0%E5%8D%80" title="臺灣地區">臺灣</a>指數股票型基金</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=8" title="编辑章节：臺灣指數股票型基金">编辑</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E8%87%BA%E7%81%A3%E6%8C%87%E6%95%B8%E8%82%A1%E7%A5%A8%E5%9E%8B%E5%9F%BA%E9%87%91" class="mw-redirect" title="臺灣指數股票型基金">臺灣指數股票型基金</a></div>
+<p>2003年首檔ETF寶來台灣卓越50基金（現<a href="/wiki/%E5%85%83%E5%A4%A7%E5%8F%B0%E7%81%A3%E5%8D%93%E8%B6%8A50%E8%AD%89%E5%88%B8%E6%8A%95%E8%B3%87%E4%BF%A1%E8%A8%97%E5%9F%BA%E9%87%91" title="元大台灣卓越50證券投資信託基金">元大台灣卓越50證券投資信託基金</a>）（參卓<a href="/wiki/%E8%87%BA%E7%81%A350%E6%8C%87%E6%95%B8" title="臺灣50指數">臺灣50指數</a>，<a href="/wiki/%E8%87%BA%E7%81%A3%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80" title="臺灣證券交易所">臺證所</a>：<a rel="nofollow" class="external text" href="http://mis.twse.com.tw/stock/fibest.jsp?stock=0050"><b>0050</b></a>）掛牌<a href="/wiki/%E4%B8%8A%E5%B8%82" class="mw-disambig" title="上市">上市</a>。
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th rowspan="2">年
+</th>
+<th colspan="5">年費 (SITCA <a rel="nofollow" class="external text" href="http://www.sitca.org.tw/ROC/Industry/IN2211.aspx?pid=IN2222_01">各項費用比率</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20201029073630/http://www.sitca.org.tw/ROC/Industry/IN2211.aspx?pid=IN2222_01">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）)
+</th></tr>
+<tr>
+<td>0050
+<p>元大台灣50
+</p>
+</td>
+<td>0057
+<p>富邦摩台
+</p>
+</td>
+<td>006203
+<p>寶摩台
+</p>
+</td>
+<td>006204
+<p>豐臺灣
+</p>
+</td>
+<td>006208
+<p>富邦台50
+</p>
+</td></tr>
+<tr>
+<td>2015</td>
+<td>0.42%</td>
+<td>0.85%</td>
+<td>0.42%</td>
+<td>0.64%</td>
+<td>0.48%
+</td></tr>
+<tr>
+<td>2014</td>
+<td>0.43%</td>
+<td>0.49%</td>
+<td>0.41%</td>
+<td>0.65%</td>
+<td>0.48%
+</td></tr>
+<tr>
+<td>2013</td>
+<td>0.47%</td>
+<td>0.54%</td>
+<td>0.42%</td>
+<td>0.57%</td>
+<td>0.48%
+</td></tr></tbody></table>
+<h3><span id=".E4.B8.AD.E5.9B.BD.E5.A4.A7.E9.99.86.E4.BA.A4.E6.98.93.E5.9E.8B.E5.BC.80.E6.94.BE.E5.BC.8F.E6.8C.87.E6.95.B0.E5.9F.BA.E9.87.91"></span><span class="mw-headline" id="中国大陆交易型开放式指数基金"><span class="flagicon"><span class="mw-image-border notpageimage" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></span></span></span> <a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆">中国大陆</a>交易型开放式指数基金</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=9" title="编辑章节：中国大陆交易型开放式指数基金">编辑</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>510230 国泰上证180金融ETF基金</li>
+<li>159911 鹏华深证民营ETF基金</li>
+<li>510220 华泰柏瑞中小盘ETF基金</li>
+<li>159909 招商深证TMT50ETF基金</li>
+<li>510170 国联安上证商品ETF基金</li>
+<li>510150 招商上证消费80ETF基金</li>
+<li>510130 易方达上证中盘ETF基金</li>
+<li>510210 富国上证综指ETF基金</li>
+<li>510030 华宝上证180价值ETF基金</li>
+<li>510110 海富通上证周期ETF基金</li>
+<li>510190 华安上证龙头ETF基金</li>
+<li>159902 华夏中小板ETF基金</li>
+<li>510880 华泰柏瑞红利ETF基金</li>
+<li>510120 海富通上证非周期ETF基金</li>
+<li>510050 华夏<a href="/wiki/%E4%B8%8A%E8%AF%8150ETF" class="mw-redirect" title="上证50ETF">上证50ETF</a>基金</li>
+<li>159916 建信深证60ETF基金</li>
+<li>510060 工银上证央企50ETF基金</li>
+<li>159903 南方深成ETF基金</li>
+<li>159913 交银深证300ETF基金</li>
+<li>159917 国泰中小板300ETF基金</li>
+<li>510070 鹏华上证民企50ETF基金</li>
+<li>510280 华宝上证180成长ETF基金</li>
+<li>159912 汇添富深证300ETF基金</li>
+<li>510290 南方上证380ETF基金</li>
+<li>159910 嘉实深证120ETF基金</li>
+<li>159907 广发中小板300ETF基金</li>
+<li>510090 建信上证责任ETF基金</li>
+<li>159908 博时深证200ETF基金</li>
+<li>159905 工银深证红利ETF基金</li>
+<li>159906 大成深证成长40ETF基金</li>
+<li>510260 诺安上证新兴ETF基金</li>
+<li>510270 中银上证国企100ETF基金</li>
+<li>159915 易方达创业板ETF基金</li>
+<li>510010 交银上证180治理ETF基金</li>
+<li>159901 易方达深证100ETF基金</li>
+<li>510180 华安上证180ETF基金</li>
+<li>510160 南方中证小康产业ETF基金</li>
+<li>510020 博时上证超大盘ETF基金</li>
+<li>510420 景顺长城上证180ETF基金</li>
+<li>159919 嘉实<a href="/wiki/%E6%B2%AA%E6%B7%B1300" title="沪深300">沪深300</a>ETF基金</li>
+<li>159918 嘉实中创400ETF基金</li>
+<li>510410 博时上证自然资源ETF基金</li>
+<li>510300 300ETF基金<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li></ul>
+<h3><span id="_.E9.A6.99.E6.B8.AF.E4.BA.A4.E6.98.93.E6.89.80.E8.B2.B7.E8.B3.A3.E5.9F.BA.E9.87.91"></span><span class="mw-headline" id="_香港交易所買賣基金"><span class="flagicon"><span class="mw-image-border notpageimage" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/22px-Flag_of_Hong_Kong.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/33px-Flag_of_Hong_Kong.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/44px-Flag_of_Hong_Kong.svg.png 2x" data-file-width="900" data-file-height="600"></span></span> </span><a href="/wiki/%E9%A6%99%E6%B8%AF" title="香港">香港</a>交易所買賣基金</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=10" title="编辑章节： 香港交易所買賣基金">编辑</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">更多信息：<a href="/w/index.php?title=%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82%E4%BA%A4%E6%98%93%E6%89%80%E8%B2%B7%E8%B3%A3%E5%9F%BA%E9%87%91%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="香港上市交易所買賣基金列表（页面不存在）">港交所ETF (2800-2848)</a>和<a href="/w/index.php?title=%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82%E4%BA%A4%E6%98%93%E6%89%80%E8%B2%B7%E8%B3%A3%E5%9F%BA%E9%87%91%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="香港上市交易所買賣基金列表（页面不存在）">港交所ETF (3000-3087)</a></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.hkex.com.hk/Market-Data/Securities-Prices/Exchange-Traded-Products?sc_lang=zh-hk">交易所買賣基金-證券名單</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210115102734/http://www.hkex.com.hk/Market-Data/Securities-Prices/Exchange-Traded-Products?sc_lang=zh-hk">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a href="/wiki/%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80" title="香港交易所">港交所</a>：<a rel="nofollow" class="external text" href="https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2800&amp;sc_lang=zh-HK">2800</a><a href="/wiki/%E7%9B%88%E5%AF%8C%E5%9F%BA%E9%87%91" title="盈富基金">盈富基金</a></li>
+<li><a href="/wiki/%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80" title="香港交易所">港交所</a>：<a rel="nofollow" class="external text" href="https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2822&amp;sc_lang=zh-HK">2822</a><a href="/w/index.php?title=%E5%8D%97%E6%96%B9%E5%AF%8C%E6%99%82%E4%B8%AD%E5%9C%8BA50ETF&amp;action=edit&amp;redlink=1" class="new" title="南方富時中國A50ETF（页面不存在）">南方富時中國A50ETF</a></li>
+<li><a href="/wiki/%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80" title="香港交易所">港交所</a>：<a rel="nofollow" class="external text" href="https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2821&amp;sc_lang=zh-HK">2821</a><a href="/w/index.php?title=%E6%B2%9B%E5%AF%8C%E5%9F%BA%E9%87%91&amp;action=edit&amp;redlink=1" class="new" title="沛富基金（页面不存在）">沛富基金</a></li>
+<li><a href="/wiki/%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80" title="香港交易所">港交所</a>：<a rel="nofollow" class="external text" href="https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2823&amp;sc_lang=zh-HK">2823</a><a href="/w/index.php?title=%E5%AE%89%E7%A2%A9A50%E4%B8%AD%E5%9C%8B%E5%9F%BA%E9%87%91&amp;action=edit&amp;redlink=1" class="new" title="安碩A50中國基金（页面不存在）">安碩A50中國基金</a></li>
+<li><a href="/wiki/%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80" title="香港交易所">港交所</a>：<a rel="nofollow" class="external text" href="https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2828&amp;sc_lang=zh-HK">2828</a><a href="/w/index.php?title=%E6%81%92%E7%94%9FH%E8%82%A1%E6%8C%87%E6%95%B8ETF&amp;action=edit&amp;redlink=1" class="new" title="恒生H股指數ETF（页面不存在）">恒生H股指數ETF</a></li>
+<li><a href="/wiki/%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80" title="香港交易所">港交所</a>：<a rel="nofollow" class="external text" href="https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2833&amp;sc_lang=zh-HK">2833</a><a href="/w/index.php?title=%E6%81%92%E7%94%9F%E6%8C%87%E6%95%B8ETF&amp;action=edit&amp;redlink=1" class="new" title="恒生指數ETF（页面不存在）">恒生指數ETF</a></li>
+<li><a href="/wiki/%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80" title="香港交易所">港交所</a>：<a rel="nofollow" class="external text" href="https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3047&amp;sc_lang=zh-HK">3047</a><a href="/w/index.php?title=%E5%B1%B1%E8%AD%89%E9%90%B5%E7%A4%A6%E7%9F%B3ETF&amp;action=edit&amp;redlink=1" class="new" title="山證鐵礦石ETF（页面不存在）">山證鐵礦石ETF</a></li>
+<li><a href="/wiki/%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80" title="香港交易所">港交所</a>：<a rel="nofollow" class="external text" href="https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3081&amp;sc_lang=zh-HK">3081</a><a href="/w/index.php?title=%E5%83%B9%E5%80%BC%E9%BB%83%E9%87%91ETF&amp;action=edit&amp;redlink=1" class="new" title="價值黃金ETF（页面不存在）">價值黃金ETF</a></li>
+<li><a href="/wiki/%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80" title="香港交易所">港交所</a>：<a rel="nofollow" class="external text" href="https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3100&amp;sc_lang=zh-HK">3100</a><a href="/w/index.php?title=%E6%98%93%E6%96%B9%E9%81%94%E4%B8%AD%E8%AD%89100&amp;action=edit&amp;redlink=1" class="new" title="易方達中證100（页面不存在）">易方達中證100 A股指數ETF</a></li>
+<li><a href="/wiki/%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80" title="香港交易所">港交所</a>：<a rel="nofollow" class="external text" href="https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3188&amp;sc_lang=zh-HK">3188</a><a href="/wiki/%E8%8F%AF%E5%A4%8F%E6%BB%AC%E6%B7%B1300%E6%8C%87%E6%95%B8ETF" class="mw-redirect" title="華夏滬深300指數ETF">華夏滬深300指數ETF</a></li></ul>
+<h2><span id=".E8.B7.A8.E5.9C.B0.E5.8C.BAETF"></span><span class="mw-headline" id="跨地区ETF">跨地区ETF</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=11" title="编辑章节：跨地区ETF">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>2011年4月<a href="/wiki/%E8%87%BA%E7%81%A3%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80" title="臺灣證券交易所">臺灣證券交易所</a>與<a href="/wiki/%E4%B8%8A%E6%B5%B7%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80" class="mw-redirect" title="上海證券交易所">上海證券交易所</a>合作爭取ETF互相掛牌，臺灣證券交易所、上海證券交易所、<a href="/wiki/%E6%B7%B1%E5%9C%B3%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80" title="深圳证券交易所">深圳證券交易所</a>與<a href="/wiki/%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80" title="香港交易所">香港交易所</a>更共同授權編製「中證兩岸三地500指數」，納編<a href="/wiki/%E8%87%BA%E7%81%A3%E6%B5%B7%E5%B3%BD" class="mw-redirect" title="臺灣海峽">臺灣海峽</a>兩岸500檔個股<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>。
+</p>
+<h2><span id="ETF.E8.81.94.E6.8E.A5.E5.9F.BA.E9.87.91"></span><span class="mw-headline" id="ETF联接基金">ETF联接基金</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=12" title="编辑章节：ETF联接基金">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>基金公司為了擴大ETF的銷售管道，開發了ETF联接基金，ETF联接基金本質上是開放式基金的一種，其申購贖回方式、管道與普通的開放式基金完全一樣。其特點在於，普通開放式基金和ETF的投資標的均為股票、固定收益類等資產，而ETF联接基金的大多數投資標的是ETF，即“投资ETF基金的基金”。
+</p>
+<h2><span id=".E5.A6.82.E4.BD.95.E9.81.B8.E6.93.87ETF"></span><span class="mw-headline" id="如何選擇ETF">如何選擇ETF</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=13" title="编辑章节：如何選擇ETF">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>研究指數與成分股：指數編製方式、成分股選擇標準、收益分配計算方法。</li>
+<li>閱讀公開說明書：基本資料、基金簡介、受益人之權利及費用負擔、投資風險揭露。</li>
+<li>注意追蹤誤差：追蹤誤差是ETF報酬率與標的指數表現之間的差異，可檢視ETF追蹤指數的成效。</li>
+<li>注意流動性：流動性的高低可衡量投資人買賣的難易度<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>。</li></ol>
+<h2><span id=".E7.9B.B8.E9.97.9C.E6.A2.9D.E7.9B.AE"></span><span class="mw-headline" id="相關條目">相關條目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=14" title="编辑章节：相關條目">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E8%AD%89%E5%88%B8%E6%8A%95%E8%B3%87%E5%9F%BA%E9%87%91" class="mw-redirect" title="證券投資基金">證券投資基金</a></li>
+<li><a href="/wiki/%E6%8C%87%E6%95%B8%E6%8A%95%E8%B3%87%E8%AD%89%E5%88%B8" title="指數投資證券">指數投資證券</a> (ETN)</li></ul>
+<h2><span id=".E8.A8.BB.E9.87.8B"></span><span class="mw-headline" id="註釋">註釋</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=15" title="编辑章节：註釋">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-报道0816A-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-%E6%8A%A5%E9%81%930816A_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">远洋. <a rel="nofollow" class="external text" href="https://m.ithome.com/html/438181.htm">第八批推荐使用外语词中文译名发布：含App、IPO等</a>. IT之家. 北京.  <span class="reference-accessdate"> [<span class="nowrap">2019-08-16</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200820050951/https://m.ithome.com/html/438181.htm">存档</a>于2020-08-20） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到中文（中国大陆）网页">（中文（中国大陆））</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.atitle=%E7%AC%AC%E5%85%AB%E6%89%B9%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8%E5%A4%96%E8%AF%AD%E8%AF%8D%E4%B8%AD%E6%96%87%E8%AF%91%E5%90%8D%E5%8F%91%E5%B8%83%EF%BC%9A%E5%90%ABApp%E3%80%81IPO%E7%AD%89&amp;rft.au=%E8%BF%9C%E6%B4%8B&amp;rft.genre=unknown&amp;rft.jtitle=IT%E4%B9%8B%E5%AE%B6&amp;rft_id=https%3A%2F%2Fm.ithome.com%2Fhtml%2F438181.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">謝劍平. 投資學：基本原理與實務. : 465. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-957-43-1484-3" title="Special:网络书源/978-957-43-1484-3"><span title="国际标准书号">ISBN</span> 978-957-43-1484-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.au=%E8%AC%9D%E5%8A%8D%E5%B9%B3&amp;rft.btitle=%E6%8A%95%E8%B3%87%E5%AD%B8%EF%BC%9A%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E8%88%87%E5%AF%A6%E5%8B%99&amp;rft.genre=book&amp;rft.isbn=978-957-43-1484-3&amp;rft.pages=465&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-ETF簡介-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-ETF%E7%B0%A1%E4%BB%8B_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.twse.com.tw/zh/page/ETF/intro.html">ETF 專區 - TWSE 臺灣證券交易所</a>. TWSE 臺灣證券交易所. 臺灣.  <span class="reference-accessdate"> [<span class="nowrap">2020-07-27</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200727161904/https://www.twse.com.tw/zh/page/ETF/intro.html">存档</a>于2020-07-27） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到中文（臺灣）网页">（中文（臺灣））</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.atitle=ETF+%E5%B0%88%E5%8D%80+-+TWSE+%E8%87%BA%E7%81%A3%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80&amp;rft.genre=unknown&amp;rft.jtitle=TWSE+%E8%87%BA%E7%81%A3%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80&amp;rft_id=https%3A%2F%2Fwww.twse.com.tw%2Fzh%2Fpage%2FETF%2Fintro.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120111062746/http://mag.chinatimes.com/mag-cnt.aspx?artid=5714&amp;page=1">高價股當道 買ETF搭上股王列車</a>.  <span class="reference-accessdate"> [<span class="nowrap">2010-11-19</span>]</span>. （<a rel="nofollow" class="external text" href="http://mag.chinatimes.com/mag-cnt.aspx?artid=5714&amp;page=1">原始内容</a>存档于2012-01-11）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.btitle=%E9%AB%98%E5%83%B9%E8%82%A1%E7%95%B6%E9%81%93+%E8%B2%B7ETF%E6%90%AD%E4%B8%8A%E8%82%A1%E7%8E%8B%E5%88%97%E8%BB%8A&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmag.chinatimes.com%2Fmag-cnt.aspx%3Fartid%3D5714%26page%3D1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.libertytimes.com.tw/2010/new/nov/18/today-e24-2.htm">ETF像股票也像基金 追蹤特定指數</a>.  <span class="reference-accessdate"> [<span class="nowrap">2010-11-19</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20121021234233/http://www.libertytimes.com.tw/2010/new/nov/18/today-e24-2.htm">存档</a>于2012-10-21）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.btitle=ETF%E5%83%8F%E8%82%A1%E7%A5%A8%E4%B9%9F%E5%83%8F%E5%9F%BA%E9%87%91+%E8%BF%BD%E8%B9%A4%E7%89%B9%E5%AE%9A%E6%8C%87%E6%95%B8&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.libertytimes.com.tw%2F2010%2Fnew%2Fnov%2F18%2Ftoday-e24-2.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ibts.com.tw/oversea/etf_03.htm">美國掛牌ETF一覽表</a>.  <span class="reference-accessdate"> [<span class="nowrap">2010-11-21</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://archive.is/20130418202335/http://www.ibts.com.tw/oversea/etf_03.htm">存档</a>于2013-04-18）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.btitle=%E7%BE%8E%E5%9C%8B%E6%8E%9B%E7%89%8CETF%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ibts.com.tw%2Foversea%2Fetf_03.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://211.20.76.50/099/10/0991028/1020102812401D89D65A84D049D1AAE9C697FBF262DA43A3.htm">美國首創稀土ETF周四起於NYSE掛牌交易</a>.  <span class="reference-accessdate"> [<span class="nowrap">2010-11-21</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://archive.is/20120712234349/http://211.20.76.50/099/10/0991028/1020102812401D89D65A84D049D1AAE9C697FBF262DA43A3.htm">存档</a>于2012-07-12）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.btitle=%E7%BE%8E%E5%9C%8B%E9%A6%96%E5%89%B5%E7%A8%80%E5%9C%9FETF%E5%91%A8%E5%9B%9B%E8%B5%B7%E6%96%BCNYSE%E6%8E%9B%E7%89%8C%E4%BA%A4%E6%98%93&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2F211.20.76.50%2F099%2F10%2F0991028%2F1020102812401D89D65A84D049D1AAE9C697FBF262DA43A3.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tradeoptions4living.com/%E5%B8%B8%E5%95%8F%E5%95%8F%E9%A1%8C/%E6%8C%87%E6%95%B8index-or-%E6%8C%87%E6%95%B8%E8%82%A1%E7%A5%A8%E5%9E%8B%E5%9F%BA%E9%87%91etf/">美國指數/ETF比較和簡介</a>.  <span class="reference-accessdate"> [<span class="nowrap">2015-07-07</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150707040245/http://www.tradeoptions4living.com/%E5%B8%B8%E5%95%8F%E5%95%8F%E9%A1%8C/%E6%8C%87%E6%95%B8index-or-%E6%8C%87%E6%95%B8%E8%82%A1%E7%A5%A8%E5%9E%8B%E5%9F%BA%E9%87%91etf/">存档</a>于2015-07-07）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.btitle=%E7%BE%8E%E5%9C%8B%E6%8C%87%E6%95%B8%2FETF%E6%AF%94%E8%BC%83%E5%92%8C%E7%B0%A1%E4%BB%8B&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tradeoptions4living.com%2F%25E5%25B8%25B8%25E5%2595%258F%25E5%2595%258F%25E9%25A1%258C%2F%25E6%258C%2587%25E6%2595%25B8index-or-%25E6%258C%2587%25E6%2595%25B8%25E8%2582%25A1%25E7%25A5%25A8%25E5%259E%258B%25E5%259F%25BA%25E9%2587%2591etf%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.usgupiao.com/us-stock/about-etf/">美股ETF知识介绍</a>.  <span class="reference-accessdate"> [<span class="nowrap">2015-07-06</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200329033738/https://www.usgupiao.com/us-stock/about-etf/">存档</a>于2020-03-29）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.btitle=%E7%BE%8E%E8%82%A1ETF%E7%9F%A5%E8%AF%86%E4%BB%8B%E7%BB%8D&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.usgupiao.com%2Fus-stock%2Fabout-etf%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.funddj.com/KMDJ/News/NewsViewer.aspx?a=39d2a640-3eba-4b07-b556-98f58039025e">日央行傳將首度「直接」自市場購買ETF及J-REIT</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fund.eastmoney.com/ETF_dwjz.html">天天基金网-ETF基金净值表</a>.  <span class="reference-accessdate"> [<span class="nowrap">2012-05-09</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200820044234/http://fund.eastmoney.com/ETF_dwjz.html">存档</a>于2020-08-20）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.btitle=%E5%A4%A9%E5%A4%A9%E5%9F%BA%E9%87%91%E7%BD%91-ETF%E5%9F%BA%E9%87%91%E5%87%80%E5%80%BC%E8%A1%A8&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ffund.eastmoney.com%2FETF_dwjz.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://money.chinatimes.com/news/news-content.aspx?id=20110422000963&amp;cid=1208">兩岸證交所 爭取ETF互相掛牌</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<a href="/wiki/Wikipedia:%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5" title="Wikipedia:失效链接"><span title="自2019年10月失效">永久失效連結</span></a>]</span></sup></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://money.udn.com/report/storypage.jsp?f_ART_ID=203270">兩岸三地500指數 台灣成分股</a>.  <span class="reference-accessdate"> [<span class="nowrap">2011-04-24</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20100126125722/http://money.udn.com/report/storypage.jsp?f_ART_ID=203270">存档</a>于2010-01-26）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.btitle=%E5%85%A9%E5%B2%B8%E4%B8%89%E5%9C%B0500%E6%8C%87%E6%95%B8+%E5%8F%B0%E7%81%A3%E6%88%90%E5%88%86%E8%82%A1&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmoney.udn.com%2Freport%2Fstorypage.jsp%3Ff_ART_ID%3D203270&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://money.udn.com/fund/storypage.jsp?">f_MAIN_ID=420&amp;f_SUB_ID=3097&amp;f_ART_ID=231076 懶人投資 選ETF 3步搞定</a><span style="font-size:100%" class="error citation-comment"> 请检查<code style="color:inherit; border:inherit; padding:inherit;">|url=</code>值 (<a href="/wiki/Help:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E9%94%99%E8%AF%AF#bad_url" title="Help:引文格式1错误">帮助</a>)</span>.  <span class="reference-accessdate"> [<span class="nowrap">2011-03-03</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20140531105303/http://money.udn.com/fund/storypage.jsp?f_MAIN_ID=420&amp;f_SUB_ID=3097&amp;f_ART_ID=231076">存档</a>于2014-05-31）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.btitle=%E6%87%B6%E4%BA%BA%E6%8A%95%E8%B3%87+%E9%81%B8ETF+3%E6%AD%A5%E6%90%9E%E5%AE%9A&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmoney.udn.com%2Ffund%2Fstorypage.jsp%3F+f_MAIN_ID%3D420%26f_SUB_ID%3D3097%26f_ART_ID%3D231076&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://finance.ce.cn/rolling/201112/02/t20111202_16681444.shtml">ETF认识的几个误区</a>. <a href="/wiki/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%BD%91" title="中国经济网">中国经济网</a>.  <span class="reference-accessdate"> [<span class="nowrap">2014-05-30</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191006122838/http://finance.ce.cn/rolling/201112/02/t20111202_16681444.shtml">存档</a>于2019-10-06）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;rft.btitle=ETF%E8%AE%A4%E8%AF%86%E7%9A%84%E5%87%A0%E4%B8%AA%E8%AF%AF%E5%8C%BA&amp;rft.genre=unknown&amp;rft.pub=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%BD%91&amp;rft_id=http%3A%2F%2Ffinance.ce.cn%2Frolling%2F201112%2F02%2Ft20111202_16681444.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+</ol></div>
+<h2><span id=".E5.8F.83.E8.80.83.E6.96.87.E7.8D.BB"></span><span class="mw-headline" id="參考文獻">參考文獻</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=16" title="编辑章节：參考文獻">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r76097801">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}</style><div class="refbegin" style="">
+<ul><li><a rel="nofollow" class="external text" href="http://www.usgupiao.com/us-stock/about-etf/">美股ETF知识介绍</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20200329033738/http://www.usgupiao.com/us-stock/about-etf/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），2015年7月6日</li></ul>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="https://reeselu.com/how-to-buy-etf/">5步驟挑出優質ETF</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20220925171422/https://reeselu.com/how-to-buy-etf/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://www.sinotrade.com.tw/richclub/primary/ETF%E6%98%AF%E4%BB%80%E9%BA%BC-ETF%E5%84%AA%E7%BC%BA%E9%BB%9E%E6%9C%89%E5%93%AA%E4%BA%9B-ETF-%E8%82%A1%E7%A5%A8-%E5%9F%BA%E9%87%91%E6%80%8E%E9%BA%BC%E9%81%B8-ETF%E6%B7%A8%E5%80%BC-%E6%8A%98%E6%BA%A2%E5%83%B9-%E4%B8%80%E6%96%87%E6%87%82ETF---62d7c22b5d5d9b4ac453317b?utm_source=W">ETF是什麼？ETF優缺點有哪些？ETF淨值、折溢價？一文懂ETF！</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20230222081417/https://www.sinotrade.com.tw/richclub/primary/ETF%E6%98%AF%E4%BB%80%E9%BA%BC-ETF%E5%84%AA%E7%BC%BA%E9%BB%9E%E6%9C%89%E5%93%AA%E4%BA%9B-ETF-%E8%82%A1%E7%A5%A8-%E5%9F%BA%E9%87%91%E6%80%8E%E9%BA%BC%E9%81%B8-ETF%E6%B7%A8%E5%80%BC-%E6%8A%98%E6%BA%A2%E5%83%B9-%E4%B8%80%E6%96%87%E6%87%82ETF---62d7c22b5d5d9b4ac453317b?utm_source=W">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<h2><span id=".E5.BB.B6.E4.BC.B8.E9.96.B1.E8.AE.80"></span><span class="mw-headline" id="延伸閱讀">延伸閱讀</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=17" title="编辑章节：延伸閱讀">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r76097801"><div class="refbegin" style="">
+<ul><li>Carrell, Lawrence. <i>ETFs for the Long Run: What They Are, How They Work, and Simple Strategies for Successful Long-Term Investing</i>. JW Wiley, 2008. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780470138946" class="internal mw-magiclink-isbn">ISBN 978-0-470-13894-6</a></li>
+<li>Ferri, Richard A. <i>The ETF Book: All You Need to Know About Exchange-Traded Funds</i>. Wiley, 2009. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0470537469" class="internal mw-magiclink-isbn">ISBN 0-470-53746-9</a></li>
+<li>Humphries, William. <i>Leveraged ETFs: The Trojan Horse Has Passed the Margin-Rule Gates</i>. 34 Seattle U.L. Rev. 299 (2010), available at <a rel="nofollow" class="external autonumber" href="http://lawpublications.seattleu.edu/sulr/vol34/iss1/8/">[1]</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20110722062909/http://lawpublications.seattleu.edu/sulr/vol34/iss1/8/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）.</li>
+<li>Koesterich, Russ. <i>The ETF Strategist: Balancing Risk and Reward for Superior Returns</i>. Portfolio, 2008. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9781591842071" class="internal mw-magiclink-isbn">ISBN 978-1-59184-207-1</a></li>
+<li>Lemke, Thomas P; Lins, Gerald T. &amp; McGuire, W. John. <i>Regulation of Exchange-Traded Funds</i>. Matthew Bender, 2015. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780769891316" class="internal mw-magiclink-isbn">ISBN 978-0-7698-9131-6</a></li></ul>
+</div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90"></span><span class="mw-headline" id="外部連結">外部連結</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=18" title="编辑章节：外部連結">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="中文">（繁體中文）</span><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100318054009/http://www.twse.com.tw/ch/products/securities/ETF/introduce.php">指數股票型基金（ETF）簡介</a></li>
+<li><span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="中文">（繁體中文）</span><a rel="nofollow" class="external text" href="https://web.archive.org/web/20101228061212/http://www.twse.com.tw/ch/about/press_room/ETF_WEB/index.html">ETF主題展</a></li>
+<li><span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="中文">（繁體中文）</span><a rel="nofollow" class="external text" href="https://archive.is/20121223025023/http://www.fund.gov.tw/ct.asp?xItem=2752&amp;ctNode=473&amp;mp=1">用ETF掌握世界脈動（上）</a><a rel="nofollow" class="external text" href="https://archive.is/20121222070742/http://www.fund.gov.tw/ct.asp?xItem=3074&amp;ctNode=473&amp;mp=1">（下）</a></li>
+<li><span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="中文">（繁體中文）</span><a rel="nofollow" class="external text" href="http://www.hkex.com.hk/chi/etfrc/ETFTA/ETFTradingArrangement_c.htm">交易所買賣基金名單及交易安排</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20200329033825/http://www.hkex.com.hk/chi/etfrc/ETFTA/ETFTradingArrangement_c.htm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） - <a href="/wiki/%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E5%8F%8A%E7%B5%90%E7%AE%97%E6%89%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8" class="mw-redirect" title="香港交易及結算所有限公司">香港交易及結算所有限公司</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1381
+Cached time: 20230804070909
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.638 seconds
+Real time usage: 0.772 seconds
+Preprocessor visited node count: 2341/1000000
+Post‐expand include size: 88704/2097152 bytes
+Template argument size: 2340/2097152 bytes
+Highest expansion depth: 30/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 19201/5000000 bytes
+Lua time usage: 0.301/10.000 seconds
+Lua memory usage: 15744914/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  597.478      1 -total
+ 39.03%  233.189      1 Template:Reflist
+ 21.76%  130.027     12 Template:Cite_web
+ 20.46%  122.226      1 Template:Lang-en
+ 11.49%   68.636      1 Template:Dead_link
+ 10.37%   61.956      1 Template:Fix
+  9.74%   58.211      1 Template:Refimprove
+  9.55%   57.030      2 Template:Category_handler
+  8.84%   52.844      1 Template:NoteTA
+  8.12%   48.541      1 Template:Ambox
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:326835-0!canonical!zh and timestamp 20230804070908 and revision id 77830221. Rendering was triggered because: api-parse
+ -->
+</div>

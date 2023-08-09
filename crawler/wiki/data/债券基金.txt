@@ -1,0 +1,69 @@
+wiki 标题： 债券基金
+wiki 分类： 债券	证券投资基金	债券市场	含有缺少网址的网站引用的页面	Webarchive模板wayback链接	自2022年9月部分地区的观点	拒绝当选首页新条目推荐栏目的条目
+wiki 网址： https://zh.wikipedia.org/wiki/%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91
+crawl时间： 1691399273.6751518
+text 内容： 债券基金是以债券为主要投资标的的共同基金[1]，绝大多数债券基金以开放式基金形态发行。债券基金可以视为多种债券的投资组合[2]。债券基金收益稳定、风险较小，相对于股票基金风险更低，收益比银行存款更高[3]。不过债券基金也会有波动，有时候会出现负收益，流动性和稳定性不如货币基金。由于债券投资管理简单，债券基金的管理费相对较低[4][5][6]。
+债券基金按照是否能够投资股票市场，它还可以细分为纯债基金、一级债基和二级债基[6]：
+*如果基金全部投资债券，那么这种债券基金就是纯债基金。主要投资国债、政府债券的纯债基金叫作利率债基金。这类债券基金风险较低。投资企业债券、公司债的纯债基金被称为信用债基金，由于公司存在违约风险，这类债券的风险会比较大。主要投资可转换债券的纯债基金被称为可转债基金。可转债基金与股市的相关性很大，波动远比其他的债券基金大[6][5][5]。
+*如果基金投资债券的同时参与一级市场的新股申购，这种债券基金称为一级债基。2012年，中国证券业协会取消了新股申购资格，中国大陆的一级债基实际上已不存在[6]。
+*如果基金投资债券的同时参与投资二级市场，这种债券基金被称为二级债基。不过股票的持仓最多不超过基金资产的20%[6]。
+股票配置越多，波动和风险也就越大，所以纯债基金波动和风险相对较低，二级债基波动和风险相对较高[6]。
+
+<div class="mw-parser-output"><table class="box-Globalize plainlinks metadata ambox ambox-content ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Ambox_globe_content.svg" class="mw-file-description" title="Globe icon"><img alt="Globe icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/40px-Ambox_globe_content.svg.png" decoding="async" width="40" height="33" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/60px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/80px-Ambox_globe_content.svg.png 2x" data-file-width="350" data-file-height="290"></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此條目<b>論述以部分區域為主</b>，未必有<a href="/wiki/Wikipedia:%E9%81%BF%E5%85%8D%E5%9C%B0%E5%9F%9F%E4%B8%AD%E5%BF%83" title="Wikipedia:避免地域中心">普世通用</a>的觀點。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2022年9月7日</span>)</i></small><span class="hide-when-compact"><br><small>請<span class="plainlinks"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91&amp;action=edit">協助補充內容</a></span>以<a href="/wiki/Wikipedia:%E9%81%BF%E5%85%8D%E5%9C%B0%E5%9F%9F%E4%B8%AD%E5%BF%83" title="Wikipedia:避免地域中心">避免偏頗</a>，或<a href="/wiki/Talk:%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91" title="Talk:债券基金">討論</a>本文的問題。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<p><b>债券基金</b>是以<a href="/wiki/%E5%80%BA%E5%88%B8" title="债券">债券</a>为主要投资标的的<a href="/wiki/%E5%85%B1%E5%90%8C%E5%9F%BA%E9%87%91" title="共同基金">共同基金</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>，绝大多数债券基金以<a href="/wiki/%E5%BC%80%E6%94%BE%E5%BC%8F%E5%9F%BA%E9%87%91" title="开放式基金">开放式基金</a>形态发行。债券基金可以視為多種債券的投資組合<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>。债券基金收益稳定、风险较小，相對於<a href="/wiki/%E8%82%A1%E7%A5%A8%E5%9F%BA%E9%87%91" title="股票基金">股票基金</a>风险更低，收益比銀行<a href="/wiki/%E5%AD%98%E6%AC%BE" title="存款">存款</a>更高<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>。不過债券基金也會有波动，有时候會出現负收益，流動性和穩定性不如<a href="/wiki/%E8%B2%A8%E5%B9%A3%E5%9F%BA%E9%87%91" title="貨幣基金">貨幣基金</a>。由于债券投资管理简单，债券基金的管理费相对较低<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-cnn_5-0" class="reference"><a href="#cite_note-cnn-5">[5]</a></sup><sup id="cite_ref-:0_6-0" class="reference"><a href="#cite_note-:0-6">[6]</a></sup>。
+</p><p>债券基金按照是否能够投资股票市场，它還可以細分为纯债基金、一级债基和二级债基<sup id="cite_ref-:0_6-1" class="reference"><a href="#cite_note-:0-6">[6]</a></sup>：
+</p><p>*如果基金全部投资债券，那么这种债券基金就是纯债基金。主要投资国债、政府债券的纯债基金叫作利率债基金。這類債券基金風險較低。投资企业债券、公司债的纯债基金被稱為信用债基金，由於公司存在违约风险，这类债券的风险会比较大。主要投资<a href="/wiki/%E5%8F%AF%E8%BD%89%E6%8F%9B%E5%82%B5%E5%88%B8" class="mw-redirect" title="可轉換債券">可轉換債券</a>的纯债基金被稱為可转债基金。可转债基金与股市的相关性很大，波动远比其他的债券基金大<sup id="cite_ref-:0_6-2" class="reference"><a href="#cite_note-:0-6">[6]</a></sup><sup id="cite_ref-cnn_5-1" class="reference"><a href="#cite_note-cnn-5">[5]</a></sup><sup id="cite_ref-cnn_5-2" class="reference"><a href="#cite_note-cnn-5">[5]</a></sup>。
+</p><p>*如果基金投资债券的同時参与<a href="/wiki/%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA" title="一级市场">一级市场</a>的新股申購，这种债券基金称为一级债基。2012年，中国证券业协会取消了新股申購资格，<a href="/wiki/%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8" class="mw-redirect" title="中國大陸">中國大陸</a>的一级债基實際上已不存在<sup id="cite_ref-:0_6-3" class="reference"><a href="#cite_note-:0-6">[6]</a></sup>。
+</p><p>*如果基金投资债券的同時参与投资<a href="/wiki/%E4%BA%8C%E7%BA%A7%E5%B8%82%E5%9C%BA" title="二级市场">二级市场</a>，这种债券基金被称为二级债基。不过股票的持仓最多不超过基金资产的20%<sup id="cite_ref-:0_6-4" class="reference"><a href="#cite_note-:0-6">[6]</a></sup>。
+</p><p>股票配置越多，波动和风险也就越大，所以纯债基金波动和风险相對較低，二级债基波动和风险相對較高<sup id="cite_ref-:0_6-5" class="reference"><a href="#cite_note-:0-6">[6]</a></sup>。 
+</p>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91&amp;action=edit&amp;section=1" title="编辑章节：参考文献">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/answers/bondfunds.htm">U.S. Securities and Exchange Commission on Bond Funds</a>.  <span class="reference-accessdate"> [<span class="nowrap">2022-09-07</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170217163705/http://www.sec.gov/answers/bondfunds.htm">存档</a>于2017-02-17）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91&amp;rft.btitle=U.S.+Securities+and+Exchange+Commission+on+Bond+Funds&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2Fanswers%2Fbondfunds.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">杨光瑶编著,理财投资百科,中国铁道出版社,2017.10,第70页.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91&amp;rft.btitle=%E6%9D%A8%E5%85%89%E7%91%B6%E7%BC%96%E8%91%97%2C%E7%90%86%E8%B4%A2%E6%8A%95%E8%B5%84%E7%99%BE%E7%A7%91%2C%E4%B8%AD%E5%9B%BD%E9%93%81%E9%81%93%E5%87%BA%E7%89%88%E7%A4%BE%2C2017.10%2C%E7%AC%AC70%E9%A1%B5&amp;rft.genre=unknown&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span> <span style="display:none;font-size:100%" class="error citation-comment">缺少或<code style="color:inherit; border:inherit; padding:inherit;">|url=</code>为空 (<a href="/wiki/Help:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E9%94%99%E8%AF%AF#cite_web_url" title="Help:引文格式1错误">帮助</a>)</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">乔布云编著,从零开始读懂投资理财学,立信会计出版社,2019.02,第187页.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91&amp;rft.btitle=%E4%B9%94%E5%B8%83%E4%BA%91%E7%BC%96%E8%91%97%2C%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E8%AF%BB%E6%87%82%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2%E5%AD%A6%2C%E7%AB%8B%E4%BF%A1%E4%BC%9A%E8%AE%A1%E5%87%BA%E7%89%88%E7%A4%BE%2C2019.02%2C%E7%AC%AC187%E9%A1%B5&amp;rft.genre=unknown&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span> <span style="display:none;font-size:100%" class="error citation-comment">缺少或<code style="color:inherit; border:inherit; padding:inherit;">|url=</code>为空 (<a href="/wiki/Help:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E9%94%99%E8%AF%AF#cite_web_url" title="Help:引文格式1错误">帮助</a>)</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">吴维海著,企业融资170种模式及操作案例  第2版,中国金融出版社,2019.07,第258页.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91&amp;rft.btitle=%E5%90%B4%E7%BB%B4%E6%B5%B7%E8%91%97%2C%E4%BC%81%E4%B8%9A%E8%9E%8D%E8%B5%84170%E7%A7%8D%E6%A8%A1%E5%BC%8F%E5%8F%8A%E6%93%8D%E4%BD%9C%E6%A1%88%E4%BE%8B%C2%A0+%E7%AC%AC2%E7%89%88%2C%E4%B8%AD%E5%9B%BD%E9%87%91%E8%9E%8D%E5%87%BA%E7%89%88%E7%A4%BE%2C2019.07%2C%E7%AC%AC258%E9%A1%B5&amp;rft.genre=unknown&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span> <span style="display:none;font-size:100%" class="error citation-comment">缺少或<code style="color:inherit; border:inherit; padding:inherit;">|url=</code>为空 (<a href="/wiki/Help:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E9%94%99%E8%AF%AF#cite_web_url" title="Help:引文格式1错误">帮助</a>)</span></span>
+</li>
+<li id="cite_note-cnn-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-cnn_5-0"><sup><b>5.0</b></sup></a> <a href="#cite_ref-cnn_5-1"><sup><b>5.1</b></sup></a> <a href="#cite_ref-cnn_5-2"><sup><b>5.2</b></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://money.cnn.com/pf/101/lessons/7/page3.html">CNN Money 101 - Types of Bonds</a> <a href="/wiki/Wayback_Machine" class="mw-redirect" title="Wayback Machine">互联网档案馆</a>的<a rel="nofollow" class="external text" href="https://web.archive.org/web/20061123113750/https://money.cnn.com/pf/101/lessons/7/page3.html">存檔</a>，存档日期November 23, 2006，.</span>
+</li>
+<li id="cite_note-:0-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_6-0"><sup><b>6.0</b></sup></a> <a href="#cite_ref-:0_6-1"><sup><b>6.1</b></sup></a> <a href="#cite_ref-:0_6-2"><sup><b>6.2</b></sup></a> <a href="#cite_ref-:0_6-3"><sup><b>6.3</b></sup></a> <a href="#cite_ref-:0_6-4"><sup><b>6.4</b></sup></a> <a href="#cite_ref-:0_6-5"><sup><b>6.5</b></sup></a></span> <span class="reference-text"><cite class="citation web">胡瑞著,24天理财精品课,中国铁道出版社有限公司,2020.12,第196页.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91&amp;rft.btitle=%E8%83%A1%E7%91%9E%E8%91%97%2C24%E5%A4%A9%E7%90%86%E8%B4%A2%E7%B2%BE%E5%93%81%E8%AF%BE%2C%E4%B8%AD%E5%9B%BD%E9%93%81%E9%81%93%E5%87%BA%E7%89%88%E7%A4%BE%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%2C2020.12%2C%E7%AC%AC196%E9%A1%B5&amp;rft.genre=unknown&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span> <span style="display:none;font-size:100%" class="error citation-comment">缺少或<code style="color:inherit; border:inherit; padding:inherit;">|url=</code>为空 (<a href="/wiki/Help:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E9%94%99%E8%AF%AF#cite_web_url" title="Help:引文格式1错误">帮助</a>)</span></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw1448
+Cached time: 20230804160642
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.119 seconds
+Real time usage: 0.163 seconds
+Preprocessor visited node count: 324/1000000
+Post‐expand include size: 12630/2097152 bytes
+Template argument size: 129/2097152 bytes
+Highest expansion depth: 9/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6911/5000000 bytes
+Lua time usage: 0.049/10.000 seconds
+Lua memory usage: 2849408/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  132.753      1 -total
+ 60.08%   79.752      1 Template:Reflist
+ 38.94%   51.695      5 Template:Cite_web
+ 32.05%   42.550      1 Template:Globalize
+ 30.81%   40.906      1 Template:Ambox
+  4.55%    6.039      1 Template:Webarchive
+  2.02%    2.678      1 Template:Plainlink
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:8104917-0!canonical!zh and timestamp 20230804160642 and revision id 76071870. Rendering was triggered because: api-parse
+ -->
+</div>

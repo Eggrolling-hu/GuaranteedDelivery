@@ -1,4 +1,5 @@
 from scrapy.selector import Selector
+# from opencc import OpenCC
 from pathlib import Path
 
 import scrapy
@@ -8,9 +9,12 @@ import os
 from wiki.items import ContentItem
 
 
+# cc = OpenCC('t2s')
+
+
 class WikiSpider(scrapy.Spider):
     name = "wiki"
-    n, max_n = 0, 20
+    n, max_n = 0, 2000
 
     def start_requests(self):
         urls = [
@@ -48,10 +52,10 @@ class WikiSpider(scrapy.Spider):
         print(f"To add {len(url_candidates_set)} urls")
 
         for url in url_candidates_set:
+
             if 'Category:' in url:
                 yield scrapy.Request(url, callback=self.parse_category)
-            else:
-                yield scrapy.Request(url, callback=self.parse_content)
+            yield scrapy.Request(url, callback=self.parse_content)
 
     def parse_content(self, response):
         if self.is_exceed_max_requests():
@@ -72,7 +76,6 @@ class WikiSpider(scrapy.Spider):
         text_content_list = search.xpath(
             '//div[@class="mw-parser-output"]//p//text()').extract()
         text_content = " ".join(text_content_list).strip()
-        # text_content = ""
 
         counselor_item['content_entity'] = content_entity if content_entity else self.n
         counselor_item['category'] = '\t'.join(cates)
@@ -80,7 +83,5 @@ class WikiSpider(scrapy.Spider):
         counselor_item['url'] = response.url
         counselor_item['text'] = text_content
         counselor_item['content'] = str(content_page)
-
-        print("1111111,{}".format(counselor_item))
 
         return counselor_item

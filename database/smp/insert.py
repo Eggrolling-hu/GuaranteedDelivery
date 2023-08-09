@@ -89,15 +89,15 @@ if __name__ == "__main__":
         if i >= n - 1:
             break
 
-    # TAB_DIRECTORY = "../../data/chatglm_llm_fintech_raw_dataset/alltable"
-    # file_names = glob.glob(TAB_DIRECTORY + '/*.cal')
-    # for i, file_name in enumerate(file_names):
-    #     if i < skip:
-    #         continue
-    #     print(f"No.{i} insert_tab")
-    #     try:
-    #         insert_table(file_name, uuid_dict)
-    #     except:
-    #         print(f"error: {file_name}")
-    #     if i >= n - 1:
-    #         break
+    TAB_DIRECTORY = "../../data/chatglm_llm_fintech_raw_dataset/alltable"
+    file_names = glob.glob(TAB_DIRECTORY + '/*.cal')
+    for i, file_name in enumerate(file_names):
+        if i < skip:
+            continue
+        print(f"No.{i} insert_tab")
+        try:
+            insert_table(file_name, uuid_dict)
+        except:
+            print(f"error: {file_name}")
+        if i >= n - 1:
+            break

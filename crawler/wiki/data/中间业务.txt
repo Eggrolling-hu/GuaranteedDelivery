@@ -1,0 +1,47 @@
+wiki 标题： 中间业务
+wiki 分类： 商业	金融	银行术语	全部小作品	商业小作品
+wiki 网址： https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%97%B4%E4%B8%9A%E5%8A%A1
+crawl时间： 1691399281.0879474
+text 内容： 中间业务是银行在传统资产负债表业务基础上，以中介人或代理人身份提供各类金融服务，形成非利息收入的业务。
+中间业务是商业银行不动用本行资产为客户办理的服务性业务，手续费是银行利润来源之一。主要包括：理财业务、结算业务、信用证业务、代收业务、代客买卖业务、信托业务、租赁业务、出租保管箱业务、代理融通、银行卡、信用卡业务、咨询业务等。
+
+<div class="mw-parser-output"><p><b>中间业务</b>是银行在传统<a href="/wiki/%E8%B5%84%E4%BA%A7%E8%B4%9F%E5%80%BA%E8%A1%A8" class="mw-redirect" title="资产负债表">资产负债表</a>业务基础上，以<a href="/w/index.php?title=%E4%B8%AD%E4%BB%8B%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="中介人（页面不存在）">中介人</a>或<a href="/wiki/%E4%BB%A3%E7%90%86%E4%BA%BA" class="mw-redirect" title="代理人">代理人</a>身份提供各类金融服务，形成非利息收入的业务。
+</p><p><b>中间业务</b>是<a href="/wiki/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C" title="商业银行">商业银行</a>不动用本行<a href="/wiki/%E8%B5%84%E4%BA%A7" class="mw-redirect" title="资产">资产</a>为客户办理的服务性业务，<a href="/w/index.php?title=%E6%89%8B%E7%BB%AD%E8%B4%B9&amp;action=edit&amp;redlink=1" class="new" title="手续费（页面不存在）">手续费</a>是银行利润来源之一。主要包括：<a href="/wiki/%E7%90%86%E8%B2%A1" class="mw-redirect" title="理財">理财</a>业务、<a href="/wiki/%E7%BB%93%E7%AE%97" class="mw-redirect" title="结算">结算</a>业务、<a href="/wiki/%E4%BF%A1%E7%94%A8%E8%AF%81" title="信用证">信用证</a>业务、代收业务、代客买卖业务、<a href="/wiki/%E4%BF%A1%E6%89%98" class="mw-disambig" title="信托">信托</a>业务、<a href="/wiki/%E7%A7%9F%E8%B3%83" title="租賃">租赁</a>业务、出租<a href="/wiki/%E4%BF%9D%E9%9A%AA%E7%AE%B1" title="保險箱">保管箱</a>业务、<a href="/w/index.php?title=%E4%BB%A3%E7%90%86%E8%9E%8D%E9%80%9A&amp;action=edit&amp;redlink=1" class="new" title="代理融通（页面不存在）">代理融通</a>、<a href="/wiki/%E9%93%B6%E8%A1%8C%E5%8D%A1" title="银行卡">银行卡</a>、<a href="/wiki/%E4%BF%A1%E7%94%A8%E5%8D%A1" title="信用卡">信用卡</a>业务、<a href="/wiki/%E8%AB%AE%E8%A9%A2" title="諮詢">咨询</a>业务等。
+</p>
+<h2><span id=".E7.89.B9.E7.82.B9"></span><span class="mw-headline" id="特点">特点</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%B8%AD%E9%97%B4%E4%B8%9A%E5%8A%A1&amp;action=edit&amp;section=1" title="编辑章节：特点">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>不运用或不直接运用银行的自有资金。</li>
+<li>不承担或不直接承担市场风险。</li>
+<li>以接受客户委托为前提，为客户办理业务。</li>
+<li>以收取服务费（手续费、管理费等）、赚取价差的方式获得收益。</li>
+<li>种类多、范围广，产生的收入在商业银行营业收入中所占的比重日益上升。</li></ol>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr class="noresize"><td><span typeof="mw:File"><a href="/wiki/File:Business_template.svg" class="mw-file-description"><img alt="小作品圖示" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Business_template.svg/30px-Business_template.svg.png" decoding="async" width="30" height="30" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Business_template.svg/45px-Business_template.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Business_template.svg/60px-Business_template.svg.png 2x" data-file-width="48" data-file-height="48"></a></span></td><td style="font-size:smaller">这是一篇關於<a href="/wiki/%E5%95%86%E4%B8%9A" title="商业">商業</a>的<a href="/wiki/Wikipedia:%E5%B0%8F%E4%BD%9C%E5%93%81" title="Wikipedia:小作品">小作品</a>。你可以通过<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E4%B8%AD%E9%97%B4%E4%B8%9A%E5%8A%A1&amp;action=edit">编辑或修订</a>扩充其内容。<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Commerce-stub" title="Template:Commerce-stub"><abbr title="查看该模板">查</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Commerce-stub" title="Template talk:Commerce-stub"><abbr title="讨论该模板">论</abbr></a></li><li class="nv-edit"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:Commerce-stub&amp;action=edit"><abbr title="编辑该模板">编</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1423
+Cached time: 20230804080944
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.051 seconds
+Real time usage: 0.065 seconds
+Preprocessor visited node count: 53/1000000
+Post‐expand include size: 3055/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.007/10.000 seconds
+Lua memory usage: 788611/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   26.871      1 -total
+100.00%   26.871      1 Template:Commerce-stub
+ 95.05%   25.540      1 Template:Asbox
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:960745-0!canonical!zh and timestamp 20230804080944 and revision id 56570191. Rendering was triggered because: api-parse
+ -->
+</div>

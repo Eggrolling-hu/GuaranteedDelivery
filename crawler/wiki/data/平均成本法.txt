@@ -1,0 +1,422 @@
+wiki 标题： 平均成本法
+wiki 分类： 投资学	会计学	财务会计	投资策略	自2023年8月带有失效链接的条目	含有英语的条目
+wiki 网址： https://zh.wikipedia.org/wiki/%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95
+crawl时间： 1691399272.0897274
+text 内容： 平均成本法（英语：DollarCostAveraging，DCA）又名「懒人理财术」或「定期定额投资法」，为投资学名词，指在特定间隔期间（例如每月买入一次）、买入固定金额的某资产的投资策略。平均成本法的目的是为了规避因资产的波动性对投资人最终收益造成的负面影响。
+平均成本法以规律机械式的方式，固定周期、固定金额地投入资金买入某一种资产（如股票、基金、外汇、货物等），而不是一次性将全部资金买入。这样，即便在买入资产后该资产出现下跌，因投资人没有将全部资金投入，故损失较一次性单笔买入者少，后期还可因低位买入进一步拉低平均成本。因而使用平均成本法策略的投资人除了可以不断累积投资资本外，也可将「择时能力」从投资决策因子中排除，以分批投资方式进入市场，降低单一时间点投入的风险，让投资者不必「等」或「猜」所谓适当时机，不需去挑选何时执行进入、何时退出市场的指令。
+假设投资人每隔一定时期，投入相同金额，则投资人用平均成本法获得的收益率是：[1]
+
+
+
+
+r
+=
+
+
+
+p
+
+F
+
+
+
+
+
+
+p
+~
+
+
+
+
+P
+
+
+
+
+−
+1
+
+
+{\displaystyler={\frac{p_{F}}{{\tilde{p}}_{P}}}-1}
+
+
+其中，
+
+
+
+
+p
+
+F
+
+
+
+
+{\displaystylep_{F}}
+
+是投资人最后卖出资产时，该资产的单位价值，
+
+
+
+
+
+
+
+p
+~
+
+
+
+
+P
+
+
+
+
+{\displaystyle{\tilde{p}}_{P}}
+
+则是投资人历次投入资金时，各时点该资产单位价值的调和平均数。当投资人每次投入之间的投资间隔与整个投资周期相比非常短时，
+
+
+
+
+
+
+
+p
+~
+
+
+
+
+P
+
+
+
+
+{\displaystyle{\tilde{p}}_{P}}
+
+的值近似于在整个投资周期内该资产单位价值的调和平均数。
+平均成本法可以平抑购入资产的波动性，使投资人单位持有成本维持在该资产波动幅度内的中低水平，避免一次性买入时可能发生的“买在高点，跌在后面”的风险。定期买入定额的基金或证券，当价格较低时，客户用同一金额可以购买较多基金单位或股数，而当下次价格较高时，客户用同一定额的投资，则购入较少单位的证券。在长线投资上，该投资者的投资组合账户内，单位平均成本是较一般投资方法为低。且多次分开买进，可以分散单次买入点过高的风险。
+平均成本法不需要投资人一次性投入一大笔资金，而是每隔一定期限投入一小笔资金，故而较适合用定期获得的资金（如薪水）理财的投资人。
+平均成本法是部份基金公司及投资顾问大力推荐的投资方法，接受这一策略的客户会将每月收入的一部份会用作投资且不再需要基金公司及投资顾问提供的专业投资建议，因而可降低基金公司的成本。
+平均成本法尤其在先跌后涨的市场中能得到比直接投入更好的报酬。
+平均成本法不需要投资人“择时购买”的能力，但没有帮助投资人解决“何时卖出”的问题，投资人如果没有掌握一定的“止盈”技巧，长期的收益率将不会很理想。
+平均成本法要求投资人必须进行长线投资并忍耐可能发生的浮亏，一旦投资人无法忍受浮亏或失去耐心因而停止投入或将资产卖出，将导致平均成本法失败，造成亏损。
+长线而言，对于虽有波动但不断成长，或是波动很大而成长不明显的资产，平均成本法可以帮助投资人有效规避风险并获利；但若一项资产长期的趋势是不断下跌的，平均成本法的投资人仍然会亏损。例如电讯盈科收购了的香港电讯股票，虽然投资人所得的单位平均成本是较低，但是一只差劲的证券，还定期买入，结果总投资只有亏本了。
+此外，如果在一个先涨后跌的走势中就会因投入成本较高而有比直接投入较差的报酬。
+研究投资策略的商业和学术专家对平均成本法有着不同的观点。[2]苏茜·欧曼（英语：SuzeOrman）等理财师[3]认为平均成本法减少了投资者在一次性投入中的风险，但是TimothyMiddleton等人却认为平均成本法事实上就是一个营销噱头。[4]有研究者按照既往真实市场的情况分析了平均成本法的成本和收益，很多结果都提示平均成本法并不能达到理想的收益率。[5][6][7]
+近段时间许多对平均成本法的研究将重点放在了行为经济学角度。[8]Middleton认为，相比于一次性买入，平均成本法让投资者更愿意投入更多的资金。[9]
+定期定额投资法在台湾股市的研究显示，平均投资三到五年的周期赎回获利绩效较好，赎回时机决定此投资法的获利与否，在股市依估值在高档时赎回绩效较佳，在股市估值低时赎回绩效会低于存放于银行定存。超过五年以上的长期定期定额投资，获利会受到手续费与管理费侵蚀。[10]
+定期定额投资法其本意在于降低购入成本（不管是证券、共同基金），目的在改变单笔投资曝险比例过高的风险，但单纯的定期定额只要投资时间一旦拉长，就会变成了单笔投资，因为稀释成本的能力会因投入之成本逐渐加大而降低，此时卖出的时点就成了获利与否的关键，而时点却也是一般投资人最难以掌握的。
+针对定时定额投资法的缺憾，坊间也开发了许多改良式的定时定额投资法，例如限时限额加码停利投资法、定时变额投资法、复合投资法等等，每一种方法的逻辑都不尽相同，但共通点在于自动加码、自动停利的设定。
+
+<div class="mw-parser-output"><p><b>平均成本法</b>（英語：<span lang="en">Dollar Cost Averaging</span>，<b>DCA</b>）又名「<b>懶人理財術</b>」或「<b>定期定額投資法</b>」，為<a href="/wiki/%E6%8A%95%E8%B5%84%E5%AD%A6" title="投资学">投資學</a>名詞，指在特定間隔期間（例如每月買入一次）、買入固定金額的某資產的<a href="/wiki/%E6%8A%95%E8%B5%84" title="投资">投资</a>策略。平均成本法的目的是为了规避因资产的<a href="/wiki/%E6%B3%A2%E5%8A%A8%E6%80%A7" title="波动性">波动性</a>对投资人最终收益造成的负面影响。
+</p><p>平均<a href="/wiki/%E6%88%90%E6%9C%AC" title="成本">成本</a>法以規律機械式的方式，固定周期、固定金额地投入資金买入某一种资产（如<a href="/wiki/%E8%82%A1%E7%A5%A8" title="股票">股票</a>、<a href="/wiki/%E5%9F%BA%E9%87%91" title="基金">基金</a>、<a href="/wiki/%E5%A4%96%E6%B1%87" title="外汇">外汇</a>、<a href="/wiki/%E8%B2%A8%E7%89%A9" title="貨物">货物</a>等），而不是一次性将全部资金买入。这样，即便在买入资产后该资产出现下跌，因投资人没有将全部资金投入，故损失较一次性单笔买入者少，后期还可因低位买入进一步拉低平均成本。因而使用平均成本法策略的投资人除了可以不断累積投資<a href="/wiki/%E8%B3%87%E6%9C%AC" class="mw-redirect" title="資本">資本</a>外，也可將「擇時能力」從投資決策因子中排除，以分批投資方式進入市場，降低單一時間點投入的<a href="/wiki/%E9%A2%A8%E9%9A%AA" class="mw-redirect" title="風險">風險</a>，讓投資者不必「等」或「猜」所謂適當時機，不需去挑選何時執行進入、何時退出市場的指令。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="zh" dir="ltr"><h2 id="mw-toc-heading">目录</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#%E6%94%B6%E7%9B%8A"><span class="tocnumber">1</span> <span class="toctext">收益</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#%E5%84%AA%E9%BB%9E"><span class="tocnumber">2</span> <span class="toctext">優點</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#%E7%BC%BA%E9%BB%9E"><span class="tocnumber">3</span> <span class="toctext">缺點</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#%E8%AF%84%E4%BB%B7"><span class="tocnumber">4</span> <span class="toctext">评价</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#%E6%94%B9%E8%89%AF"><span class="tocnumber">5</span> <span class="toctext">改良</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99"><span class="tocnumber">6</span> <span class="toctext">參考資料</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#%E5%A4%96%E9%83%A8%E9%80%A3%E7%B5%90"><span class="tocnumber">7</span> <span class="toctext">外部連結</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".E6.94.B6.E7.9B.8A"></span><span class="mw-headline" id="收益">收益</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;action=edit&amp;section=1" title="编辑章节：收益">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>假设投资人每隔一定时期，投入相同金额，则投资人用平均成本法获得的收益率是：<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle r={\frac {p_{F}}{{\tilde {p}}_{P}}}-1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>r</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>p</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>F</mi>
+              </mrow>
+            </msub>
+            <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>p</mi>
+                    <mo stretchy="false">~<!-- ~ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>P</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>−<!-- − --></mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r={\frac {p_{F}}{{\tilde {p}}_{P}}}-1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba94700a6253a652c3fe58fb7d9c0a308cd1cd54" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:11.812ex; height:5.343ex;" alt="{\displaystyle r={\frac {p_{F}}{{\tilde {p}}_{P}}}-1}"></span>
+</p><p>其中，<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle p_{F}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>F</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{F}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da1a6e586a4605db51616a1237e0a7ddd7c77102" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:2.722ex; height:2.009ex;" alt="{\displaystyle p_{F}}"></span>是投资人最后卖出资产时，该资产的单位价值，<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\tilde {p}}_{P}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>p</mi>
+                <mo stretchy="false">~<!-- ~ --></mo>
+              </mover>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>P</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\tilde {p}}_{P}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/679bc5369898e04fe30cecb368ed0c92614d6e7f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:2.915ex; height:2.676ex;" alt="{\displaystyle {\tilde {p}}_{P}}"></span> 则是投资人历次投入资金时，各时点该资产单位价值的<a href="/wiki/%E8%B0%83%E5%92%8C%E5%B9%B3%E5%9D%87%E6%95%B0" title="调和平均数">调和平均数</a>。当投资人每次投入之间的投资间隔与整个投资周期相比非常短时，<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\tilde {p}}_{P}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>p</mi>
+                <mo stretchy="false">~<!-- ~ --></mo>
+              </mover>
+            </mrow>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>P</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\tilde {p}}_{P}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/679bc5369898e04fe30cecb368ed0c92614d6e7f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:2.915ex; height:2.676ex;" alt="{\displaystyle {\tilde {p}}_{P}}"></span>的值近似于在整个投资周期内该资产单位价值的调和平均数。
+</p>
+<h2><span id=".E5.84.AA.E9.BB.9E"></span><span class="mw-headline" id="優點">優點</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;action=edit&amp;section=2" title="编辑章节：優點">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>平均成本法可以平抑购入资产的<a href="/wiki/%E6%B3%A2%E5%8A%A8%E6%80%A7" title="波动性">波动性</a>，使投资人单位持有成本维持在该资产波动幅度内的中低水平，避免一次性买入时可能发生的“买在高点，跌在后面”的风险。定期買入定額的<a href="/wiki/%E8%AF%81%E5%88%B8%E6%8A%95%E8%B5%84%E5%9F%BA%E9%87%91" title="证券投资基金">基金</a>或<a href="/wiki/%E8%AD%89%E5%88%B8" title="證券">證券</a>，當<a href="/wiki/%E4%BB%B7%E6%A0%BC" title="价格">价格</a>較低時，客戶用同一金額可以購買較多基金單位或股數，而當下次價格較高時，客戶用同一定額的投資，則購入較少單位的<a href="/wiki/%E8%AD%89%E5%88%B8" title="證券">證券</a>。在<a href="/w/index.php?title=%E9%95%B7%E7%B7%9A%E6%8A%95%E8%B3%87&amp;action=edit&amp;redlink=1" class="new" title="長線投資（页面不存在）">長線投資</a>上，該投資者的<a href="/wiki/%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88" title="投資組合">投資組合</a>賬戶內，單位平均成本是較一般投資方法為低。且多次分開買進，可以分散單次買入點過高的風險。
+</p><p>平均成本法不需要投资人一次性投入一大笔资金，而是每隔一定期限投入一小笔资金，故而较适合用定期获得的资金（如<a href="/wiki/%E8%96%AA%E6%B0%B4" class="mw-redirect" title="薪水">薪水</a>）理财的投资人。
+</p><p>平均成本法是部份<a href="/w/index.php?title=%E5%9F%BA%E9%87%91%E5%85%AC%E5%8F%B8&amp;action=edit&amp;redlink=1" class="new" title="基金公司（页面不存在）">基金公司</a>及<a href="/wiki/%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F" class="mw-redirect" title="投資顧問">投資顧問</a>大力推薦的投資方法，接受这一策略的客户会将每月<a href="/wiki/%E6%94%B6%E5%85%A5" title="收入">收入</a>的一部份會用作<a href="/wiki/%E6%8A%95%E8%B5%84" title="投资">投资</a>且不再需要基金公司及投資顧問提供的專業投資建議，因而可降低基金公司的成本。
+</p><p>平均成本法尤其在先跌後漲的市場中能得到比直接投入更好的報酬。
+</p>
+<h2><span id=".E7.BC.BA.E9.BB.9E"></span><span class="mw-headline" id="缺點">缺點</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;action=edit&amp;section=3" title="编辑章节：缺點">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>平均成本法不需要投资人“择时购买”的能力，但没有帮助投资人解决“何时卖出”的问题，投资人如果没有掌握一定的“止盈”技巧，长期的收益率将不会很理想。
+</p><p>平均成本法要求投资人必须进行长线投资并忍耐可能发生的浮亏，一旦投资人无法忍受浮亏或失去耐心因而停止投入或将资产卖出，将导致平均成本法失败，造成亏损。
+</p><p>長線而言，对于虽有波动但不断成长，或是波动很大而成长不明显的资产，平均成本法可以帮助投资人有效规避风险并获利；但若一项资产长期的趋势是不断下跌的，平均成本法的投资人仍然会亏损。例如<a href="/wiki/%E9%9B%BB%E8%A8%8A%E7%9B%88%E7%A7%91" title="電訊盈科">電訊盈科</a>收購了的<a href="/wiki/%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%A8%8A" title="香港電訊">香港電訊</a><a href="/wiki/%E8%82%A1%E7%A5%A8" title="股票">股票</a>，雖然投資人所得的單位平均成本是較低，但是一隻差勁的<a href="/wiki/%E8%AD%89%E5%88%B8" title="證券">證券</a>，還定期買入，結果總投資只有虧本了。
+</p><p>此外，如果在一個先漲後跌的走勢中就會因投入成本較高而有比直接投入較差的報酬。
+</p>
+<h2><span id=".E8.AF.84.E4.BB.B7"></span><span class="mw-headline" id="评价">评价</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;action=edit&amp;section=4" title="编辑章节：评价">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>研究投资策略的商业和学术专家对平均成本法有着不同的观点。<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span class="ilh-all" data-orig-title="苏茜·欧曼" data-lang-code="en" data-lang-name="英语" data-foreign-title="Suze Orman"><span class="ilh-page"><a href="/w/index.php?title=%E8%8B%8F%E8%8C%9C%C2%B7%E6%AC%A7%E6%9B%BC&amp;action=edit&amp;redlink=1" class="new" title="苏茜·欧曼（页面不存在）">苏茜·欧曼</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Suze_Orman" class="extiw" title="en:Suze Orman"><span lang="en" dir="auto">Suze Orman</span></a></span>）</span></span>等理财师<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>认为平均成本法减少了投资者在一次性投入中的风险，但是Timothy Middleton等人却认为平均成本法事实上就是一个营销噱头。<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>有研究者按照既往真实市场的情况分析了平均成本法的成本和收益，很多结果都提示平均成本法并不能达到理想的收益率。<sup id="cite_ref-Knight_5-0" class="reference"><a href="#cite_note-Knight-5">[5]</a></sup><sup id="cite_ref-Greenhut_6-0" class="reference"><a href="#cite_note-Greenhut-6">[6]</a></sup><sup id="cite_ref-Constantinides_7-0" class="reference"><a href="#cite_note-Constantinides-7">[7]</a></sup>
+</p><p>近段时间许多对平均成本法的研究将重点放在了<a href="/wiki/%E8%A1%8C%E7%82%BA%E7%B6%93%E6%BF%9F%E5%AD%B8" title="行為經濟學">行为经济学</a>角度。<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Middleton认为，相比于一次性买入，平均成本法让投资者更愿意投入更多的资金。<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+</p><p>定期定額投資法在台灣股市的研究顯示，平均投資三到五年的週期贖回獲利績效較好，贖回時機決定此投資法的獲利與否，在股市依估值在高檔時贖回績效較佳，在股市估值低時贖回績效會低於存放於銀行定存。超過五年以上的長期定期定額投資，獲利會受到手續費與管理費侵蝕。<sup id="cite_ref-傅英芬_2007_10-0" class="reference"><a href="#cite_note-%E5%82%85%E8%8B%B1%E8%8A%AC_2007-10">[10]</a></sup>
+</p>
+<h2><span id=".E6.94.B9.E8.89.AF"></span><span class="mw-headline" id="改良">改良</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;action=edit&amp;section=5" title="编辑章节：改良">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>定期定額投資法其本意在於降低購入成本（不管是<a href="/wiki/%E8%AD%89%E5%88%B8" title="證券">證券</a>、<a href="/wiki/%E5%85%B1%E5%90%8C%E5%9F%BA%E9%87%91" title="共同基金">共同基金</a>），目的在改變單筆投資曝險比例過高的風險，但單純的定期定額只要投資時間一旦拉長，就會變成了單筆投資，因為稀釋成本的能力會因投入之成本逐漸加大而降低，此時賣出的時點就成了獲利與否的關鍵，而時點卻也是一般投資人最難以掌握的。
+</p><p>針對定時定額投資法的缺憾，坊間也開發了許多改良式的定時定額投資法，例如<a href="/wiki/%E9%99%90%E6%99%82%E9%99%90%E9%A1%8D%E5%8A%A0%E7%A2%BC%E5%81%9C%E5%88%A9%E6%8A%95%E8%B3%87%E6%B3%95" title="限時限額加碼停利投資法">限時限額加碼停利投資法</a>、定時變額投資法、複合投資法等等，每一種方法的邏輯都不盡相同，但共通點在於自動加碼、自動停利的設定。
+</p>
+<h2><span id=".E5.8F.83.E8.80.83.E8.B3.87.E6.96.99"></span><span class="mw-headline" id="參考資料">參考資料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;action=edit&amp;section=6" title="编辑章节：參考資料">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140903145724/http://www.richardcayne.com/dollar-cost-averaging/">Dollar cost averaging graph</a>.  <span class="reference-accessdate"> [<span class="nowrap">2014-08-28</span>]</span>. （<a rel="nofollow" class="external text" href="http://www.richardcayne.com/dollar-cost-averaging/">原始内容</a>存档于2014-09-03）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;rft.btitle=Dollar+cost+averaging+graph&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.richardcayne.com%2Fdollar-cost-averaging%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cass.city.ac.uk/__data/assets/pdf_file/0009/56898/3B_Hayley.pdf">Explaining the riddle of dollar cost averaging Hayley, S Cass Business School report 2010</a> <span style="font-size:85%;">(PDF)</span>.  <span class="reference-accessdate"> [<span class="nowrap">2017-12-17</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160804150858/http://www.cass.city.ac.uk/__data/assets/pdf_file/0009/56898/3B_Hayley.pdf">存档</a> <span style="font-size:85%;">(PDF)</span>于2016-08-04）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;rft.btitle=Explaining+the+riddle+of+dollar+cost+averaging+Hayley%2C+S+Cass+Business+School+report+2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cass.city.ac.uk%2F__data%2Fassets%2Fpdf_file%2F0009%2F56898%2F3B_Hayley.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090101211528/http://www.suzeorman.com/dt/calc_dollarcostaverage1.cfm">Archived copy</a>.  <span class="reference-accessdate"> [<span class="nowrap">2009-02-13</span>]</span>. （<a rel="nofollow" class="external text" href="http://www.suzeorman.com/dt/calc_dollarcostaverage1.cfm">原始内容</a>存档于2009-01-01）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.suzeorman.com%2Fdt%2Fcalc_dollarcostaverage1.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Middleton, Timothy. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20050910142530/http://moneycentral.msn.com/content/P104966.asp">The costly myth of dollar-cost averaging</a>. 2005-01-04 <span class="reference-accessdate"> [<span class="nowrap">2009-01-05</span>]</span>. （<a rel="nofollow" class="external text" href="https://moneycentral.msn.com/content/P104966.asp">原始内容</a>存档于September 10, 2005）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;rft.aufirst=Timothy&amp;rft.aulast=Middleton&amp;rft.btitle=The+costly+myth+of+dollar-cost+averaging&amp;rft.date=2005-01-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmoneycentral.msn.com%2Fcontent%2FP104966.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-Knight-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Knight_5-0">^</a></b></span> <span class="reference-text">Knight, J.R. and Mandell, L. Nobody Gains From Dollar Cost Averaging: Analytical, Numerical And Empirical Results. Financial Services Review, Vol. 2, Issue 1 (1992/93 pp. 51-61</span>
+</li>
+<li id="cite_note-Greenhut-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Greenhut_6-0">^</a></b></span> <span class="reference-text">Greenhut, J.G. Mathematical Illusion: Why Dollar-Cost Averaging Does Not Work. Journal of Financial Planning, Vol. 19, Issue 10 (October 2006), pp. 76-83</span>
+</li>
+<li id="cite_note-Constantinides-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Constantinides_7-0">^</a></b></span> <span class="reference-text">Constantinides, G.M. A Note on the Suboptimality of Dollar-Cost Averaging as an Investment Policy. The Journal of Financial and Quantitative Analysis, Vol. 14, No. 2 (Jun., 1979), pp. 443-450</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.acsu.buffalo.edu/~keechung/Lecture%20Notes%20and%20Syllabus%20(MGF633)/Behavioral%20Aspects%20of%20DollarCostAveraging.pdf">[1]</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20160329185734/http://www.acsu.buffalo.edu/~keechung/Lecture%20Notes%20and%20Syllabus%20(MGF633)/Behavioral%20Aspects%20of%20DollarCostAveraging.pdf">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） University of Buffalo report</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://beginnersinvest.about.com/cs/newinvestors/a/041901a.htm">Dollar Cost Averaging: A Technique that Drastically Reduces Market Risk</a>.  <span class="reference-accessdate"> [<span class="nowrap">2009-03-22</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://wayback.archive-it.org/all/20091109110225/http://beginnersinvest.about.com/cs/newinvestors/a/041901a.htm">存档</a>于2009-11-09）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;rft.btitle=Dollar+Cost+Averaging%3A+A+Technique+that+Drastically+Reduces+Market+Risk&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fbeginnersinvest.about.com%2Fcs%2Fnewinvestors%2Fa%2F041901a.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+<li id="cite_note-傅英芬_2007-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-%E5%82%85%E8%8B%B1%E8%8A%AC_2007_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web">傅英芬. <a rel="nofollow" class="external text" href="http://ir.lib.tut.edu.tw/wSite/PDFReader?xmlId=59308&amp;fileName=1426002650042&amp;format=pdf">定期定額投資股票型基金績效之評估與追蹤</a>. 2007-05-07.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;rft.au=%E5%82%85%E8%8B%B1%E8%8A%AC&amp;rft.btitle=%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D%E6%8A%95%E8%B3%87%E8%82%A1%E7%A5%A8%E5%9E%8B%E5%9F%BA%E9%87%91%E7%B8%BE%E6%95%88%E4%B9%8B%E8%A9%95%E4%BC%B0%E8%88%87%E8%BF%BD%E8%B9%A4&amp;rft.date=2007-05-07&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fir.lib.tut.edu.tw%2FwSite%2FPDFReader%3FxmlId%3D59308%26fileName%3D1426002650042%26format%3Dpdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<a href="/wiki/Wikipedia:%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5" title="Wikipedia:失效链接"><span title="">失效連結</span></a>]</span></sup></span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90"></span><span class="mw-headline" id="外部連結">外部連結</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E6%B3%95&amp;action=edit&amp;section=7" title="编辑章节：外部連結">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA" title="Template:金融市场"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA" title="Template talk:金融市场"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-edit"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%">金融市場</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA" title="资本市场">市場類型</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA" title="一级市场">一级市场</a></li>
+<li><a href="/wiki/%E4%BA%8C%E7%BA%A7%E5%B8%82%E5%9C%BA" title="二级市场">二級市場</a></li>
+<li><a href="/wiki/%E4%B8%89%E7%B4%9A%E5%B8%82%E5%A0%B4" title="三級市場">三級市場</a></li>
+<li><a href="/wiki/%E5%9B%9B%E7%B4%9A%E5%B8%82%E5%A0%B4" title="四級市場">四級市場</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%82%A1%E7%A5%A8" title="股票">股票類型</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%99%AE%E9%80%9A%E8%82%A1" title="普通股">普通股</a></li>
+<li><a href="/wiki/%E9%BB%83%E9%87%91%E8%82%A1" title="黃金股">黃金股</a></li>
+<li><a href="/wiki/%E5%84%AA%E5%85%88%E8%82%A1" title="優先股">優先股</a></li>
+<li><a href="/wiki/%E9%99%90%E5%88%B6%E6%80%A7%E8%82%A1%E7%A5%A8" title="限制性股票">限制性股票</a></li>
+<li><span class="ilh-all" data-orig-title="追蹤股票" data-lang-code="en" data-lang-name="英语" data-foreign-title="Tracking stock"><span class="ilh-page"><a href="/w/index.php?title=%E8%BF%BD%E8%B9%A4%E8%82%A1%E7%A5%A8&amp;action=edit&amp;redlink=1" class="new" title="追蹤股票（页面不存在）">追蹤股票</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Tracking_stock" class="extiw" title="en:Tracking stock"><span lang="en" dir="auto">Tracking stock</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%82%A1%E6%9C%AC" title="股本">股本</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%8E%88%E6%AC%8A%E8%B3%87%E6%9C%AC" title="授權資本">授權資本</a></li>
+<li><span class="ilh-all" data-orig-title="已發行股份" data-lang-code="en" data-lang-name="英语" data-foreign-title="Issued shares"><span class="ilh-page"><a href="/w/index.php?title=%E5%B7%B2%E7%99%BC%E8%A1%8C%E8%82%A1%E4%BB%BD&amp;action=edit&amp;redlink=1" class="new" title="已發行股份（页面不存在）">已發行股份</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Issued_shares" class="extiw" title="en:Issued shares"><span lang="en" dir="auto">Issued shares</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B5%81%E9%80%9A%E8%82%A1" title="流通股">流通股</a></li>
+<li><a href="/wiki/%E5%BA%93%E8%97%8F%E8%82%A1" title="库藏股">庫藏股</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">參與者</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="經銷商" data-lang-code="en" data-lang-name="英语" data-foreign-title="Broker-dealer"><span class="ilh-page"><a href="/wiki/%E7%BB%8F%E9%94%80%E5%95%86" class="mw-redirect" title="经销商">經銷商</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Broker-dealer" class="extiw" title="en:Broker-dealer"><span lang="en" dir="auto">Broker-dealer</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%95%B6%E6%97%A5%E6%B2%96%E9%8A%B7" title="當日沖銷">當日沖銷</a></li>
+<li><span class="ilh-all" data-orig-title="場內經紀人" data-lang-code="en" data-lang-name="英语" data-foreign-title="Floor broker"><span class="ilh-page"><a href="/w/index.php?title=%E5%A0%B4%E5%85%A7%E7%B6%93%E7%B4%80%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="場內經紀人（页面不存在）">場內經紀人</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Floor_broker" class="extiw" title="en:Floor broker"><span lang="en" dir="auto">Floor broker</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="場內交易者" data-lang-code="en" data-lang-name="英语" data-foreign-title="Floor trader"><span class="ilh-page"><a href="/w/index.php?title=%E5%A0%B4%E5%85%A7%E4%BA%A4%E6%98%93%E8%80%85&amp;action=edit&amp;redlink=1" class="new" title="場內交易者（页面不存在）">場內交易者</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Floor_trader" class="extiw" title="en:Floor trader"><span lang="en" dir="auto">Floor trader</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%8A%95%E8%B3%87%E8%80%85" title="投資者">投資者</a></li>
+<li><a href="/wiki/%E5%81%9A%E5%B8%82%E5%95%86" title="做市商">做市商</a></li>
+<li><span class="ilh-all" data-orig-title="自營交易" data-lang-code="en" data-lang-name="英语" data-foreign-title="Proprietary trading"><span class="ilh-page"><a href="/wiki/%E8%87%AA%E8%90%A5%E4%BA%A4%E6%98%93" title="自营交易">自營交易</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Proprietary_trading" class="extiw" title="en:Proprietary trading"><span lang="en" dir="auto">Proprietary trading</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="定量分析師" data-lang-code="en" data-lang-name="英语" data-foreign-title="Quantitative analyst"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%9A%E9%87%8F%E5%88%86%E6%9E%90%E5%B8%AB&amp;action=edit&amp;redlink=1" class="new" title="定量分析師（页面不存在）">定量分析師</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Quantitative_analyst" class="extiw" title="en:Quantitative analyst"><span lang="en" dir="auto">Quantitative analyst</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%87%91%E8%9E%8D%E6%B3%95" class="mw-redirect" title="金融法">金融法</a></li>
+<li><a href="/wiki/%E9%87%91%E8%9E%8D%E7%9B%A3%E7%AE%A1" title="金融監管">金融監管</a></li>
+<li><span class="ilh-all" data-orig-title="股票交易員" data-lang-code="en" data-lang-name="英语" data-foreign-title="Stock trader"><span class="ilh-page"><a href="/w/index.php?title=%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93%E5%93%A1&amp;action=edit&amp;redlink=1" class="new" title="股票交易員（页面不存在）">股票交易員</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Stock_trader" class="extiw" title="en:Stock trader"><span lang="en" dir="auto">Stock trader</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80" title="证券交易所">证券交易所</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="電子通訊網路" data-lang-code="en" data-lang-name="英语" data-foreign-title="Electronic communication network"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E5%AD%90%E9%80%9A%E8%A8%8A%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;redlink=1" class="new" title="電子通訊網路（页面不存在）">電子通訊網路</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Electronic_communication_network" class="extiw" title="en:Electronic communication network"><span lang="en" dir="auto">Electronic communication network</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%B8%96%E7%95%8C%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E5%88%97%E8%A1%A8" title="世界證券交易所列表">世界證券交易所列表</a>（<span class="ilh-all" data-orig-title="證券交易所交易時間列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of stock exchange trading hours"><span class="ilh-page"><a href="/w/index.php?title=%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E4%BA%A4%E6%98%93%E6%99%82%E9%96%93%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="證券交易所交易時間列表（页面不存在）">證券交易所交易時間列表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_stock_exchange_trading_hours" class="extiw" title="en:List of stock exchange trading hours"><span lang="en" dir="auto">List of stock exchange trading hours</span></a></span>）</span></span>）</li>
+<li><span class="ilh-all" data-orig-title="多邊交易機制" data-lang-code="en" data-lang-name="英语" data-foreign-title="Multilateral trading facility"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%9A%E9%82%8A%E4%BA%A4%E6%98%93%E6%A9%9F%E5%88%B6&amp;action=edit&amp;redlink=1" class="new" title="多邊交易機制（页面不存在）">多邊交易機制</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Multilateral_trading_facility" class="extiw" title="en:Multilateral trading facility"><span lang="en" dir="auto">Multilateral trading facility</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%9F%9C%E5%8F%B0%E4%B9%B0%E5%8D%96" title="柜台买卖">櫃檯買賣</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><span class="ilh-all" data-orig-title="股票評價" data-lang-code="en" data-lang-name="英语" data-foreign-title="Stock valuation"><span class="ilh-page"><a href="/w/index.php?title=%E8%82%A1%E7%A5%A8%E8%A9%95%E5%83%B9&amp;action=edit&amp;redlink=1" class="new" title="股票評價（页面不存在）">股票評價</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Stock_valuation" class="extiw" title="en:Stock valuation"><span lang="en" dir="auto">Stock valuation</span></a></span>）</span></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="阿爾法 (金融)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Alpha (finance)"><span class="ilh-page"><a href="/w/index.php?title=%E9%98%BF%E7%88%BE%E6%B3%95_(%E9%87%91%E8%9E%8D)&amp;action=edit&amp;redlink=1" class="new" title="阿爾法 (金融)（页面不存在）">阿爾法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Alpha_(finance)" class="extiw" title="en:Alpha (finance)"><span lang="en" dir="auto">Alpha (finance)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%A5%97%E5%88%A9%E5%AE%9A%E4%BB%B7%E7%90%86%E8%AE%BA" title="套利定价理论">套利定價理論</a></li>
+<li><a href="/wiki/%E8%B4%9D%E5%A1%94%E7%B3%BB%E6%95%B0" class="mw-redirect" title="贝塔系数">貝塔系數</a></li>
+<li><a href="/wiki/%E4%B9%B0%E5%8D%96%E4%BB%B7%E5%B7%AE" title="买卖价差">买卖价差</a></li>
+<li><a href="/wiki/%E5%B8%B3%E9%9D%A2%E5%83%B9%E5%80%BC" title="帳面價值">帳面價值</a></li>
+<li><a href="/wiki/%E8%B5%84%E6%9C%AC%E8%B5%84%E4%BA%A7%E5%AE%9A%E4%BB%B7%E6%A8%A1%E5%9E%8B" title="资本资产定价模型">资本资产定价模型</a></li>
+<li><span class="ilh-all" data-orig-title="資本市場線" data-lang-code="en" data-lang-name="英语" data-foreign-title="Capital market line"><span class="ilh-page"><a href="/w/index.php?title=%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="資本市場線（页面不存在）">資本市場線</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Capital_market_line" class="extiw" title="en:Capital market line"><span lang="en" dir="auto">Capital market line</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%82%A1%E6%81%AF%E8%B2%BC%E7%8F%BE%E6%A8%A1%E5%9E%8B" title="股息貼現模型">股息貼現模型</a></li>
+<li><a href="/wiki/%E7%8F%BE%E9%87%91%E6%AE%96%E5%88%A9%E7%8E%87" title="現金殖利率">現金殖利率</a></li>
+<li><a href="/wiki/%E6%AF%8F%E8%82%A1%E7%9B%88%E9%A4%98" title="每股盈餘">每股盈餘</a></li>
+<li><a href="/wiki/%E6%94%B6%E7%9B%8A%E7%8E%87" title="收益率">收益率</a></li>
+<li><span class="ilh-all" data-orig-title="資產淨值" data-lang-code="en" data-lang-name="英语" data-foreign-title="Net asset value"><span class="ilh-page"><a href="/w/index.php?title=%E8%B3%87%E7%94%A2%E6%B7%A8%E5%80%BC&amp;action=edit&amp;redlink=1" class="new" title="資產淨值（页面不存在）">資產淨值</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Net_asset_value" class="extiw" title="en:Net asset value"><span lang="en" dir="auto">Net asset value</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="證券特徵線" data-lang-code="en" data-lang-name="英语" data-foreign-title="Security characteristic line"><span class="ilh-page"><a href="/w/index.php?title=%E8%AD%89%E5%88%B8%E7%89%B9%E5%BE%B5%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="證券特徵線（页面不存在）">證券特徵線</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Security_characteristic_line" class="extiw" title="en:Security characteristic line"><span lang="en" dir="auto">Security characteristic line</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%AD%89%E5%88%B8%E5%B8%82%E5%A0%B4%E7%B7%9A" class="mw-redirect" title="證券市場線">證券市場線</a></li>
+<li><span class="ilh-all" data-orig-title="T-model" data-lang-code="en" data-lang-name="英语" data-foreign-title="T-model"><span class="ilh-page"><a href="/w/index.php?title=T-model&amp;action=edit&amp;redlink=1" class="new" title="T-model（页面不存在）">T-model</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/T-model" class="extiw" title="en:T-model"><span lang="en" dir="auto">T-model</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">交易理論跟<span class="ilh-all" data-orig-title="交易策略" data-lang-code="en" data-lang-name="英语" data-foreign-title="Trading strategy"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5&amp;action=edit&amp;redlink=1" class="new" title="交易策略（页面不存在）">策略</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Trading_strategy" class="extiw" title="en:Trading strategy"><span lang="en" dir="auto">Trading strategy</span></a></span>）</span></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%AE%97%E6%B3%95%E4%BA%A4%E6%98%93" title="算法交易">算法交易</a></li>
+<li><a href="/wiki/%E8%B2%B7%E5%85%A5%E6%8C%81%E6%9C%89%E7%AD%96%E7%95%A5" title="買入持有策略">買入持有策略</a></li>
+<li><span class="ilh-all" data-orig-title="相反投資法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Contrarian investing"><span class="ilh-page"><a href="/w/index.php?title=%E7%9B%B8%E5%8F%8D%E6%8A%95%E8%B3%87%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="相反投資法（页面不存在）">相反投資法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Contrarian_investing" class="extiw" title="en:Contrarian investing"><span lang="en" dir="auto">Contrarian investing</span></a></span>）</span></span></li>
+<li><a class="mw-selflink selflink">平均成本法</a></li>
+<li><a href="/wiki/%E6%95%88%E7%8E%87%E5%B8%82%E5%A0%B4%E5%81%87%E8%AA%AA" title="效率市場假說">效率市場假說</a></li>
+<li><a href="/wiki/%E5%9F%BA%E6%9C%AC%E5%88%86%E6%9E%90" title="基本分析">基本分析</a></li>
+<li><span class="ilh-all" data-orig-title="成長型股票" data-lang-code="en" data-lang-name="英语" data-foreign-title="Growth stock"><span class="ilh-page"><a href="/w/index.php?title=%E6%88%90%E9%95%B7%E5%9E%8B%E8%82%A1%E7%A5%A8&amp;action=edit&amp;redlink=1" class="new" title="成長型股票（页面不存在）">成長型股票</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Growth_stock" class="extiw" title="en:Growth stock"><span lang="en" dir="auto">Growth stock</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="市場擇時" data-lang-code="en" data-lang-name="英语" data-foreign-title="Market timing"><span class="ilh-page"><a href="/w/index.php?title=%E5%B8%82%E5%A0%B4%E6%93%87%E6%99%82&amp;action=edit&amp;redlink=1" class="new" title="市場擇時（页面不存在）">市場擇時</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Market_timing" class="extiw" title="en:Market timing"><span lang="en" dir="auto">Market timing</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%8E%B0%E4%BB%A3%E6%8A%95%E8%B5%84%E7%BB%84%E5%90%88%E7%90%86%E8%AE%BA" title="现代投资组合理论">現代投資組合理論</a></li>
+<li><span class="ilh-all" data-orig-title="慣性投資策略" data-lang-code="en" data-lang-name="英语" data-foreign-title="Momentum investing"><span class="ilh-page"><a href="/w/index.php?title=%E6%85%A3%E6%80%A7%E6%8A%95%E8%B3%87%E7%AD%96%E7%95%A5&amp;action=edit&amp;redlink=1" class="new" title="慣性投資策略（页面不存在）">慣性投資策略</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Momentum_investing" class="extiw" title="en:Momentum investing"><span lang="en" dir="auto">Momentum investing</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="摩賽理論 (投資)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Mosaic theory (investments)"><span class="ilh-page"><a href="/w/index.php?title=%E6%91%A9%E8%B3%BD%E7%90%86%E8%AB%96_(%E6%8A%95%E8%B3%87)&amp;action=edit&amp;redlink=1" class="new" title="摩賽理論 (投資)（页面不存在）">摩賽理論</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Mosaic_theory_(investments)" class="extiw" title="en:Mosaic theory (investments)"><span lang="en" dir="auto">Mosaic theory (investments)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="配對交易" data-lang-code="en" data-lang-name="英语" data-foreign-title="Pairs trade"><span class="ilh-page"><a href="/w/index.php?title=%E9%85%8D%E5%B0%8D%E4%BA%A4%E6%98%93&amp;action=edit&amp;redlink=1" class="new" title="配對交易（页面不存在）">配對交易</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Pairs_trade" class="extiw" title="en:Pairs trade"><span lang="en" dir="auto">Pairs trade</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="後現代投資組合理論" data-lang-code="en" data-lang-name="英语" data-foreign-title="Post-modern portfolio theory"><span class="ilh-page"><a href="/w/index.php?title=%E5%BE%8C%E7%8F%BE%E4%BB%A3%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88%E7%90%86%E8%AB%96&amp;action=edit&amp;redlink=1" class="new" title="後現代投資組合理論（页面不存在）">後現代投資組合理論</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Post-modern_portfolio_theory" class="extiw" title="en:Post-modern portfolio theory"><span lang="en" dir="auto">Post-modern portfolio theory</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%9A%A8%E6%A9%9F%E6%BC%AB%E6%AD%A5%E5%81%87%E8%AA%AA" title="隨機漫步假說">隨機漫步假說</a></li>
+<li><span class="ilh-all" data-orig-title="板塊輪動" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sector rotation"><span class="ilh-page"><a href="/w/index.php?title=%E6%9D%BF%E5%A1%8A%E8%BC%AA%E5%8B%95&amp;action=edit&amp;redlink=1" class="new" title="板塊輪動（页面不存在）">板塊輪動</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sector_rotation" class="extiw" title="en:Sector rotation"><span lang="en" dir="auto">Sector rotation</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="風格投資法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Style investing"><span class="ilh-page"><a href="/w/index.php?title=%E9%A2%A8%E6%A0%BC%E6%8A%95%E8%B3%87%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="風格投資法（页面不存在）">風格投資法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Style_investing" class="extiw" title="en:Style investing"><span lang="en" dir="auto">Style investing</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="短線波段操作" data-lang-code="en" data-lang-name="英语" data-foreign-title="Swing trading"><span class="ilh-page"><a href="/w/index.php?title=%E7%9F%AD%E7%B7%9A%E6%B3%A2%E6%AE%B5%E6%93%8D%E4%BD%9C&amp;action=edit&amp;redlink=1" class="new" title="短線波段操作（页面不存在）">短線波段操作</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Swing_trading" class="extiw" title="en:Swing trading"><span lang="en" dir="auto">Swing trading</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90" class="mw-redirect" title="技術分析">技術分析</a></li>
+<li><span class="ilh-all" data-orig-title="趨勢跟蹤" data-lang-code="en" data-lang-name="英语" data-foreign-title="Trend following"><span class="ilh-page"><a href="/w/index.php?title=%E8%B6%A8%E5%8B%A2%E8%B7%9F%E8%B9%A4&amp;action=edit&amp;redlink=1" class="new" title="趨勢跟蹤（页面不存在）">趨勢跟蹤</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Trend_following" class="extiw" title="en:Trend following"><span lang="en" dir="auto">Trend following</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="定期定值" data-lang-code="en" data-lang-name="英语" data-foreign-title="Value averaging"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%9A%E6%9C%9F%E5%AE%9A%E5%80%BC&amp;action=edit&amp;redlink=1" class="new" title="定期定值（页面不存在）">定期定值</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Value_averaging" class="extiw" title="en:Value averaging"><span lang="en" dir="auto">Value averaging</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87" title="價值投資">價值投資</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">相關用語</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93" title="大宗交易">大宗交易</a></li>
+<li><span class="ilh-all" data-orig-title="交叉上市" data-lang-code="en" data-lang-name="英语" data-foreign-title="Cross listing"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%A4%E5%8F%89%E4%B8%8A%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="交叉上市（页面不存在）">交叉上市</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Cross_listing" class="extiw" title="en:Cross listing"><span lang="en" dir="auto">Cross listing</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="黑池 (金融)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Dark pool"><span class="ilh-page"><a href="/w/index.php?title=%E9%BB%91%E6%B1%A0_(%E9%87%91%E8%9E%8D)&amp;action=edit&amp;redlink=1" class="new" title="黑池 (金融)（页面不存在）">黑池</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Dark_pool" class="extiw" title="en:Dark pool"><span lang="en" dir="auto">Dark pool</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%82%A1%E6%81%AF" title="股息">股息</a></li>
+<li><span class="ilh-all" data-orig-title="雙重上市公司" data-lang-code="en" data-lang-name="英语" data-foreign-title="Dual-listed company"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%99%E9%87%8D%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8&amp;action=edit&amp;redlink=1" class="new" title="雙重上市公司（页面不存在）">雙重上市公司</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Dual-listed_company" class="extiw" title="en:Dual-listed company"><span lang="en" dir="auto">Dual-listed company</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%9D%9C%E9%82%A6%E5%88%86%E6%9E%90%E6%B3%95" title="杜邦分析法">杜邦分析法</a></li>
+<li><span class="ilh-all" data-orig-title="效率前緣" data-lang-code="en" data-lang-name="英语" data-foreign-title="Efficient frontier"><span class="ilh-page"><a href="/w/index.php?title=%E6%95%88%E7%8E%87%E5%89%8D%E7%B7%A3&amp;action=edit&amp;redlink=1" class="new" title="效率前緣（页面不存在）">效率前緣</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Efficient_frontier" class="extiw" title="en:Efficient frontier"><span lang="en" dir="auto">Efficient frontier</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="安全投資轉移" data-lang-code="en" data-lang-name="英语" data-foreign-title="Flight-to-quality"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%89%E5%85%A8%E6%8A%95%E8%B3%87%E8%BD%89%E7%A7%BB&amp;action=edit&amp;redlink=1" class="new" title="安全投資轉移（页面不存在）">安全投資轉移</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Flight-to-quality" class="extiw" title="en:Flight-to-quality"><span lang="en" dir="auto">Flight-to-quality</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9B%BD%E5%80%BA%E5%88%B8" title="国债券">國債券</a></li>
+<li><a href="/wiki/%E4%BC%B0%E5%80%BC%E6%8A%98%E6%89%A3" title="估值折扣">估值折扣</a></li>
+<li><a href="/wiki/%E8%82%A1%E7%A5%A8%E4%B8%8A%E5%B8%82" title="股票上市">股票上市</a>
+<ul><li><a href="/wiki/%E9%A6%96%E6%AC%A1%E5%85%AC%E9%96%8B%E5%8B%9F%E8%82%A1" class="mw-redirect" title="首次公開募股">首次公開募股</a></li></ul></li>
+<li><a href="/wiki/%E5%A4%9A%E5%A4%B4" class="mw-redirect" title="多头">多頭</a></li>
+<li><a href="/wiki/%E4%BF%9D%E8%AD%89%E9%87%91%E4%BA%A4%E6%98%93" class="mw-redirect" title="保證金交易">保證金交易</a></li>
+<li><span class="ilh-all" data-orig-title="市場異常" data-lang-code="en" data-lang-name="英语" data-foreign-title="Market anomaly"><span class="ilh-page"><a href="/w/index.php?title=%E5%B8%82%E5%A0%B4%E7%95%B0%E5%B8%B8&amp;action=edit&amp;redlink=1" class="new" title="市場異常（页面不存在）">市場異常</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Market_anomaly" class="extiw" title="en:Market anomaly"><span lang="en" dir="auto">Market anomaly</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%B8%82%E5%80%BC" title="市值">市值</a></li>
+<li><span class="ilh-all" data-orig-title="市場深度" data-lang-code="en" data-lang-name="英语" data-foreign-title="Market depth"><span class="ilh-page"><a href="/w/index.php?title=%E5%B8%82%E5%A0%B4%E6%B7%B1%E5%BA%A6&amp;action=edit&amp;redlink=1" class="new" title="市場深度（页面不存在）">市場深度</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Market_depth" class="extiw" title="en:Market depth"><span lang="en" dir="auto">Market depth</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%B8%82%E5%9C%BA%E6%93%8D%E7%BA%B5" title="市场操纵">市场操纵</a></li>
+<li><a href="/wiki/%E5%B8%82%E5%A0%B4%E8%B6%A8%E5%8B%A2" title="市場趨勢">市場趨勢</a></li>
+<li><a href="/wiki/%E5%9D%87%E5%80%BC%E5%9B%9E%E6%AD%B8" title="均值回歸">均值回歸</a></li>
+<li><span class="ilh-all" data-orig-title="動能 (金融)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Momentum (finance)"><span class="ilh-page"><a href="/w/index.php?title=%E5%8B%95%E8%83%BD_(%E9%87%91%E8%9E%8D)&amp;action=edit&amp;redlink=1" class="new" title="動能 (金融)（页面不存在）">動能</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Momentum_(finance)" class="extiw" title="en:Momentum (finance)"><span lang="en" dir="auto">Momentum (finance)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="公開喊價" data-lang-code="en" data-lang-name="英语" data-foreign-title="Open outcry"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%AC%E9%96%8B%E5%96%8A%E5%83%B9&amp;action=edit&amp;redlink=1" class="new" title="公開喊價（页面不存在）">公開喊價</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Open_outcry" class="extiw" title="en:Open outcry"><span lang="en" dir="auto">Open outcry</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%83%A8%E4%BD%8D_(%E6%9C%9F%E8%B2%A8)" class="mw-redirect" title="部位 (期貨)">部位</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%94%B1%E6%B5%81%E9%80%9A%E9%87%8F" title="自由流通量">自由流通量</a></li>
+<li><a href="/wiki/%E5%85%AC%E5%BC%80%E5%8F%91%E8%A1%8C" title="公开发行">公開發行</a></li>
+<li><span class="ilh-all" data-orig-title="Rally (stock market)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Rally (stock market)"><span class="ilh-page"><a href="/w/index.php?title=Rally_(stock_market)&amp;action=edit&amp;redlink=1" class="new" title="Rally (stock market)（页面不存在）">Rally (stock market)</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Rally_(stock_market)" class="extiw" title="en:Rally (stock market)"><span lang="en" dir="auto">Rally (stock market)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="收益風格分析法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Returns-based style analysis"><span class="ilh-page"><a href="/w/index.php?title=%E6%94%B6%E7%9B%8A%E9%A2%A8%E6%A0%BC%E5%88%86%E6%9E%90%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="收益風格分析法（页面不存在）">收益風格分析法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Returns-based_style_analysis" class="extiw" title="en:Returns-based style analysis"><span lang="en" dir="auto">Returns-based style analysis</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="反向股票分割" data-lang-code="en" data-lang-name="英语" data-foreign-title="Reverse stock split"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%8D%E5%90%91%E8%82%A1%E7%A5%A8%E5%88%86%E5%89%B2&amp;action=edit&amp;redlink=1" class="new" title="反向股票分割（页面不存在）">反向股票分割</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Reverse_stock_split" class="extiw" title="en:Reverse stock split"><span lang="en" dir="auto">Reverse stock split</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B3%BC" title="股票回購">股票回購</a></li>
+<li><a href="/wiki/%E7%9F%AD%E5%80%89" title="短倉">空頭</a></li>
+<li><span class="ilh-all" data-orig-title="滑點 (金融)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Slippage (finance)"><span class="ilh-page"><a href="/w/index.php?title=%E6%BB%91%E9%BB%9E_(%E9%87%91%E8%9E%8D)&amp;action=edit&amp;redlink=1" class="new" title="滑點 (金融)（页面不存在）">滑點</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Slippage_(finance)" class="extiw" title="en:Slippage (finance)"><span lang="en" dir="auto">Slippage (finance)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%8A%95%E6%A9%9F" class="mw-redirect" title="投機">投機</a></li>
+<li><span class="ilh-all" data-orig-title="Stock dilution" data-lang-code="en" data-lang-name="英语" data-foreign-title="Stock dilution"><span class="ilh-page"><a href="/w/index.php?title=Stock_dilution&amp;action=edit&amp;redlink=1" class="new" title="Stock dilution（页面不存在）">Stock dilution</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Stock_dilution" class="extiw" title="en:Stock dilution"><span lang="en" dir="auto">Stock dilution</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80" title="证券交易所">证券交易所</a></li>
+<li><a href="/wiki/%E8%82%A1%E5%83%B9%E6%8C%87%E6%95%B8" title="股價指數">股價指數</a></li>
+<li><a href="/wiki/%E9%99%A4%E6%AC%8A" class="mw-redirect" title="除權">除權</a></li>
+<li><span class="ilh-all" data-orig-title="交易 (金融工具)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Trade (financial instrument)"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%A4%E6%98%93_(%E9%87%91%E8%9E%8D%E5%B7%A5%E5%85%B7)&amp;action=edit&amp;redlink=1" class="new" title="交易 (金融工具)（页面不存在）">交易</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Trade_(financial_instrument)" class="extiw" title="en:Trade (financial instrument)"><span lang="en" dir="auto">Trade (financial instrument)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="報升規則" data-lang-code="en" data-lang-name="英语" data-foreign-title="Uptick rule"><span class="ilh-page"><a href="/w/index.php?title=%E5%A0%B1%E5%8D%87%E8%A6%8F%E5%89%87&amp;action=edit&amp;redlink=1" class="new" title="報升規則（页面不存在）">報升規則</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Uptick_rule" class="extiw" title="en:Uptick rule"><span lang="en" dir="auto">Uptick rule</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B3%A2%E5%8A%A8%E6%80%A7" title="波动性">波動性</a></li>
+<li><span class="ilh-all" data-orig-title="投票權益" data-lang-code="en" data-lang-name="英语" data-foreign-title="Voting interest"><span class="ilh-page"><a href="/w/index.php?title=%E6%8A%95%E7%A5%A8%E6%AC%8A%E7%9B%8A&amp;action=edit&amp;redlink=1" class="new" title="投票權益（页面不存在）">投票權益</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Voting_interest" class="extiw" title="en:Voting interest"><span lang="en" dir="auto">Voting interest</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="產量 (金融)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Yield (finance)"><span class="ilh-page"><a href="/w/index.php?title=%E7%94%A2%E9%87%8F_(%E9%87%91%E8%9E%8D)&amp;action=edit&amp;redlink=1" class="new" title="產量 (金融)（页面不存在）">產量</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Yield_(finance)" class="extiw" title="en:Yield (finance)"><span lang="en" dir="auto">Yield (finance)</span></a></span>）</span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw2311
+Cached time: 20230804102952
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.317 seconds
+Real time usage: 0.469 seconds
+Preprocessor visited node count: 2512/1000000
+Post‐expand include size: 133404/2097152 bytes
+Template argument size: 2570/2097152 bytes
+Highest expansion depth: 30/100
+Expensive parser function count: 50/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9259/5000000 bytes
+Lua time usage: 0.172/10.000 seconds
+Lua memory usage: 24165384/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  357.370      1 -total
+ 34.10%  121.865      1 Template:Reflist
+ 30.92%  110.514      1 Template:Lang-en
+ 28.93%  103.384      1 Template:金融市场
+ 28.33%  101.234      1 Template:Navbox
+ 24.22%   86.540     48 Template:Internal_link_helper/en
+ 14.16%   50.604      6 Template:Cite_web
+ 11.19%   39.987      1 Template:Dead_link
+ 10.05%   35.904      1 Template:Fix
+  9.41%   33.628      2 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:483958-0!canonical!zh and timestamp 20230804102952 and revision id 78340305. Rendering was triggered because: page-view
+ -->
+</div>

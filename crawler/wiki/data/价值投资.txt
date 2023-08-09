@@ -1,0 +1,96 @@
+wiki 标题： 价值投资
+wiki 分类： 估值	商业术语	金融理论	金融风险	投资	市场趋势	金融数学	个人理财	证券	股市	自2017年11月带有失效链接的条目	条目有永久失效的外部链接	使用ISBN魔术链接的页面
+wiki 网址： https://zh.wikipedia.org/wiki/%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87
+crawl时间： 1691399263.550748
+text 内容： 价值投资是投资策略的一种，由班杰明·葛拉汉和大卫·多德（英语：DavidDodd）所提出。和价值投资法所对应的是成长投资法。其重点是透过基本面分析中的概念，例如高股息收益率、低市盈率（P/E，股价/每股净利润）和低市净率（P/B，股价/每股净资产），去寻找并投资于一些股价被低估的股票。
+
+<div class="mw-parser-output"><div id="noteTA-a0e1511e" class="noteTA"><div class="noteTA-local"><div data-noteta-code="zh-hans:市盈率; zh-hant:市盈率; zh-tw:本益比;"></div><div data-noteta-code="zh-hans:格雷厄姆; zh-hk:格雷厄姆; zh-tw:葛拉漢;" data-noteta-desc="Graham"></div></div></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:NYSESecurity.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/NYSESecurity.JPG/220px-NYSESecurity.JPG" decoding="async" width="220" height="293" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/NYSESecurity.JPG/330px-NYSESecurity.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/NYSESecurity.JPG/440px-NYSESecurity.JPG 2x" data-file-width="480" data-file-height="640"></a><figcaption><a href="/wiki/%E7%BA%BD%E7%BA%A6%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80" title="纽约证券交易所">纽约证券交易所</a></figcaption></figure>
+<p><b>價值投資</b>是<a href="/wiki/%E6%8A%95%E8%B3%87%E7%AD%96%E7%95%A5" title="投資策略">投資策略</a>的一種，由<a href="/wiki/%E7%8F%AD%E5%82%91%E6%98%8E%C2%B7%E8%91%9B%E6%8B%89%E6%BC%A2" class="mw-redirect" title="班傑明·葛拉漢">班傑明·葛拉漢</a>和<span class="ilh-all" data-orig-title="大衛·多德" data-lang-code="en" data-lang-name="英语" data-foreign-title="David Dodd"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%A7%E8%A1%9B%C2%B7%E5%A4%9A%E5%BE%B7&amp;action=edit&amp;redlink=1" class="new" title="大衛·多德（页面不存在）">大衛·多德</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/David_Dodd" class="extiw" title="en:David Dodd"><span lang="en" dir="auto">David Dodd</span></a></span>）</span></span>所提出。和价值投资法所对应的是<a href="/wiki/%E6%88%90%E9%95%B7%E6%8A%95%E8%B3%87" title="成長投資">成長投資</a>法。其重點是透過<a href="/wiki/%E5%9F%BA%E6%9C%AC%E5%88%86%E6%9E%90" title="基本分析">基本面分析</a>中的概念，例如高<a href="/wiki/%E8%82%A1%E6%81%AF" title="股息">股息</a>收益率、低<a href="/wiki/%E5%B8%82%E7%9B%88%E7%8E%87" title="市盈率">市盈率</a>（P/E，股价/每股净利润）和低<a href="/wiki/%E5%B8%82%E5%87%80%E7%8E%87" title="市净率">市净率</a>（P/B，股價/每股净资产），去尋找並投資於一些股價被低估的<a href="/wiki/%E8%82%A1%E7%A5%A8" title="股票">股票</a>。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="zh" dir="ltr"><h2 id="mw-toc-heading">目录</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5"><span class="tocnumber">1</span> <span class="toctext">基本概念</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#%E5%8F%83%E7%9C%8B"><span class="tocnumber">2</span> <span class="toctext">參看</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87%E7%9A%84%E6%9B%B8%E7%B1%8D"><span class="tocnumber">3</span> <span class="toctext">價值投資的書籍</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#%E5%A4%96%E9%83%A8%E9%80%A3%E7%B5%90"><span class="tocnumber">4</span> <span class="toctext">外部連結</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99"><span class="tocnumber">5</span> <span class="toctext">参考资料</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#%E6%96%87%E7%8D%BB"><span class="tocnumber">6</span> <span class="toctext">文獻</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".E5.9F.BA.E6.9C.AC.E6.A6.82.E5.BF.B5"></span><span class="mw-headline" id="基本概念">基本概念</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87&amp;action=edit&amp;section=1" title="编辑章节：基本概念">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>股票是公司的部分所有權</li>
+<li>對於買入價格與公司<a href="/wiki/%E8%B3%87%E7%94%A2%E4%BC%B0%E5%80%BC" class="mw-redirect" title="資產估值">資產估值</a>之間的差距必須有足夠安全邊際</li>
+<li>市場先生假說，市場是由價值投資者與投機者組成的，價值投資者必須尊重所有參與者</li>
+<li>透過長期學習建立自己的投資能力圈，並只在能力圈內投資<sup id="cite_ref-文明、現代化、價值投資與中國_2020_1-0" class="reference"><a href="#cite_note-%E6%96%87%E6%98%8E%E3%80%81%E7%8F%BE%E4%BB%A3%E5%8C%96%E3%80%81%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87%E8%88%87%E4%B8%AD%E5%9C%8B_2020-1">[1]</a></sup></li></ul>
+<h2><span id=".E5.8F.83.E7.9C.8B"></span><span class="mw-headline" id="參看">參看</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87&amp;action=edit&amp;section=2" title="编辑章节：參看">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E6%8A%95%E8%B5%84" title="投资">投资</a></li>
+<li><a href="/wiki/%E6%88%90%E9%95%B7%E6%8A%95%E8%B3%87" title="成長投資">成長投資</a></li>
+<li><a href="/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86" title="本杰明·格雷厄姆">本杰明·格雷厄姆</a></li>
+<li><span class="ilh-all" data-orig-title="大衛·多德" data-lang-code="en" data-lang-name="英语" data-foreign-title="David Dodd"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%A7%E8%A1%9B%C2%B7%E5%A4%9A%E5%BE%B7&amp;action=edit&amp;redlink=1" class="new" title="大衛·多德（页面不存在）">大衛·多德</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/David_Dodd" class="extiw" title="en:David Dodd"><span lang="en" dir="auto">David Dodd</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B2%83%E4%BC%A6%C2%B7%E5%B7%B4%E8%8F%B2%E7%89%B9" title="沃伦·巴菲特">沃伦·巴菲特</a></li>
+<li><a href="/wiki/%E8%81%AA%E6%98%8E%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85" title="聪明的投资者">智慧型股票投資人</a></li></ul>
+<h2><span id=".E5.83.B9.E5.80.BC.E6.8A.95.E8.B3.87.E7.9A.84.E6.9B.B8.E7.B1.8D"></span><span class="mw-headline" id="價值投資的書籍">價值投資的書籍</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87&amp;action=edit&amp;section=3" title="编辑章节：價值投資的書籍">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><span class="ilh-all" data-orig-title="證券分析 (書)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Security Analysis (book)"><span class="ilh-page"><a href="/w/index.php?title=%E8%AD%89%E5%88%B8%E5%88%86%E6%9E%90_(%E6%9B%B8)&amp;action=edit&amp;redlink=1" class="new" title="證券分析 (書)（页面不存在）">Security Analysis</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Security_Analysis_(book)" class="extiw" title="en:Security Analysis (book)"><span lang="en" dir="auto">Security Analysis (book)</span></a></span>）</span></span></i> (1934), by <a href="/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86" title="本杰明·格雷厄姆">Benjamin Graham</a>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780071448208" class="internal mw-magiclink-isbn">ISBN 978-0-07-144820-8</a></li>
+<li><i>The Intelligent Investor</i> (1949), by Benjamin Graham, <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0060555661" class="internal mw-magiclink-isbn">ISBN 0-06-055566-1</a> (2008 edition)</li>
+<li><i>The Theory of Investment Value</i> (1938), by John Burr Williams. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780870341267" class="internal mw-magiclink-isbn">ISBN 978-0-87034-126-7</a></li>
+<li><i><a href="/wiki/%E8%81%AA%E6%98%8E%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85" title="聪明的投资者">The Intelligent Investor</a></i> (1949), by <a href="/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86" title="本杰明·格雷厄姆">Benjamin Graham</a>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780060555665" class="internal mw-magiclink-isbn">ISBN 978-0-06-055566-5</a></li>
+<li><i>Common Stocks and Uncommon Profits</i> (1958), by Philip Arthur Fisher. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780471119272" class="internal mw-magiclink-isbn">ISBN 978-0-471-11927-2</a></li>
+<li><i>You Can Be a Stock Market Genius</i> (1997), by Joel Greenblatt. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780684840079" class="internal mw-magiclink-isbn">ISBN 978-0-684-84007-9</a>.</li>
+<li><i>Contrarian Investment Strategies: The Next Generation</i> (1998), by David Dreman. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780684813509" class="internal mw-magiclink-isbn">ISBN 978-0-684-81350-9</a>.</li>
+<li><i>The Essays of Warren Buffett</i> (2001), edited by <a rel="nofollow" class="external text" href="http://www.bc.edu/schools/law/fac-staff/deans-faculty/cunninghaml/">Lawrence A. Cunningham</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20060614084046/http://www.bc.edu/schools/law/fac-staff/deans-faculty/cunninghaml/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780966446111" class="internal mw-magiclink-isbn">ISBN 978-0-9664461-1-1</a>.</li>
+<li><i>The Little Book That Beats the Market</i> (2006), by Joel Greenblatt. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780471733065" class="internal mw-magiclink-isbn">ISBN 978-0-471-73306-5</a>.</li>
+<li><i>The Little Book of Value Investing (2006), by Chris Browne. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780470055892" class="internal mw-magiclink-isbn">ISBN 978-0-470-05589-2</a>.</i></li>
+<li><cite class="citation book">曾廣標 著. <a rel="nofollow" class="external text" href="http://www.etpress.com.hk/etpress/bookdetail.do?id=9789626786949">價值投資實戰</a>.  <span class="reference-accessdate"> [<span class="nowrap">2012-10-28</span>]</span>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9789626786949" title="Special:网络书源/9789626786949"><span title="国际标准书号">ISBN</span> 9789626786949</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190914170451/http://www.etpress.com.hk/etpress/bookdetail.do?id=9789626786949">存档</a>于2019-09-14）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87&amp;rft.au=%E6%9B%BE%E5%BB%A3%E6%A8%99+%E8%91%97&amp;rft.btitle=%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87%E5%AF%A6%E6%88%B0&amp;rft.genre=book&amp;rft.isbn=9789626786949&amp;rft_id=http%3A%2F%2Fwww.etpress.com.hk%2Fetpress%2Fbookdetail.do%3Fid%3D9789626786949&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></li></ul>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90"></span><span class="mw-headline" id="外部連結">外部連結</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87&amp;action=edit&amp;section=4" title="编辑章节：外部連結">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://berkshirehathaway.com/letters/letters.html">Warren Buffett's Letters to his Shareholders</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20201207182849/http://berkshirehathaway.com/letters/letters.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www1.gsb.columbia.edu/valueinvesting/research/public_archives/DOC032.PDF">Superinvestors of Graham and Doddsville</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<a href="/wiki/Wikipedia:%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5" title="Wikipedia:失效链接"><span title="自2017年11月失效">永久失效連結</span></a>]</span></sup></li>
+<li><a rel="nofollow" class="external text" href="http://www.econ.duke.edu/dje/2000/bierig.PDF">The Evolution of the Idea of "Value Investing": From Benjamin Graham to Warren Buffett</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20090612010351/http://www.econ.duke.edu/dje/2000/bierig.PDF">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061110063326/http://www.tweedy.com/library_docs/papers/what_has_worked_all.pdf">What has Worked in Investing</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.firstclassmgmthk.com/">First Class Management (FCM)</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20201120141311/http://www.firstclassmgmthk.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） is a special situations-focused investment partnership based in <a href="/wiki/Hong_Kong" class="mw-redirect" title="Hong Kong">Hong Kong</a>.</li></ul>
+<h2><span id=".E5.8F.82.E8.80.83.E8.B5.84.E6.96.99"></span><span class="mw-headline" id="参考资料">参考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87&amp;action=edit&amp;section=5" title="编辑章节：参考资料">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://finance.ce.cn/rolling/201203/02/t20120302_16836144.shtml">秉承价值投资理念 方可分享股市发展成果</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20190914011857/http://finance.ce.cn/rolling/201203/02/t20120302_16836144.shtml">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） 中国经济网 2014-05-31</li></ul>
+<h2><span id=".E6.96.87.E7.8D.BB"></span><span class="mw-headline" id="文獻">文獻</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87&amp;action=edit&amp;section=6" title="编辑章节：文獻">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-文明、現代化、價值投資與中國_2020-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-%E6%96%87%E6%98%8E%E3%80%81%E7%8F%BE%E4%BB%A3%E5%8C%96%E3%80%81%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87%E8%88%87%E4%B8%AD%E5%9C%8B_2020_1-0">^</a></b></span> <span class="reference-text"> <cite class="citation book">作者：李彔LouisLi. <a rel="nofollow" class="external text" href="https://books.google.com.tw/books?id=kvkIEAAAQBAJ&amp;pg=PT148&amp;dq=%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87&amp;hl=zh-TW&amp;sa=X&amp;ved=2ahUKEwixtK2xpcDtAhVqxosBHatzCRYQ6AEwAHoECAMQAg#v=onepage&amp;q=%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87&amp;f=false">文明、現代化、價值投資與中國</a>. 遠見天下文化出版股份有限公司, 2020. 2020-10-30: 頁數. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9789865535919" title="Special:网络书源/9789865535919"><span title="国际标准书号">ISBN</span> 9789865535919</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到中文（臺灣）网页">（中文（臺灣））</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87&amp;rft.au=%E4%BD%9C%E8%80%85%EF%BC%9A%E6%9D%8E%E5%BD%94LouisLi&amp;rft.btitle=%E6%96%87%E6%98%8E%E3%80%81%E7%8F%BE%E4%BB%A3%E5%8C%96%E3%80%81%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87%E8%88%87%E4%B8%AD%E5%9C%8B&amp;rft.date=2020-10-30&amp;rft.genre=book&amp;rft.isbn=9789865535919&amp;rft.pages=%E9%A0%81%E6%95%B8&amp;rft.pub=%E9%81%A0%E8%A6%8B%E5%A4%A9%E4%B8%8B%E6%96%87%E5%8C%96%E5%87%BA%E7%89%88%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%2C+2020&amp;rft_id=https%3A%2F%2Fbooks.google.com.tw%2Fbooks%3Fid%3DkvkIEAAAQBAJ%26pg%3DPT148%26dq%3D%25E5%2583%25B9%25E5%2580%25BC%25E6%258A%2595%25E8%25B3%2587%26hl%3Dzh-TW%26sa%3DX%26ved%3D2ahUKEwixtK2xpcDtAhVqxosBHatzCRYQ6AEwAHoECAMQAg%23v%3Donepage%26q%3D%25E5%2583%25B9%25E5%2580%25BC%25E6%258A%2595%25E8%25B3%2587%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span> </span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw2371
+Cached time: 20230804103001
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.142 seconds
+Real time usage: 0.205 seconds
+Preprocessor visited node count: 969/1000000
+Post‐expand include size: 12994/2097152 bytes
+Template argument size: 1366/2097152 bytes
+Highest expansion depth: 28/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2316/5000000 bytes
+Lua time usage: 0.065/10.000 seconds
+Lua memory usage: 2543474/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  169.454      1 -total
+ 30.35%   51.428      1 Template:NoteTA
+ 25.56%   43.310      1 Template:Dead_link
+ 24.52%   41.543      2 Template:Cite_book
+ 22.66%   38.396      1 Template:Fix
+ 21.17%   35.878      2 Template:Category_handler
+ 11.64%   19.720      3 Template:Tsl
+ 10.90%   18.472      2 Template:Category_handler/numbered
+  9.79%   16.585      2 Template:Namespace_detect
+  8.34%   14.139      2 Template:Str_mid
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:425226-0!canonical!zh and timestamp 20230804103001 and revision id 77815119. Rendering was triggered because: page-view
+ -->
+</div>

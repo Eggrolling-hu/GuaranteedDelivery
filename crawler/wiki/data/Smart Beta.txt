@@ -1,0 +1,85 @@
+wiki 标题： Smart Beta
+wiki 分类： 投资	股市指数	基金	自2019年10月需要从英语维基百科翻译的条目	需要从英语维基百科翻译的条目	自2019年10月需补充来源的条目	拒绝当选首页新条目推荐栏目的条目
+wiki 网址： https://zh.wikipedia.org/wiki/Smart_Beta
+crawl时间： 1691399264.4250038
+text 内容： SmartBeta投资策略，又称AdvancedBeta或AlternativeBeta，指透过增强一个或多个不同因子的特征，对基金资产进行选股及个股权重上的改善。基于透明且固定规则的投资策略，非市值加权，被动交易，期望实现超过传统指数基金获取的Beta收益。（在投资领域内“Beta”指来源于整体投资市场的平均收益，传统市值加权的指数基金，目标就是获取整体投资市场的平均收益；“Alpha”则指投资市场的超额收益，主动管理型基金的目标就是获取市场的超额收益。）SmartBeta策略目前多用于投资于股票市场的指数基金，有不同策略的SmartBeta指数供SmartBeta指数基金追踪，但在债券等其他领域也有应用。SmartBeta策略基金管理费一般高于传统的指数基金，但低于主动型证券投资基金。
+SmartBeta投资策略的理论基础是因子投资（FactorInvesting），策略收益来自于因子的风险溢价。[1]在1990年代初期，EugeneFama教授和KennethFrench教授合作提出的一个叫Fama-French三因子模型（FamaFrenchThreeFactorModel）的股票回报模型，开启了因子投资。
+
+<div class="mw-parser-output"><table class="box-Expand_language plainlinks metadata ambox ambox-notice" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/50px-Translation_to_zh_arrow.svg.png" decoding="async" width="50" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/75px-Translation_to_zh_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/100px-Translation_to_zh_arrow.svg.png 2x" data-file-width="60" data-file-height="20"></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此條目<b>可参照<a href="https://en.wikipedia.org/wiki/Smart_beta" class="extiw" title="en:Smart beta">英語維基百科</a>相應條目来扩充</b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2019年10月3日</span>)</i></small><span class="hide-when-compact"><br><small>若您熟悉来源语言和主题，请协助<a href="/wiki/Wikipedia:%E7%BF%BB%E8%AF%91%E5%AE%88%E5%88%99" class="mw-redirect" title="Wikipedia:翻译守则">参考外语维基百科扩充条目</a>。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依<a href="/wiki/Wikipedia:%E5%9C%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%86%85%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9" title="Wikipedia:在维基百科内复制内容">版权协议</a>，译文需<a href="/wiki/Wikipedia:%E7%B7%A8%E8%BC%AF%E6%91%98%E8%A6%81#%E7%BF%BB%E8%AD%AF%E6%96%87%E7%AB%A0" title="Wikipedia:編輯摘要">在编辑摘要注明来源</a>，或于讨论页顶部标记<code>{{<a href="/wiki/Template:Translated_page" title="Template:Translated page">Translated page</a>}}</code>标签。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Refimprove plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/45px-Tango-nosources.svg.png" decoding="async" width="45" height="45" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/68px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/90px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48"></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此條目<b>需要补充更多<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">来源</a></b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2019年10月3日</span>)</i></small><span class="hide-when-compact"><br><small>请协助補充多方面<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">可靠来源</a>以<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Smart_Beta&amp;action=edit">改善这篇条目</a>，<a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AF%81" class="mw-redirect" title="Wikipedia:可供查证">无法查证</a>的内容可能會因為<a href="/wiki/Template:Fact" class="mw-redirect" title="Template:Fact">异议提出</a>而被移除。<br>致使用者：请搜索一下条目的标题（来源搜索：<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.google.com/search?&amp;as_eq=wikipedia&amp;q=%22Smart+Beta%22">"Smart Beta"</a> — <a rel="nofollow" class="external text" href="//www.google.com/search?q=%22Smart+Beta%22">网页</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=&amp;as_src=-newswire+-wire+-presswire+-PR+-press+-release+-wikipedia&amp;q=%22Smart+Beta%22">新闻</a>、<a rel="nofollow" class="external text" href="//books.google.com/books?&amp;as_brr=0&amp;as_pub=-icon&amp;q=%22Smart+Beta%22">书籍</a>、<a rel="nofollow" class="external text" href="//scholar.google.com/scholar?&amp;q=%22Smart+Beta%22">学术</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=isch&amp;safe=off&amp;q=%22Smart+Beta%22">图像</a></span>），以检查网络上是否存在该主题的更多可靠来源（<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">判定指引</a>）。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<div id="noteTA-e1511c51" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="Economics"></div></div><div class="noteTA-local"><div data-noteta-code="zh-tw:品質;zh-cn:质量"></div><div data-noteta-code="zh-cn: 方差; zh-tw: 變異數; zh-hk:方差;"></div></div></div>
+<p><b>Smart Beta</b> <a href="/wiki/%E6%8A%95%E8%B5%84" title="投资">投资</a>策略，又稱 Advanced Beta 或 Alternative Beta，指透過增强一个或多个不同因子的特征，对基金资产进行选股及个股权重上的改善。基于透明且固定规则的投资策略，非市值加权，被动交易，期望实现超过传统<a href="/wiki/%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91" title="指数基金">指数基金</a>获取的 Beta 收益。（在投资领域内“Beta”指来源于整体投资市场的平均收益，传统市值加权的指数基金，目标就是获取整体投资市场的平均收益；“Alpha”则指投资市场的超额收益，主动管理型基金的目标就是获取市场的超额收益。）Smart Beta 策略目前多用于投资于<a href="/wiki/%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA" title="股票市场">股票市场</a>的指数基金，有不同策略的 Smart Beta 指数供 Smart Beta 指数基金追踪，但在债券等其他领域也有应用。Smart Beta 策略基金管理费一般高于传统的指数基金，但低于主动型证券投资基金。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="zh" dir="ltr"><h2 id="mw-toc-heading">目录</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80"><span class="tocnumber">1</span> <span class="toctext">理论基础</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#%E5%B8%B8%E8%A6%8B%E7%9A%84_Smart_Beta_%E5%9B%A0%E5%AD%90"><span class="tocnumber">2</span> <span class="toctext">常見的 Smart Beta 因子</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#%E7%9B%B8%E5%85%B3%E6%9D%A1%E7%9B%AE"><span class="tocnumber">3</span> <span class="toctext">相关条目</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#%E5%8F%83%E8%80%83%E8%B5%84%E6%96%99"><span class="tocnumber">4</span> <span class="toctext">參考资料</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5"><span class="tocnumber">5</span> <span class="toctext">外部链接</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".E7.90.86.E8.AE.BA.E5.9F.BA.E7.A1.80"></span><span class="mw-headline" id="理论基础">理论基础</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smart_Beta&amp;action=edit&amp;section=1" title="编辑章节：理论基础">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Smart Beta 投资策略的理论基础是因子投资（Factor Investing），策略收益来自于因子的风险溢价。<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>在1990年代初期，Eugene Fama 教授和 Kenneth French 教授合作提出的一个叫<a href="/wiki/Fama-French%E4%B8%89%E5%9B%A0%E5%AD%90%E6%A8%A1%E5%9E%8B" title="Fama-French三因子模型">Fama-French三因子模型</a>（Fama French Three Factor Model）的股票回报模型，开启了因子投资。
+</p>
+<h2><span id=".E5.B8.B8.E8.A6.8B.E7.9A.84_Smart_Beta_.E5.9B.A0.E5.AD.90"></span><span class="mw-headline" id="常見的_Smart_Beta_因子">常見的 Smart Beta 因子</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smart_Beta&amp;action=edit&amp;section=2" title="编辑章节：常見的 Smart Beta 因子">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>價值（Value）：低估值股票。常用衡量指标为：<a href="/wiki/%E5%B8%82%E5%87%80%E7%8E%87" title="市净率">市净率</a>、<a href="/wiki/%E5%B8%82%E7%9B%88%E7%8E%87" title="市盈率">市盈率</a>、<a href="/wiki/%E9%94%80%E5%94%AE%E6%94%B6%E5%85%A5" title="销售收入">销售收入</a>、现金收入、<a href="/wiki/%E7%B4%94%E5%88%A9" title="純利">净利润</a>、<a href="/wiki/%E7%8E%B0%E9%87%91%E6%B5%81%E9%87%8F" title="现金流量">现金流</a>等。</li></ul>
+<ul><li><a href="/wiki/%E7%BA%A2%E5%88%A9" title="红利">红利</a>（Dividend）：分红更多的股票。常用衡量指标：<a href="/wiki/%E7%8F%BE%E9%87%91%E6%AE%96%E5%88%A9%E7%8E%87" title="現金殖利率">股息率</a>。</li></ul>
+<ul><li>动量（Momentum）：一定历史区间内，涨幅及交易量高的股票。常用衡量指标：过去3-12个月的历史超额收益。</li></ul>
+<ul><li>低波动（Low Volatility）：价格波动低的股票。主要衡量指标：最小方差法和波动率加权法（通过选取历史上波动性较小的股票，并通过波动率倒数加权）。</li></ul>
+<ul><li>质量（Quality）：财务基本面质量高的股票。主要衡量指标：<a href="/wiki/%E5%87%80%E8%B5%84%E4%BA%A7%E6%94%B6%E7%9B%8A%E7%8E%87" class="mw-redirect" title="净资产收益率">净资产收益率</a>、<a href="/wiki/%E5%88%A9%E6%B6%A6%E7%8E%87" title="利润率">利润率</a>、总资产周转率、盈利及分红的稳定性、<a href="/wiki/%E8%B5%84%E4%BA%A7%E8%B4%9F%E5%80%BA%E7%8E%87" title="资产负债率">资产负债率</a>、现金流等。</li></ul>
+<ul><li>规模（Size）：小市值股票，有时等权重加权策略也可以作为规模因子。主要衡量指标：总<a href="/wiki/%E8%B3%87%E7%94%A2" title="資產">资产</a>、总<a href="/wiki/%E5%B8%82%E5%80%BC" title="市值">市值</a>。</li></ul>
+<ul><li>成长：业绩高成长性的股票。主要衡量指标：净利润增长率、营业收入增长率。</li></ul>
+<h2><span id=".E7.9B.B8.E5.85.B3.E6.9D.A1.E7.9B.AE"></span><span class="mw-headline" id="相关条目">相关条目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smart_Beta&amp;action=edit&amp;section=3" title="编辑章节：相关条目">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91" title="指数基金">指数基金</a></li>
+<li><a href="/wiki/%E5%85%B1%E5%90%8C%E5%9F%BA%E9%87%91" title="共同基金">共同基金</a></li>
+<li><a href="/wiki/%E4%B8%AD%E8%AF%81%E7%BA%A2%E5%88%A9%E6%8C%87%E6%95%B0" title="中证红利指数">中证红利指数</a></li>
+<li><a href="/wiki/%E4%B8%8A%E8%AF%81%E7%BA%A2%E5%88%A9%E6%8C%87%E6%95%B0" title="上证红利指数">上证红利指数</a></li></ul>
+<h2><span id=".E5.8F.83.E8.80.83.E8.B5.84.E6.96.99"></span><span class="mw-headline" id="參考资料">參考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smart_Beta&amp;action=edit&amp;section=4" title="编辑章节：參考资料">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">伍治坚. <a rel="nofollow" class="external text" href="https://zhuanlan.zhihu.com/p/21842266">聪明贝塔(Smart Beta)</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191002163515/https://zhuanlan.zhihu.com/p/21842266">存档</a>于2019-10-02）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3ASmart+Beta&amp;rft.au=%E4%BC%8D%E6%B2%BB%E5%9D%9A&amp;rft.btitle=%E8%81%AA%E6%98%8E%E8%B4%9D%E5%A1%94%28Smart+Beta%29&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F21842266&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smart_Beta&amp;action=edit&amp;section=5" title="编辑章节：外部链接">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="英語">（英文）</span>MSCI Research Insight <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304054024/https://www.msci.com/resources/pdfs/Foundations_of_Factor_Investing.pdf">Foundations of Factor Investing</a></li>
+<li><span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="中文">（中文）</span> <a rel="nofollow" class="external text" href="https://chinese.spindices.com/documents/research/research-how-smart-beta-strategies-work-in-the-chinese-market-sc.pdf">聪明贝塔策略在中国市场的表现</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210123144825/https://chinese.spindices.com/documents/research/research-how-smart-beta-strategies-work-in-the-chinese-market-sc.pdf">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://www.dfham.com/contents/2019/3/19-e14d04ce4f544178be9381ee5466290b.html">Smart Beta是什么？ - 东方证券资产管理有限公司</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20191002163524/https://www.dfham.com/contents/2019/3/19-e14d04ce4f544178be9381ee5466290b.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2386
+Cached time: 20230804102938
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.129 seconds
+Real time usage: 0.192 seconds
+Preprocessor visited node count: 647/1000000
+Post‐expand include size: 43329/2097152 bytes
+Template argument size: 453/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 979/5000000 bytes
+Lua time usage: 0.065/10.000 seconds
+Lua memory usage: 2741301/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  157.688      1 -total
+ 34.73%   54.769      1 Template:Expand_language
+ 25.89%   40.824      1 Template:NoteTA
+ 25.65%   40.449      2 Template:Ambox
+ 24.68%   38.916      1 Template:Reflist
+ 21.88%   34.495      1 Template:Cite_web
+  5.13%    8.092      1 Template:Refimprove
+  2.29%    3.617      1 Template:En
+  1.94%    3.056      1 Template:Zh
+  1.80%    2.840      1 Template:Template_error
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:6754923-0!canonical!zh and timestamp 20230804102937 and revision id 74406334. Rendering was triggered because: page-view
+ -->
+</div>

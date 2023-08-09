@@ -1,0 +1,119 @@
+wiki 标题： 资产估值
+wiki 分类： 商法学	金融经济学	估值	公司发展	含有英语的条目	包含GND标识符的维基百科条目
+wiki 网址： https://zh.wikipedia.org/wiki/%E8%B5%84%E4%BA%A7%E4%BC%B0%E5%80%BC
+crawl时间： 1691399273.1287177
+text 内容： 资产估值（英语：Assetvaluation）是指评估一项投资组合、一家企业、一项投资或资产负债表项目价值的过程。
+EV代表企业价值
+企业价值（EV）=市值+（总负债-总现金）=市值+净负债
+EBITDA代表未扣除利息、所得税、折旧与摊销前的盈余：
+EBITDA=营业利润+折旧费用+摊销费用
+其中营业利润=营业收入-营业费用-管理费用
+EV/EBITDA估值方法一般适用于资本密集、准垄断或者具有巨额商誉的收购型公司，这样的公司往往因为大量折旧摊销而压低了账面利润；EV/EBITDA还适用于净利润亏损，但毛利、营业利益并不亏损的公司。
+EV/EBITDA估值方法不适用于固定资产更新变化较快公司；净利润亏损、毛利、营业利益均亏损的公司。资本密集、有高负债或大量现金的公司。
+EV/EBITDA和市盈率（PE）等相对估值法指标的用法一样，其倍数相对于行业平均水平或历史水平较高通常说明高估，较低说明低估，不同行业或板块有不同的估值（倍数）水平。但EV/EBITDA较PE有明显优势，首先由于不受所得税率不同的影响，使得不同国家和市场的上市公司估值更具可比性；其次不受资本结构不同的影响，公司对资本结构的改变都不会影响估值，同样有利于比较不同公司估值水平；最后，排除了折旧摊销这些非现金成本的影响（现金比账面利润重要），可以更准确的反映公司价值。但EV/EBITDA更适用于单一业务或子公司较少的公司估值，如果业务或合并子公司数量众多，需要做复杂调整，有可能会降低其准确性。
+市销率=总市值/销售收入
+市销率估值法的优点是，销售收入最稳定，波动性小；并且营业收入不受公司折旧、存货、非经常性收支的影响，不像利润那样易操控；收入不会出现负值，不会出现没有意义的情况，即使净利润为负也可用。所以，市销率估值法可以和市盈率估值法形成良好的补充。市销率估值法的缺点是，它无法反映公司的成本控制能力，即使成本上升、利润下降，不影响销售收入，市销率依然不变。另外，市销率（PS）会随着公司销售收入规模扩大而下降；营业收入规模较大的公司，PS较低。
+该估值指标与市销率（P/S）的原理和用法相同，主要用作衡量一家利润率暂时低于行业平均水平甚至是处于亏损状态公司的价值，其前提条件是投资者预期这家公司的利润率未来会达到行业平均水平。使用销售收入的用意是销售收入代表市场份额和公司的规模，如果公司能够有效改善运营，将可实现行业平均或预期的盈利水平。该指标只能用于同行业内公司的比较，通过比较并结合业绩改善预期得出一个合理的倍数后，乘以每股销售收入，既可得出符合公司价值的目标价。
+
+股票市场是一个杠杆的世界，一所公司一年赚10亿，他的市场价值可能在于100亿元，也即是即使估值相对区间较低，失去未来盈利能力的公司，价值是会比以往有所下降的。[1]
+
+<div class="mw-parser-output"><p><b>资产估值</b>（英語：<span lang="en">Asset valuation</span>）是指评估一项投资组合、一家企业、一项投资或资产负债表项目价值的过程。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="zh" dir="ltr"><h2 id="mw-toc-heading">目录</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC"><span class="tocnumber">1</span> <span class="toctext">公司估值</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#%E7%9B%B8%E5%AF%B9%E4%BC%B0%E5%80%BC%E6%B3%95"><span class="tocnumber">1.1</span> <span class="toctext">相对估值法</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#%E7%BB%9D%E5%AF%B9%E4%BC%B0%E5%80%BC%E6%B3%95"><span class="tocnumber">1.2</span> <span class="toctext">绝对估值法</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#%E4%BC%B0%E5%80%BC%E4%B8%8B%E7%A7%BB"><span class="tocnumber">1.3</span> <span class="toctext">估值下移</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99"><span class="tocnumber">2</span> <span class="toctext">參考資料</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5"><span class="tocnumber">3</span> <span class="toctext">外部链接</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".E5.85.AC.E5.8F.B8.E4.BC.B0.E5.80.BC"></span><span class="mw-headline" id="公司估值">公司估值</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%B5%84%E4%BA%A7%E4%BC%B0%E5%80%BC&amp;action=edit&amp;section=1" title="编辑章节：公司估值">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E7.9B.B8.E5.AF.B9.E4.BC.B0.E5.80.BC.E6.B3.95"></span><span class="mw-headline" id="相对估值法">相对估值法</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%B5%84%E4%BA%A7%E4%BC%B0%E5%80%BC&amp;action=edit&amp;section=2" title="编辑章节：相对估值法">编辑</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/%E5%B8%82%E7%9B%88%E7%8E%87" title="市盈率">市盈率</a>估值法：合理股价=每股收益（EPS）X合理的市盈率。其中要注意的是，在收益周期性明显的行业和企业，其估值应以多年的平均每股收益来替代最近一年的每股收益，这样才能更合理的使用市盈率来估值。</li>
+<li><a href="/wiki/%E5%B8%82%E5%87%80%E7%8E%87" title="市净率">市净率</a>（PB）估值法：合理股价=每股净资产X合理的市净率。较适用于高风险行业以及周期性较强行业，拥有大量固定资产并且账面价值相对较为稳定的企业；银行、保险和其他流动资产比例高的公司；以及绩差及重组型公司。PB估值方法不适用于账面价值的重置成本变动较快的公司；固定资产较少的，商誉或知识财产权较多的服务行业。</li>
+<li><a href="/wiki/PEG" class="mw-disambig" title="PEG">PEG</a>估值法：相对更适用于高成长性企业；一般不适用成熟行业。</li>
+<li>EV/EBITDA估值法（企业价值与利息、税项、折旧及摊销前盈利的比率）:又称企业价值倍数，公式为，EV÷EBITDA</li></ul>
+<p>EV代表企业价值
+</p><p>企业价值（EV） =市值+（总负债-总现金） =市值+净负债
+</p><p>EBITDA代表未扣除利息、所得税、折旧与摊销前的盈余：
+</p><p>EBITDA=营业利润+折旧费用+摊销费用
+</p><p>其中 营业利润=营业收入-营业费用-管理费用
+</p><p>EV/EBITDA估值方法一般适用于资本密集、准垄断或者具有巨额商誉的收购型公司，这样的公司往往因为大量折旧摊销而压低了账面利润；EV/EBITDA还适用于净利润亏损，但毛利、营业利益并不亏损的公司。
+EV/EBITDA 估值方法不适用于固定资产更新变化较快公司；净利润亏损、毛利、营业利益均亏损的公司。资本密集、有高负债或大量现金的公司。
+EV/EBITDA和市盈率（PE）等相对估值法指标的用法一样，其倍数相对于行业平均水平或历史水平较高通常说明高估，较低说明低估，不同行业或板块有不同的估值（倍数）水平。但EV/EBITDA 较PE有明显优势，首先由于不受所得税率不同的影响，使得不同国家和市场的上市公司估值更具可比性；其次不受资本结构不同的影响，公司对资本结构的改变都不会影响估值，同样有利于比较不同公司估值水平；最后，排除了折旧摊销这些非现金成本的影响（现金比账面利润重要），可以更准确的反映公司价值。但EV/EBITDA更适用于单一业务或子公司较少的公司估值，如果业务或合并子公司数量众多，需要做复杂调整，有可能会降低其准确性。
+</p>
+<ul><li><a href="/wiki/%E5%B8%82%E9%94%80%E7%8E%87" title="市销率">市销率</a>（P/S）估值法：市销率也称价格营收比，是股票市值与销售收入（营业收入）的比率。</li></ul>
+<p>市销率=总市值/销售收入
+市销率估值法的优点是，销售收入最稳定，波动性小；并且营业收入不受公司折旧、存货、非经常性收支的影响，不像利润那样易操控；收入不会出现负值，不会出现没有意义的情况，即使净利润为负也可用。所以，市销率估值法可以和市盈率估值法形成良好的补充。市销率估值法的缺点是，它无法反映公司的成本控制能力，即使成本上升、利润下降，不影响销售收入，市销率依然不变。另外，市销率（PS）会随着公司销售收入规模扩大而下降；营业收入规模较大的公司，PS较低。
+</p>
+<ul><li>清算价值法:</li>
+<li>综合估值法（sum of parts）：即将各项业务分开估值，最后汇总。</li>
+<li>EV/销售收入（EV/sales）：计算方法为：企业价值（EV）÷主营业务收入</li></ul>
+<p>该估值指标与市销率（P/S）的原理和用法相同，主要用作衡量一家利润率暂时低于行业平均水平甚至是处于亏损状态公司的价值，其前提条件是投资者预期这家公司的利润率未来会达到行业平均水平。使用销售收入的用意是销售收入代表市场份额和公司的规模，如果公司能够有效改善运营，将可实现行业平均或预期的盈利水平。该指标只能用于同行业内公司的比较，通过比较并结合业绩改善预期得出一个合理的倍数后，乘以每股销售收入，既可得出符合公司价值的目标价。
+</p>
+<ul><li>RNAV估值法：计算公式：RNAV =（物业面积×市场均价－净负债）／总股本</li>
+<li>Gordon估值法：</li></ul>
+<p><br>
+</p>
+<h3><span id=".E7.BB.9D.E5.AF.B9.E4.BC.B0.E5.80.BC.E6.B3.95"></span><span class="mw-headline" id="绝对估值法">绝对估值法</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%B5%84%E4%BA%A7%E4%BC%B0%E5%80%BC&amp;action=edit&amp;section=3" title="编辑章节：绝对估值法">编辑</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>现金流量折现法：
+<ul><li>DCF（Discounting cash flow）估值法：指将项目或资产在生命期内将要产生的现金流折现，计算出当前价值的一种评估方法，通常适用于项目投资、商业地产估值等。</li>
+<li>DDM估值法：</li></ul></li>
+<li><a href="/wiki/%E6%9C%9F%E6%9D%83%E5%AE%9A%E4%BB%B7" title="期权定价">期权定价</a>法(Black-Scholes)：</li></ul>
+<h3><span id=".E4.BC.B0.E5.80.BC.E4.B8.8B.E7.A7.BB"></span><span class="mw-headline" id="估值下移">估值下移</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%B5%84%E4%BA%A7%E4%BC%B0%E5%80%BC&amp;action=edit&amp;section=4" title="编辑章节：估值下移">编辑</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>根據公司的業務出現變化，資產價值下降 (如擁有物業的價值下降)，或未來前景轉差等因素，都將可導致估值下移的可能。</li></ul>
+<p>股票市場是一個槓桿的世界，一所公司一年賺10億，他的市場價值可能在於100億元，也即是即使估值相對區間較低，失去未來盈利能力的公司，價值是會比以往有所下降的。<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</p>
+<h2><span id=".E5.8F.83.E8.80.83.E8.B3.87.E6.96.99"></span><span class="mw-headline" id="參考資料">參考資料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%B5%84%E4%BA%A7%E4%BC%B0%E5%80%BC&amp;action=edit&amp;section=5" title="编辑章节：參考資料">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://haofeng.com.hk/%E6%8A%95%E8%B3%87%E5%B0%88%E5%8D%80/%E8%82%A1%E7%A5%A8%E6%8A%95%E8%B3%87%E6%95%99%E5%AD%B8/%E4%BB%80%E9%BA%BC%E6%98%AF%E4%BC%B0%E5%80%BC%E4%B8%8B%E7%A7%BB">什麼是估值下移?</a>. 皓丰投資教育中心.  <span class="reference-accessdate"> [<span class="nowrap">2019-12-07</span>]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200407191914/http://haofeng.com.hk/%E6%8A%95%E8%B3%87%E5%B0%88%E5%8D%80/%E8%82%A1%E7%A5%A8%E6%8A%95%E8%B3%87%E6%95%99%E5%AD%B8/%E4%BB%80%E9%BA%BC%E6%98%AF%E4%BC%B0%E5%80%BC%E4%B8%8B%E7%A7%BB">存档</a>于2020-04-07）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%B5%84%E4%BA%A7%E4%BC%B0%E5%80%BC&amp;rft.atitle=%E4%BB%80%E9%BA%BC%E6%98%AF%E4%BC%B0%E5%80%BC%E4%B8%8B%E7%A7%BB%3F&amp;rft.genre=unknown&amp;rft.jtitle=%E7%9A%93%E4%B8%B0%E6%8A%95%E8%B3%87%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83&amp;rft_id=http%3A%2F%2Fhaofeng.com.hk%2F%25E6%258A%2595%25E8%25B3%2587%25E5%25B0%2588%25E5%258D%2580%2F%25E8%2582%25A1%25E7%25A5%25A8%25E6%258A%2595%25E8%25B3%2587%25E6%2595%2599%25E5%25AD%25B8%2F%25E4%25BB%2580%25E9%25BA%25BC%25E6%2598%25AF%25E4%25BC%25B0%25E5%2580%25BC%25E4%25B8%258B%25E7%25A7%25BB&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span></span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%B5%84%E4%BA%A7%E4%BC%B0%E5%80%BC&amp;action=edit&amp;section=6" title="编辑章节：外部链接">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.12manage.com/methods_dcf_zh.html">DCF，贴现现金流</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210121170307/http://www.12manage.com/methods_dcf_zh.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://finance.sina.com.cn/stock/stocklearnclass/20050817/13331894571.shtml">公司估值法：没有最佳只有最适用</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20200407191924/http://finance.sina.com.cn/stock/stocklearnclass/20050817/13331894571.shtml">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929094519/http://www.xvalue.cn/news_view.asp?newsid=163">关于DCF估值</a></li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q1322967" title="編輯維基數據鏈接"><img alt="編輯維基數據鏈接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="整合规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4078594-4">4078594-4</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw2277
+Cached time: 20230804102949
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.190 seconds
+Real time usage: 0.263 seconds
+Preprocessor visited node count: 200/1000000
+Post‐expand include size: 5814/2097152 bytes
+Template argument size: 155/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1698/5000000 bytes
+Lua time usage: 0.132/10.000 seconds
+Lua memory usage: 16248775/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  229.589      1 -total
+ 54.66%  125.490      1 Template:Lang-en
+ 21.27%   48.830      1 Template:Reflist
+ 20.05%   46.041      1 Template:Authority_control
+ 19.02%   43.661      1 Template:Cite_web
+  0.68%    1.555      2 Template:Wayback
+  0.46%    1.053      1 Template:Column-count
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:566961-0!canonical!zh and timestamp 20230804102948 and revision id 74277219. Rendering was triggered because: page-view
+ -->
+</div>
