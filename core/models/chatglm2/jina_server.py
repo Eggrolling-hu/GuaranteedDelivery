@@ -6,6 +6,7 @@ from transformers import AutoModel, AutoTokenizer
 from typing import Dict, Tuple, Union, Optional
 from torch.nn import Module
 
+import platform
 import logging
 import torch
 import pickle
@@ -143,7 +144,8 @@ class ChatGLM2(Executor):
 
 if __name__ == "__main__":
     model_name = "/media/shadowmotion/0CD113590CD11359/code/llm/chatglm/chatglm2-6b"
-    model_name = 'D:\\code\\llm\\chatglm\\chatglm2-6b'
+    if platform.system() == "Windows":
+        model_name = 'D:\\code\\llm\\chatglm\\chatglm2-6b'
     # lora_path = 'lora'
     lora_path = ''
     port = 50002

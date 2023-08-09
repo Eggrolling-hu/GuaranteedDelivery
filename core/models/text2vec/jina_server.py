@@ -5,6 +5,7 @@ from transformers import AutoModel, AutoTokenizer
 from typing import Dict, Optional, Tuple
 from jina import Flow
 import numpy as np
+import platform
 import torch
 
 
@@ -139,7 +140,8 @@ class Text2vecEncoder(Executor):
 
 if __name__ == "__main__":
     model_name = '/media/shadowmotion/0CD113590CD11359/code/llm/embeding/text2vec-base-chinese-paraphrase'
-    model_name = 'D:\\code\\llm\\embeding\\text2vec-base-chinese-paraphrase'
+    if platform.system() == "Windows":
+        model_name = 'D:\\code\\llm\\embeding\\text2vec-base-chinese-paraphrase'
     port = 50001
 
     f = Flow(port=port).add(
