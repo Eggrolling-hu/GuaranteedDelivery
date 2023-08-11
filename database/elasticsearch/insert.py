@@ -27,6 +27,17 @@ if __name__ == "__main__":
     with open("../../data/test_temp/all_crawl.json", "r") as f:
         crawl_dict = json.load(f)
 
+    # This is for testing error data
+    # company, year = "维远股份", "2020年报"
+    # uuid = attain_uuid(
+    #     [crawl_dict[company][year]['SECURITY_CODE'], year[:-1]], uuid_dict)
+    # print(uuid)
+    # for idx, key in enumerate(crawl_dict[company][year]):
+    #     doc = {
+    #         "text": key,
+    #     }
+    #     resp = es.index(index=str(uuid), id=idx, document=doc)
+
     for i, company in enumerate(crawl_dict):
         for year in crawl_dict[company]:
             if year not in ["2019年报", "2020年报", "2021年报"]:
