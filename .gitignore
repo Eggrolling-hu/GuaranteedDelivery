@@ -2,16 +2,19 @@
 /data
 /draft
 /notebooks/draft.ipynb
+/notebooks/ner_stl.ipynb
+/notebooks/preprocess.ipynb
 /crawler/data/*
 /crawler/wiki/data/*
 
 # Redundancy
-/core/agent/*
-/core/callback/*
-/core/chain/*
-/database/neo4j/*
-/database/pure/*
-/crawler/*
+/core/agent
+/core/callback
+/core/chain
+/database/neo4j
+/database/pure
+/crawler
+/script/warning.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
