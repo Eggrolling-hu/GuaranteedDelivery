@@ -121,29 +121,29 @@ def run(question, uuid_dict, crawl_dict, crawl_name_dict, es, f, qa_list=[]):
         f.write("数据库暂未录入\n")
 
     # -> Embedding Database
-    # f.write("= = EmbeddingDatabase = = \n")
-    # if not elastic_search_success and not extra_information_list:
-    #     index_name = f"LangChain_{uuid}"
-    #     try:
-    #         db = Weaviate(client=client, embedding=embedding,
-    #                       index_name=index_name, text_key="text", by_text=False)
+    f.write("= = EmbeddingDatabase = = \n")
+    if not elastic_search_success and not extra_information_list:
+        index_name = f"LangChain_{uuid}"
+        try:
+            db = Weaviate(client=client, embedding=embedding,
+                          index_name=index_name, text_key="text", by_text=False)
 
-    #         for word in entities:
-    #             replaced_question = question.replace(word, '')
+            for word in entities:
+                replaced_question = question.replace(word, '')
 
-    #         docs = db.similarity_search(replaced_question, k=5)
+            docs = db.similarity_search(replaced_question, k=5)
 
-    #         for i, e in enumerate(docs):
-    #             f.write(
-    #                 f"ED: = = = = = = = = = = = k[{i}] = = = = = = = = = = =\n")
-    #             f.write(e.page_content)
-    #             f.write("\n")
-    #             extra_information_list.append(e.page_content)
-    #     except:
-    #         f.write("数据库暂未录入\n")
+            for i, e in enumerate(docs):
+                f.write(
+                    f"ED: = = = = = = = = = = = k[{i}] = = = = = = = = = = =\n")
+                f.write(e.page_content)
+                f.write("\n")
+                extra_information_list.append(e.page_content)
+        except:
+            f.write("数据库暂未录入\n")
 
-    #     response = encode(question, history=[])
-    #     answer = response[0].text
+        response = encode(question, history=[])
+        answer = response[0].text
 
     f.write("= = AnswerGeneration = = \n")
     extra_information = "\n".join(extra_information_list)
