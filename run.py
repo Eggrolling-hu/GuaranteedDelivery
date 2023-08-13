@@ -60,7 +60,7 @@ if __name__ == "__main__":
                          crawl_name_dict, es, f)
             item["answer"] = answer
 
-            with open(f"./data/submit/{formatted_time}.jsonl", "w") as file:
+            with open(f"./data/submit/{formatted_time}.jsonl", "a") as file:
                 line = json.dumps(item, ensure_ascii=False)
                 line = line.replace('\\n', '')
                 file.write(line + '\n')
