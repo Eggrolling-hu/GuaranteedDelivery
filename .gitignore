@@ -10,7 +10,7 @@
 # Redundancy
 /core/agent
 /core/callback
-/core/chain
+/core/chain/retrieval_qa.py
 /database/neo4j
 /database/pure
 /crawler

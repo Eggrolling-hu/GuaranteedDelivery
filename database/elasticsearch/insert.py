@@ -38,20 +38,36 @@ if __name__ == "__main__":
     #     }
     #     resp = es.index(index=str(uuid), id=idx, document=doc)
 
+    # This is for indexing each document
+    # for i, company in enumerate(crawl_dict):
+    #     for year in crawl_dict[company]:
+    #         if year not in ["2019年报", "2020年报", "2021年报"]:
+    #             continue
+    #         try:
+    #             uuid = attain_uuid(
+    #                 [crawl_dict[company][year]['SECURITY_CODE'], year[:-1]], uuid_dict)
+    #             for idx, key in enumerate(crawl_dict[company][year]):
+    #                 doc = {
+    #                     "text": key,
+    #                 }
+    #                 resp = es.index(index=str(uuid), id=idx, document=doc)
+    #         except:
+    #             print(f"error {company} {year}")
+    #     if i % 99 == 0 and i > 0:
+    #         print(f"insert {3*(i+1)} file")
+    # print(f"insert {3*len(crawl_dict)} file")
+
+    # This is for inserting a general property
+    property_set = set()
     for i, company in enumerate(crawl_dict):
         for year in crawl_dict[company]:
             if year not in ["2019年报", "2020年报", "2021年报"]:
                 continue
-            try:
-                uuid = attain_uuid(
-                    [crawl_dict[company][year]['SECURITY_CODE'], year[:-1]], uuid_dict)
-                for idx, key in enumerate(crawl_dict[company][year]):
-                    doc = {
-                        "text": key,
-                    }
-                    resp = es.index(index=str(uuid), id=idx, document=doc)
-            except:
-                print(f"error {company} {year}")
-        if i % 99 == 0 and i > 0:
-            print(f"insert {3*(i+1)} file")
-    print(f"insert {3*len(crawl_dict)} file")
+            for idx, key in enumerate(crawl_dict[company][year]):
+                property_set.add(key)
+
+    for idx, key in enumerate(property_set):
+        doc = {
+            "text": key,
+        }
+        resp = es.index(index="all_property", id=idx, document=doc)
