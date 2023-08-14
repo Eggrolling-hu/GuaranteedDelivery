@@ -1,4 +1,5 @@
 from core.models.chatglm2.jina_client import encode
+from core.prompt import answer_open_question_prompt
 from core.prompt import intent_recognition_prompt
 from core.prompt import entity_recognition_prompt
 from core.prompt import answer_generation_prompt
@@ -53,6 +54,7 @@ def run(question, uuid_dict, crawl_dict, crawl_name_dict, es, f, qa_list=[]):
 
     if "检索问题" not in parse_intent_recognition(response[0].text):
         f.write("开放问题直接作答\n")
+        prompt = answer_open_question_prompt(question)
         response = encode(question, history=[])
         answer = response[0].text
         f.write(f"R:\n{answer}\n\n")
@@ -79,46 +81,46 @@ def run(question, uuid_dict, crawl_dict, crawl_name_dict, es, f, qa_list=[]):
     extra_information_list = []
 
     # -> ElasticSearch
-    f.write("= = ElasticSearch = = \n")
-    index_name = f"{uuid}"
-    index_name = "all_property"
-    try:
-        for word in entities:
-            replaced_question = question.replace(word, '')
+    # f.write("= = ElasticSearch = = \n")
+    # index_name = f"{uuid}"
+    # index_name = "all_property"
+    # try:
+    #     for word in entities:
+    #         replaced_question = question.replace(word, '')
 
-        search_query = {
-            "query": {
-                "match": {
-                    "text": replaced_question
-                }
-            }
-        }
+    #     search_query = {
+    #         "query": {
+    #             "match": {
+    #                 "text": replaced_question
+    #             }
+    #         }
+    #     }
 
-        search_resp = es.search(index=index_name, body=search_query)
+    #     search_resp = es.search(index=index_name, body=search_query)
 
-        docs = search_resp["hits"]["hits"][:50]
+    #     docs = search_resp["hits"]["hits"][:50]
 
-        n = 0
-        for i, e in enumerate(docs):
-            try:
-                property_name = e['_source']['text']
-                company = crawl_name_dict[file_name]
-                year = file_name.split("__")[4]+"报"
-                property_value = crawl_dict[company][year][property_name]
-                if not property_value or property_value in ["None", "null"]:
-                    continue
-                f.write(
-                    f"ES: = = = = = = = = = = = k[{n}] = = = = = = = = = = =\n")
-                f.write(e['_source']['text'])
-                f.write("\n")
-            except:
-                continue
-            extra_information_list.append(f"{property_name}是{property_value}")
-            n += 1
-            if n > 3:
-                break
-    except:
-        f.write("数据库暂未录入\n")
+    #     n = 0
+    #     for i, e in enumerate(docs):
+    #         try:
+    #             property_name = e['_source']['text']
+    #             company = crawl_name_dict[file_name]
+    #             year = file_name.split("__")[4]+"报"
+    #             property_value = crawl_dict[company][year][property_name]
+    #             if not property_value or property_value in ["None", "null"]:
+    #                 continue
+    #             f.write(
+    #                 f"ES: = = = = = = = = = = = k[{n}] = = = = = = = = = = =\n")
+    #             f.write(e['_source']['text'])
+    #             f.write("\n")
+    #         except:
+    #             continue
+    #         extra_information_list.append(f"{property_name}是{property_value}")
+    #         n += 1
+    #         if n > 3:
+    #             break
+    # except:
+    #     f.write("数据库暂未录入\n")
 
     # -> Embedding Database
     f.write("= = EmbeddingDatabase = = \n")
