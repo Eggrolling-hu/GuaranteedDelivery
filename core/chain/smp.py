@@ -1,9 +1,10 @@
-from core.models.chatglm2.jina_client import encode
+# from core.models.chatglm2.jina_client import encode
 from core.prompt import answer_open_question_prompt
 from core.prompt import intent_recognition_prompt
 from core.prompt import entity_recognition_prompt
 from core.prompt import answer_generation_prompt
 from core.data import JinaEmbeddings
+from core.llm.web_llm import WebLLM
 
 from langchain.vectorstores import Weaviate
 from elasticsearch import Elasticsearch
@@ -42,7 +43,19 @@ def attain_uuid(entities, uuid_dict):
     return None, None
 
 
+class T:
+    text = ""
+
+
 def run(client, embedding, question, uuid_dict, crawl_dict, crawl_name_dict, es, f, table_paths, txt_paths):
+
+    llm = WebLLM()
+
+    def encode(prompt, history):
+        response = T()
+        response.text = llm(prompt)
+        return [response]
+
     f.write("= = 流程开始 = = \n")
     f.write(f"Q:\n{question}\n\n")
 
@@ -55,7 +68,7 @@ def run(client, embedding, question, uuid_dict, crawl_dict, crawl_name_dict, es,
     if "检索问题" not in parse_intent_recognition(response[0].text):
         f.write("开放问题直接作答\n")
         prompt = answer_open_question_prompt(question)
-        response = encode(question, history=[])
+        response = encode(prompt, history=[])
         answer = response[0].text
         f.write(f"R:\n{answer}\n\n")
         return answer
