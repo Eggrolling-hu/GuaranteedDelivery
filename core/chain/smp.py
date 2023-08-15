@@ -42,7 +42,7 @@ def attain_uuid(entities, uuid_dict):
     return None, None
 
 
-def run(question, uuid_dict, crawl_dict, crawl_name_dict, es, f, qa_list=[]):
+def run(client, embedding, question, uuid_dict, crawl_dict, crawl_name_dict, es, f, table_paths, txt_paths):
     f.write("= = 流程开始 = = \n")
     f.write(f"Q:\n{question}\n\n")
 
@@ -66,11 +66,11 @@ def run(question, uuid_dict, crawl_dict, crawl_name_dict, es, f, qa_list=[]):
     response = encode(prompt, history=[])
     f.write(f"R:\n{response[0].text}\n\n")
     entities = parse_entity_recognition(response[0].text)
-    uuid, file_name = attain_uuid(entities, uuid_dict)
+    uuid, base_name = attain_uuid(entities, uuid_dict)
     f.write(f"R:\n{uuid}\n\n")
     if not uuid and entities[0][0] == '年':
         entities[0] = entities[0][1:]
-        uuid, file_name = attain_uuid(entities, uuid_dict)
+        uuid, base_name = attain_uuid(entities, uuid_dict)
         f.write(f"R:\n fixed company name {entities[0]}\n\n")
 
     if not uuid:
@@ -85,8 +85,9 @@ def run(question, uuid_dict, crawl_dict, crawl_name_dict, es, f, qa_list=[]):
     # index_name = f"{uuid}"
     # index_name = "all_property"
     # try:
+    #     replaced_question = question
     #     for word in entities:
-    #         replaced_question = question.replace(word, '')
+    #         replaced_question = replaced_question.replace(word, '')
 
     #     search_query = {
     #         "query": {
@@ -104,8 +105,8 @@ def run(question, uuid_dict, crawl_dict, crawl_name_dict, es, f, qa_list=[]):
     #     for i, e in enumerate(docs):
     #         try:
     #             property_name = e['_source']['text']
-    #             company = crawl_name_dict[file_name]
-    #             year = file_name.split("__")[4]+"报"
+    #             company = crawl_name_dict[base_name]
+    #             year = base_name.split("__")[4]+"报"
     #             property_value = crawl_dict[company][year][property_name]
     #             if not property_value or property_value in ["None", "null"]:
     #                 continue
@@ -124,28 +125,78 @@ def run(question, uuid_dict, crawl_dict, crawl_name_dict, es, f, qa_list=[]):
 
     # -> Embedding Database
     f.write("= = EmbeddingDatabase = = \n")
+
     if not elastic_search_success and not extra_information_list:
+        print("= = EmbeddingDatabase = = ")
         index_name = f"LangChain_{uuid}"
-        try:
-            db = Weaviate(client=client, embedding=embedding,
-                          index_name=index_name, text_key="text", by_text=False)
+        db = Weaviate(client=client, embedding=embedding,
+                      index_name=index_name, text_key="text", by_text=False)
 
-            for word in entities:
-                replaced_question = question.replace(word, '')
+        for ii in range(2):
+            try:
+                replaced_question = question
+                for word in entities:
+                    print(word)
+                    replaced_question = replaced_question.replace(word, '')
 
-            docs = db.similarity_search(replaced_question, k=5)
+                print("replaced_question", replaced_question)
+                docs = db.similarity_search(replaced_question, k=5)
 
-            for i, e in enumerate(docs):
-                f.write(
-                    f"ED: = = = = = = = = = = = k[{i}] = = = = = = = = = = =\n")
-                f.write(e.page_content)
-                f.write("\n")
-                extra_information_list.append(e.page_content)
-        except:
-            f.write("数据库暂未录入\n")
+                for i, e in enumerate(docs):
+                    f.write(
+                        f"ED: = = = = = = = = = = = k[{i}] = = = = = = = = = = =\n")
+                    f.write(e.page_content)
+                    f.write("\n")
+                    extra_information_list.append(e.page_content)
+                break
+            except:
+                f.write("数据库暂未录入\n")
+                if ii > 0:
+                    break
 
-        response = encode(question, history=[])
-        answer = response[0].text
+                for i, file_name in enumerate(table_paths):
+                    if base_name not in file_name:
+                        continue
+                    try:
+                        print(f"To insert -> {base_name}")
+                        texts = []
+                        with open(file_name, "r", encoding="utf-8") as ff:
+                            for i, line in enumerate(ff):
+                                if i > 0 and i % 1000 == 0:
+                                    db.add_texts(texts=texts)
+                                    print(f"表格数据已注入{i}")
+                                    texts = []
+                                if len(line) <= 1:
+                                    continue
+                                texts.append(line[:-1])
+                            db.add_texts(texts=texts)
+                        print(f"表格数据已注入{i}")
+                    except:
+                        print(f"error: {file_name}")
+
+                for i, file_name in enumerate(txt_paths):
+                    if base_name not in file_name:
+                        continue
+                    try:
+                        texts = []
+                        with open(file_name, "r", encoding="utf-8") as ff:
+                            for i, line in enumerate(ff):
+                                if i > 0 and i % 1000 == 0:
+                                    db.add_texts(texts=texts)
+                                    print(f"文字数据已注入{i}")
+                                    texts = []
+                                if len(line) <= 1:
+                                    continue
+                                texts.append(line[:-1])
+                            db.add_texts(texts=texts)
+                            print(f"文字数据已注入{i}")
+                    except:
+                        print(f"error: {file_name}")
+
+        print(extra_information_list)
+
+        # response = encode(question, history=[])
+        # answer = response[0].text
 
     f.write("= = AnswerGeneration = = \n")
     extra_information = "\n".join(extra_information_list)

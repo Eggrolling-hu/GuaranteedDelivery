@@ -1,4 +1,3 @@
-
 from core.data import JinaEmbeddings
 from core.chain.smp import run
 
@@ -7,6 +6,7 @@ from elasticsearch import Elasticsearch
 
 import jsonlines
 import weaviate
+import glob
 import json
 import os
 
@@ -32,6 +32,12 @@ if __name__ == "__main__":
         crawl_dict = json.load(f)
     with open("./data/test_temp/name_map_crawl.json", "r") as f:
         crawl_name_dict = json.load(f)
+
+    TAB_DIRECTORY = "./data/chatglm_llm_fintech_raw_dataset/alltable"
+    table_paths = glob.glob(TAB_DIRECTORY + '/*.cal')
+
+    TXT_DIRECTORY = "./data/chatglm_llm_fintech_raw_dataset/alldata"
+    txt_paths = glob.glob(TXT_DIRECTORY + '/*')
 
     # question = "平安银行在2020年对联营企业和合营企业的投资收益是多少元？"
 
@@ -61,8 +67,8 @@ if __name__ == "__main__":
         for i, item in enumerate(questions_array):
             print(f"Process {i} question")
             question = item['question']
-            answer = run(question, uuid_dict, crawl_dict,
-                         crawl_name_dict, es, f)
+            answer = run(client, embedding, question, uuid_dict, crawl_dict,
+                         crawl_name_dict, es, f, table_paths, txt_paths)
             item["answer"] = answer
 
             with open(f"./data/submit/{formatted_time}.jsonl", "a") as file:
